@@ -1,0 +1,144 @@
+Placa de Video MSI GeForce RTX 4070 Ti Ventus 3x OC, 12GB, GDDR6X, 192-bits, 912-V513-001
+Placa de Video MSI GeForce RTX 4070 Ti Gaming X Trio, 12GB, GDDR6X, 192-bits, 912-V513-008
+Placa de Video PNY GeForce GTX 1660 Ti, 6GB, GDDR6, 192-bit, VCG1660T6DFPPB1-NAC
+Placa de Video Gigabyte GeForce RTX 4070 Ti Gaming OC, 12GB, GDDR6X, 192-bits, GV-N407TGAMING OC-12GD
+Placa de Video Gigabyte GeForce RTX 4070 Ti Eagle OC, 12GB, GDDR6X, 192-bits, GV-N407TEAGLE OC-12GD
+Placa de Video Gigabyte GeForce GTX 1660 Super Windforce OC, 6GB, GDDR6, 192-bit, GV-N166SOC-6GD-NAC
+Placa de Video Gigabyte GeForce GTX 1660 OC, 6GB, GDDR5, 192-bit, GV-N1660OC-6GD-NAC
+Placa de Video ASRock Radeon RX 7900 XT, 20GB, GDDR6, 320-bit, 90-GA43ZZ-00UANL
+Placa de Video Sapphire Radeon RX 7900 XT Gaming, 20GB, GDDR6, 320-bit, 21323-01-20G
+Placa de Video Galax Geforce RTX 3060 Ti SG 1-Click OC Plus, 8GB, GDDR6X, 256-Bit, 36ISM6MD1GSP
+Placa de Video Galax Geforce RTX 3060 1-Click OC, 8GB, GDDR6, 128-Bit, 36NSL8MD6OCC
+Placa de Video Asus GeForce RTX 2060 Dual EVO, 12GB, GDDR6, 192-bit, DUAL-RTX2060-12G-EVO
+Placa de Video Gigabyte GeForce RTX 3060 Ti Eagle OC, LHR, 8GB, GDDR6, 256-bit, GV-N306TEAGLE OC-8GD REV 2.0
+Placa de Video Asus GeForce GTX 1650 Phoenix V2 OC, 4GB, GDDR6, 128-bit, PH-GTX1650-O4GD6-P-V2
+Placa de Video ASRock Intel ARC A380 Challenger ITX, 6GB, GDDR6, 96-bit, A380 CLI 6GO
+Placa de Video ASRock Intel ARC A750 Challenger D OC, 8GB, GDDR6, 256-bit, A750 CLD 8GO
+Placa de Video Zotac GeForce RTX 3070 Twin Edge OC White Edition LHR, 8GB, GDDR6, 256-Bit, ZT-A30700J-10PLHR
+Placa de Video Zotac GeForce RTX 4080 Gaming Trinity OC, 16GB, GDDR6X, 256-bits, ZT-D40810J-10P
+Placa de Video Zotac GeForce RTX 4080 Gaming AMP Extreme AIRO, 16GB, GDDR6X, 256-bits, ZT-D40810B-10P
+Placa de Video Gigabyte GeForce RTX 4080 Gaming OC, 16GB, GDDR6X, 256-bits, GV-N4080GAMING OC-16GD
+Placa de Video Gigabyte GeForce RTX 4080 Eagle OC, 16GB, GDDR6X, 256-bits, GV-N4080EAGLE-OC-16GD-G10
+Placa de Video MSI GeForce RTX 4080 Ventus 3X OC, 16GB, GDDR6X, 256-bits, 912-V511-013
+Placa de Video Afox GeForce GTX 750TI, 2GB, GDDR5, 128-bit, AF750TI-2048D5H5-V2
+Placa de Video Asus GeForce RTX 3050 Dual OC, 8GB, GDDR6, 128-bit, DUAL-RTX3050-O8G-NAC
+Placa de Video Galax GeForce GTX 1630 EX 1-Click OC, 4GB, GDDR6, 64-Bit, 63NQL4HP66EX
+Placa de Video Zotac GeForce RTX 4090 Trinity OC, 24GB, GDDR6X, 384-bit, ZT-D40900J-10P
+Placa de Video Zotac GeForce RTX 4090 AMP Extreme AIRO, 24GB, GDDR6X, 384-bit, ZT-D40900B-10P
+Placa de Video Gainward GeForce GT 1030, 2GB, DDR4, 64-bit, NEC103000646-1082F
+Placa de Video Afox GeForce GT 710, 2GB, DDR3, 64-bit, AF710-2048D3L5
+Placa de Video Afox Radeon R5 230, 1GB, DDR3, 64-bit, AFR5230-1024D3L9-V2
+Placa de Video Afox GeForce GT240, 1GB, DDR3, 128-Bit, AF240-1024D3L2-V2
+Placa de Video Afox GeForce GT 610, 2GB, DDR3, 64-Bit, AF610-2048D3L7-V6
+Placa de Video Afox GeForce GT610, 1GB, DDR3, 64-Bit, AF610-1024D3L5
+Placa de Video XFX Radeon RX 6400 Speedster, 4GB, GDDR6, 64-bit, RX-64XL4SFG2
+Placa de Video Afox GeForce GT220, 1GB, DDR3, 128-Bit, AF220-1024D3L2
+Placa de Video ASRock Radeon RX 6500 XT Challenger ITX OC, 4GB, GDDR6, 64-Bit, 90-GA3BZZ-00UANF
+Placa de Video ASRock Radeon RX 6650 XT Challenger D OC, 8GB, GDDR6, 128-bit, 90-GA3RZZ-00UANF
+Placa de Video Gigabyte GeForce RTX 3050 Eagle OC, 8GB, GDDR6, 128-bit, GV-N3050EAGLE-OC-8GD
+Placa de Video Asus GeForce RTX 3050 TUF Gaming OC, 8GB, GDDR6, 128-bit, TUF-RTX3050-O8G-GAMING
+Placa de Video Afox GeForce GT730, 4GB, DDR3, 128-bit, AF730-4096D3L6
+Placa de Video MSI GeForce RTX 3060 Ventus 3X OC, LHR, 12GB, GDDR6, 192-bit, 912-V397-227-NAC
+Placa de Video PowerColor Radeon RX 6400 Low Profile, 4GB, GDDR6, 64-bit, AXRX-6400-LP-4GBD6-DH
+Placa de Video PowerColor Radeon RX 6500 XT ITX, 4GB, GDDR6, 64-bit, AXRX-6500XT-4GBD6-DH
+Placa de Video PNY Quadro RTX A4500, 20GB, GDDR6, 320-bit, VCNRTXA4500-PB
+Placa de Video PNY Quadro RTX A2000, 12GB, GDDR6, 192-bit, VCNRTXA200012GB-PB
+Placa de Video PNY Quadro RTX A2000, 6GB, GDDR6, 192-bit, VCNRTXA2000-PB
+Placa de Video PNY Quadro T1000, 4GB, GDDR6, 128-bit, VCNT1000-PB
+Placa de Video PNY Quadro T1000, 8GB, GDDR6, 128-bit, VCNT10008GB-PB
+Placa de Video Gigabyte GeForce RTX 3050 Gaming OC, 8GB, GDDR6, 128-bit, GV-N3050GAMING OC-8GD
+Placa de Video ASRock Radeon RX 6650 XT Phantom Gaming D OC, 8GB, GDDR6, 128-bit, 90-GA3MZZ-00UANF
+Placa de Video ASRock Radeon RX 6400 Challenger ITX, 4GB, GDDR6, 64-Bit, 90-GA3CZZ-00UANF
+Placa de Video Asus GeForce RTX 3050 Dual OC, 8GB, GDDR6, 128-bit, DUAL-RTX3050-O8G
+Placa de Video AMD Radeon PRO W6600, 8GB, GDDR6, 128-bit, 100-506208
+Placa de Video Asus GeForce RTX 3050 Phoenix , 8GB, GDDR6, 128-bit, PH-RTX3050-8G
+Placa de Video Gigabyte Radeon RX 6500 XT Gaming OC, 4GB, GDDR6, 64-Bit, GV-R65XTGAMING OC-4GD
+Placa de Video Asus GeForce RTX 2060 Dual OC Edition, 12GB, GDDR6, 192-bit, DUAL-RTX2060-O12G-EVO
+Placa de Video ASRock Radeon RX 6600 Challenger D, 8GB, GDDR6, 128-Bit, 90-GA2RZZ-00UANF
+Placa de Video PNY Quadro RTX A5000, 24GB, GDDR6, 384-bit, VCNRTXA5000-PB
+Placa de Video PNY Quadro RTX A4000, 16GB, GDDR6, 256-bit, VCNRTXA4000-PB
+Placa de Video Gigabyte GeForce RTX 3070 Aorus Master, LHR, 8GB, GDDR6, 256-bit, GV-N3070AORUS M-8GD REV 2.0
+Placa de Video Galax GeForce GTX 1650 EX -Click OC, 4GB, GDDR6, 128-bit, 65SQL8DS66E6-NAC
+Placa de Video Gigabyte GeForce RTX 3060 Ti Gaming OC, LHR, 8GB, GDDR6, 256-bit, GV-N306TGAMING OC-8GD REV 2.0
+Placa de Video ASRock Radeon RX 6600 XT Phantom Gaming D OC, 8GB, GDDR6, 128-Bit, 90-GA2QZZ-00UANF
+Placa de Video ASRock Radeon RX 6600 XT Challenger D OC, 8GB, GDDR6, 128-Bit, 90-GA2TZZ-00UANF
+Placa de Video Asus GeForce RTX 3070 OC LHR 8GB GDDR6 Dual 256-bit, DUAL-RTX3070-O8G-V2
+Placa de Video Asus GeForce RTX 3060 Ti V2 OC LHR 8GB GDDR6 Dual 256-bit, DUAL-RTX3060TI-O8G-V2
+Placa De Video Duex Geforce GT 730 4GB DDR3 128Bit, DX GT730LP-4GD3
+Placa de Video AsRock Radeon RX 6700 XT 12GB Phantom Gaming OC Edition GDDR6 192-bit, 90-GA2EZZ-00UANF
+Placa de Video Afox Radeon R5 220 2GB DDR3 64-bit, AFR5220-2048D3L5-V2
+Placa de Video Asus GeForce RTX 2060 Dual OC Edition 6GB GDDR6 192-bit, DUAL-RTX2060-O6G-EVO
+Placa de Video Gigabyte GeForce GT 1030 2GB DDR4 Low Profile D4 64-bit, GV-N1030D4-2GL
+Placa de Video Galax GeForce GT 1030 2GB GDDR5 64-bit, 30NPH4HVQ4ST
+Placa de Video Gigabyte GeForce GT 1030 2GB GDDR5 Low Profile 64-bit, GV-N1030D5-2GL
+Placa de Video Gigabyte GeForce RTX 2060 WindForce OC, 12GB, GDDR6, 192-bit, GV-N2060WF2OC-12GD-NAC
+Placa de Video ASRock Radeon RX 7900 XTX, 24GB, GDDR6, 384-bit, 90-GA44ZZ-00UANL
+Placa de Video Sapphire Radeon RX 7900 XTX Gaming, 24GB, GDDR6, 384-bit, 21322-01-20G
+Placa de Video Galax Geforce RTX 3060 Ti 1-Click OC Plus, 8GB, GDDR6X, 256-Bit, 36ISM6MD2KCV
+Placa de Video Gigabyte GeForce RTX 4090 Gaming OC, 24GB, GDDR6X, 384-bit, GV-N4090GAMING OC-24GD
+Placa de Video Duex Radeon RX550, 4GB, GDDR5, 128-bit, DX RX550-4GB
+Placa de Video Gigabyte GeForce RTX 3050 Eagle, 8GB, GDDR6, 128-bit, GV-N3050EAGLE-8GD
+Placa de Video Gigabyte GeForce RTX 3070 Vision OC, LHR, 8GB, GDDR6, 256-bit, GV-N3070VISION OC-8GD REV 2.0
+Placa de Video Gigabyte GeForce RTX 3060 Vision OC, 12GB, GDDR6, 192-bit, GV-N3060VISION OC-12GD REV 2.0
+Placa de Video Asus GeForce RTX 3060 Dual OC, 8GB, GDDR6, 128-bit, DUAL-RTX3060-O8G
+Placa de Video Asus GeForce RTX 3060 Ti TUF Gaming OC, LHR, 8GB, GDDR6X, 256-bit, TUF-RTX3060TI-O8GD6X-GAMING
+Placa de Video Asus GeForce RTX 3080 TUF Gaming, LHR, 10GB, GDDR6X, 320-bit, TUF-RTX3080-10G-V2-GAMING-NAC
+Placa de Video Asus GeForce RTX 3080 Ti TUF Gaming, LHR, 12GB, GDDR6X, 384-bit, TUF-RTX3080TI-12G-GAMING-NAC
+Placa de Video Asus GeForce RTX 3070 Ti ROG Strix OC, 8GB, GDDR6X, 256-bit, ROG-STRIX-RTX3070TI-O8G-GAMING-NAC
+Placa de Video Asus GeForce GTX 1660 Super Phoenix OC, 6GB, GDDR6, 192-bit, PH-GTX1660S-O6G-NAC
+Placa de Video Asus GeForce RTX 3060 Ti Dual V2 OC, LHR, 8GB, GDDR6, 256-bit, DUAL-RTX3060TI-O8G-V2-NAC
+Placa de Video Asus GeForce GTX 1660 Super TUF Gaming OC, 6GB, 192-bit, TUF-GTX1660S-O6G-GAMING-NAC
+Placa de Video Zotac GeForce RTX 3090 Trinity OC, 24GB, GDDR6X, 384-bit, ZT-A30900J-10P
+Placa de Video Zotac GeForce RTX 3090 AMP Extreme Holo, 24GB, GDDR6X, 384-bit, ZT-A30900B-10P
+Placa de Video Zotac GeForce RTX 3080 Ti AMP Extreme Holo, 12GB, GDDR6X, 384-bit, ZT-A30810B-10P
+Placa de Video Zotac GeForce RTX 3080 Trinity OC White Edition LHR, 10GB, GDDR6X, 320-bit, ZT-A30800K-10PLHR
+Placa de Video Zotac GeForce RTX 3070 Ti AMP Extreme Holo, 8GB, GDDR6X, 256-Bit, ZT-A30710B-10P
+Placa de Video Zotac GeForce RTX 3070 AMP Holo LHR, 8GB, GDDR6, 256-Bit, ZT-A30700F-10PLHR
+Placa de Video Zotac GeForce RTX 3070 Twin Edge OC LHR, 8GB, GDDR6, 256-Bit, ZT-A30700H-10PLHR
+Placa de Video Zotac GeForce RTX 3060 Ti AMP White Edition LHR, 8GB, GDDR6, 256-Bit, ZT-A30610F-10PLHR
+Placa de Video Zotac GeForce RTX 3060 Ti Twin Edge OC LHR, 8GB, GDDR6, 256-Bit, ZT-A30610H-10MLHR
+Placa de Video Zotac GeForce RTX 3050 Twin Edge OC, 8GB, GDDR6, 128-bit, ZT-A30500H-10M
+Placa de Video Zotac GeForce GTX 1630, 4GB, GDDR6, 64-bit, ZT-T16300F-10L
+Placa de Video Galax Geforce RTX 4080 SG 1-Click OC, 16GB, GDDR6X, 256-bit, 48NZM6MD6LSG
+Placa de Video Zotac GeForce RTX 4080 Gaming Trinity, 16GB, GDDR6X, 256-bits, ZT-D40810D-10P
+Placa de Video Asus GeForce RTX 4080 ROG Strix Gaming OC Edition, 16GB, GDDR6X, 256-bits, ROG-STRIX-RTX4080-O16G-GAMING
+Placa de Video Asus GeForce RTX 4080 TUF Gaming OC Edition, 16GB, GDDR6X, 256-bits, TUF-RTX4080-O16G-GAMING
+Placa de Video MSI GeForce RTX 4080 Gaming X Trio, 16GB, GDDR6X, 256-bits, 912-V511-005
+Placa de Video Gigabyte Radeon RX 6900 XT Gaming OC 16GB GDDR6 2‎56-bit, GV-R69XTGAMING OC-16GD-NAC
+Placa de Video Galax GeForce RTX 3050 1-Click OC, 8GB, GDDR6, 128-bit, 35NSL8MD6ZOC-NAC
+Placa de Video ASRock Intel ARC A770 Phantom Gaming D OC, 8GB, GDDR6, 256-bit, A770 PGD 8GO
+Placa de Video Galax Geforce RTX 4090 SG 1-Click OC, 24GB, GDDR6X, 384-bit, 49NXM5MD6DSG
+Placa de Video Asus GeForce RTX 4090 TUF Gaming OC, 24GB, GDDR6X, 384-bit, TUF-RTX4090-O24G-GAMING
+Placa de Video Asus GeForce RTX 4090 ROG Strix OC, 24GB, GDDR6X, 384-bit, ROG-STRIX-RTX4090-O24G-GAMING
+Placa de Video MSI GeForce RTX 4090 Gaming Trio, 24GB, GDDR6X, 384-bits, 912-V510-014
+Placa de Video MSI GeForce RTX 4090 Suprim Liquid, 24GB, GDDR6X, 384-bits, 912-V510-007
+Placa De Video Duex Geforce GT 610, 1GB, DDR3, 64Bit, DX GT610LP-1GD3
+Placa de Video PNY Geforce RTX 3060, 12GB, GDDR6, 192-Bit, VCG306012DFBPB1
+Placa de Video Afox GeForce GTX 750TI, 4GB, GDDR5, 128-bit, AF750TI-4096D5H1
+Placa de Video Afox GeForce GT 610, 2GB, DDR3, 64-Bit, AF610-2048D3L7-V8
+Placa de Video Asus GeForce RTX 3080 Ti ROG Strix, 12GB, GDDR6X, 384-bit, ROG-STRIX-RTX3080TI-12G-GAMING
+Placa de Video Asus Radeon RX 6750 XT Dual OC Edition, 12GB, GDDR6, 192-bit, DUAL-RX6750XT-O12G
+Placa de Video Afox GeForce GT240, 1GB, DDR3, 128-Bit, AF240-1024D3L2
+Placa de Video EVGA GeForce GTX 1660 Super SC Ultra, 6GB, 192-bit, 06G-P4-1068-KR
+Placa de Video EVGA GeForce RTX 3060 XC, 12GB, GDDR6, 192-bit, 12G-P5-3657-KR
+Placa de Video EVGA GeForce RTX 3070 Ti FTW3 Ultra, LHR, 8GB, GDDR6X, 256-bit, 08G-P5-3797-KL
+Placa de Video MSI GeForce GTX 1050 TI 4GT OC, 4GB, GDDR5, 128-bit, 912-V809-2272-NAC
+Placa de Video Afox Radeon R5 230 1GB DDR3 64-bit, AFR5230-1024D3L4
+Placa de Video PNY GeForce GTX 1650, 4GB, GDDR6, 128-bit, VCG16504D6SFMPB1
+Placa de Video XFX Radeon RX 6800 XT Speedster, 16GB, GDDR6, 256-bit, RX-68XTALFD9
+Placa de Video XFX Radeon RX 6750 XT Speedster, 12GB, GDDR6, 192-bit, RX-675XYTBDP
+Placa de Video XFX Radeon RX 6750 XT Ultra Speedster, 12GB, GDDR6, 192-bit, RX-675XYLUDP
+Placa de Video XFX Radeon RX 6650 XT Speedster, 8GB, GDDR6, 128-bit, RX-665X8TBDY
+Placa de Video XFX Radeon RX 6600 XT, 8GB, GDDR6, 128-bit, RX-66XT8DFDQ
+Placa de Video XFX Radeon RX 6600, 8GB, GDDR6, 128-bit, RX-66XL8LFDQ
+Placa de Video XFX Radeon RX 6500 XT, 4GB, GDDR6, 64-bit, RX-65XT4DBDQ
+Placa de Video PNY Quadro T400, 4GB, GDDR6, 64-bit, VCNT4004GB-PB
+Placa de Video MSI GeForce RTX 3070 Suprim LHR, 8GB, GDDR6, 256-bit, 912-V390-412
+Placa de Video MSI GeForce RTX 2060 Ventus GP OC, 6GB, GDDR6, 192-bit, 912-V375-804
+Placa de Video MSI GeForce RTX 2060 Ventus GP, 6GB, GDDR6, 192-bit, 912-V375-824
+Placa de Video MSI GeForce RTX 3070 TI Gaming X Trio, 8GB, GDDR6X, 256-bits, 912-V505-009
+Placa de Video MSI GeForce RTX 3070 Ti Suprim X, 8GB, GDDR6X, 256-bit, 912-V505-008
+Placa de Video MSI GeForce GTX 1660 Super Ventus XS OC, 6GB, GDDR6, 192-bit, 912-V375-644
+Placa de Video Asus GeForce RTX 3060 TI V2 Mini OC Edition, 8GB, GDDR6, 256-bit, DUAL-RTX3060TI-O8G-MINI-V2
+Placa de Video Asus Radeon RX 550 Phoenix EVO, 4GB, GDDR5, 128-bit, PH-RX550-4G-EVO
+Placa de Video MSI GeForce GTX 1050 Ti Gaming X, 4GB, GDDR5, 128-bit, 912-V335-001

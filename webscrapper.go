@@ -12,8 +12,6 @@ import (
 )
 
 func CreateFile(texto, nameFileCards string) {
-	fmt.Printf("Writing to a file in Go lang\n")
-
 	file, err := os.OpenFile(nameFileCards, os.O_APPEND|os.O_CREATE|os.O_WRONLY, 0644)
 	if err != nil {
 		log.Fatal(err)
@@ -24,14 +22,7 @@ func CreateFile(texto, nameFileCards string) {
 	}
 
 	defer file.Close()
-
-	len, err := file.WriteString(texto)
-
-	if err != nil {
-		log.Fatalf("failed writing to file: %s", err)
-	}
-	//fmt.Printf("\nFile Name: %s", file.Name())
-	fmt.Printf("\nLength: %d bytes", len)
+	file.WriteString(texto)
 }
 
 func ReadFile(nameFileCards, priceFileCards string) {
@@ -106,8 +97,6 @@ func main() {
 	interator := 1
 
 	_, err := os.Stat(nameFileCards)
-	fmt.Println("ERRO: ", os.IsNotExist(err))
-
 	if err == nil {
 		e := os.Remove(nameFileCards)
 		if e != nil {
@@ -116,8 +105,6 @@ func main() {
 	}
 
 	_, err = os.Stat(priceFileCards)
-	fmt.Println("ERRO: ", os.IsNotExist(err))
-
 	if err == nil {
 		e := os.Remove(priceFileCards)
 		if e != nil {
@@ -125,7 +112,7 @@ func main() {
 		}
 	}
 
-	for interator < 3 {
+	for interator < 5 {
 		interator = getAllCards(nameFileCards, priceFileCards, interator)
 	}
 
