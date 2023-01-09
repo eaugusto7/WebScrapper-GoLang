@@ -63,7 +63,7 @@ func ReadFile(nameFileCards, priceFileCards string) {
 	}
 }
 
-func getAllCards(nameFileCards, priceFileCards string, interator int) int {
+func getAllCards(nameFileCards, priceFileCards, linkFileCards string, interator int) int {
 	collector := colly.NewCollector()
 	collector.UserAgent = "Go program"
 
@@ -84,6 +84,13 @@ func getAllCards(nameFileCards, priceFileCards string, interator int) int {
 			}
 		}
 	})
+
+	collector.OnHTML("a[href]", func(e *colly.HTMLElement) {
+		if e.Attr("class") == "jss16" && e.Attr("data-cy") == "list-product" {
+			CreateFile("https://www.pichau.com.br"+e.Attr("href")+"\n", linkFileCards)
+		}
+	})
+
 	collector.Visit("https://www.pichau.com.br/hardware/placa-de-video?page=" + strconv.Itoa(interator))
 
 	return interator + 1
@@ -93,6 +100,7 @@ func main() {
 
 	nameFileCards := "namefileCards.txt"
 	priceFileCards := "pricefileCards.txt"
+	linkFileCards := "linkfileCards.txt"
 
 	interator := 1
 
@@ -112,9 +120,17 @@ func main() {
 		}
 	}
 
-	for interator < 5 {
-		interator = getAllCards(nameFileCards, priceFileCards, interator)
+	_, err = os.Stat(linkFileCards)
+	if err == nil {
+		e := os.Remove(linkFileCards)
+		if e != nil {
+			log.Fatal(e)
+		}
 	}
 
-	ReadFile(nameFileCards, priceFileCards)
+	for interator < 10 {
+		interator = getAllCards(nameFileCards, priceFileCards, linkFileCards, interator)
+	}
+
+	//ReadFile(nameFileCards, priceFileCards)
 }
