@@ -8,9 +8,7 @@ Placa de Video Gigabyte GeForce GTX 1660 OC, 6GB, GDDR5, 192-bit, GV-N1660OC-6GD
 Placa de Video ASRock Radeon RX 7900 XT, 20GB, GDDR6, 320-bit, 90-GA43ZZ-00UANL
 Placa de Video Sapphire Radeon RX 7900 XT Gaming, 20GB, GDDR6, 320-bit, 21323-01-20G
 Placa de Video Galax Geforce RTX 3060 Ti SG 1-Click OC Plus, 8GB, GDDR6X, 256-Bit, 36ISM6MD1GSP
-Placa de Video Galax Geforce RTX 3060 1-Click OC, 8GB, GDDR6, 128-Bit, 36NSL8MD6OCC
 Placa de Video Asus GeForce RTX 2060 Dual EVO, 12GB, GDDR6, 192-bit, DUAL-RTX2060-12G-EVO
-Placa de Video Gigabyte GeForce RTX 3060 Ti Eagle OC, LHR, 8GB, GDDR6, 256-bit, GV-N306TEAGLE OC-8GD REV 2.0
 Placa de Video Asus GeForce GTX 1650 Phoenix V2 OC, 4GB, GDDR6, 128-bit, PH-GTX1650-O4GD6-P-V2
 Placa de Video ASRock Intel ARC A380 Challenger ITX, 6GB, GDDR6, 96-bit, A380 CLI 6GO
 Placa de Video ASRock Intel ARC A750 Challenger D OC, 8GB, GDDR6, 256-bit, A750 CLD 8GO
@@ -35,6 +33,7 @@ Placa de Video XFX Radeon RX 6400 Speedster, 4GB, GDDR6, 64-bit, RX-64XL4SFG2
 Placa de Video Afox GeForce GT220, 1GB, DDR3, 128-Bit, AF220-1024D3L2
 Placa de Video ASRock Radeon RX 6500 XT Challenger ITX OC, 4GB, GDDR6, 64-Bit, 90-GA3BZZ-00UANF
 Placa de Video ASRock Radeon RX 6650 XT Challenger D OC, 8GB, GDDR6, 128-bit, 90-GA3RZZ-00UANF
+Placa de Video Gigabyte GeForce RTX 3050 Eagle OC, 8GB, GDDR6, 128-bit, GV-N3050EAGLE-OC-8GD
 Placa de Video Gigabyte GeForce RTX 3050 Eagle OC, 8GB, GDDR6, 128-bit, GV-N3050EAGLE-OC-8GD
 Placa de Video Asus GeForce RTX 3050 TUF Gaming OC, 8GB, GDDR6, 128-bit, TUF-RTX3050-O8G-GAMING
 Placa de Video Afox GeForce GT730, 4GB, DDR3, 128-bit, AF730-4096D3L6
@@ -71,13 +70,14 @@ Placa de Video Asus GeForce RTX 2060 Dual OC Edition 6GB GDDR6 192-bit, DUAL-RTX
 Placa de Video Gigabyte GeForce GT 1030 2GB DDR4 Low Profile D4 64-bit, GV-N1030D4-2GL
 Placa de Video Galax GeForce GT 1030 2GB GDDR5 64-bit, 30NPH4HVQ4ST
 Placa de Video Gigabyte GeForce GT 1030 2GB GDDR5 Low Profile 64-bit, GV-N1030D5-2GL
-Placa de Video Gigabyte GeForce RTX 2060 WindForce OC, 12GB, GDDR6, 192-bit, GV-N2060WF2OC-12GD-NAC
 Placa de Video ASRock Radeon RX 7900 XTX, 24GB, GDDR6, 384-bit, 90-GA44ZZ-00UANL
 Placa de Video Sapphire Radeon RX 7900 XTX Gaming, 24GB, GDDR6, 384-bit, 21322-01-20G
 Placa de Video Galax Geforce RTX 3060 Ti 1-Click OC Plus, 8GB, GDDR6X, 256-Bit, 36ISM6MD2KCV
+Placa de Video Galax Geforce RTX 3060 1-Click OC, 8GB, GDDR6, 128-Bit, 36NSL8MD6OCC
 Placa de Video Gigabyte GeForce RTX 4090 Gaming OC, 24GB, GDDR6X, 384-bit, GV-N4090GAMING OC-24GD
 Placa de Video Duex Radeon RX550, 4GB, GDDR5, 128-bit, DX RX550-4GB
 Placa de Video Gigabyte GeForce RTX 3050 Eagle, 8GB, GDDR6, 128-bit, GV-N3050EAGLE-8GD
+Placa de Video Gigabyte GeForce RTX 3060 Ti Eagle OC, LHR, 8GB, GDDR6, 256-bit, GV-N306TEAGLE OC-8GD REV 2.0
 Placa de Video Gigabyte GeForce RTX 3070 Vision OC, LHR, 8GB, GDDR6, 256-bit, GV-N3070VISION OC-8GD REV 2.0
 Placa de Video Gigabyte GeForce RTX 3060 Vision OC, 12GB, GDDR6, 192-bit, GV-N3060VISION OC-12GD REV 2.0
 Placa de Video Asus GeForce RTX 3060 Dual OC, 8GB, GDDR6, 128-bit, DUAL-RTX3060-O8G
@@ -322,3 +322,1407 @@ Placa de Video Gigabyte GeForce RTX 3060 Eagle, LHR, 12GB, GDDR6, 192-bit, GV-N3
 Placa de Video Gigabyte GeForce RTX 3060 Ti Eagle, LHR, 8GB, GDDR6, 256-bit, GV-N306TEAGLE-8GD REV 2.0 NAC
 Placa de Video Asus GeForce RTX 3060 ROG Strix OC, LHR, 12GB, GDDR6, 192-bit, ROG-STRIX-RTX3060-O12G-V2-GAMING
 Placa de Video Asus GeForce RTX 3060 TUF Gaming OC, 12GB, GDDR6, 192-bit, TUF-RTX3060-O12G-V2-GAMING
+Placa de Video Asus GeForce RTX 3080 ROG Strix White Edition OC, LHR, 10GB, GDDR6X, 320-bit, ROG-STRIX-RTX3080-O10G-WHITE-V2
+Placa de Video Asus GeForce RTX 3080 Ti TUF Gaming, LHR, 12GB, GDDR6X, 384-bit, TUF-RTX3080TI-12G-GAMING
+Placa de Video Asus GeForce GTX 1660 Ti TUF Gaming OC, 6GB, GDDR6, 192-bit, TUF-GTX1660TI-O6G-EVO-GAMING
+Placa de Video Asus GeForce RTX 3060 Ti ROG Strix OC, LHR, 8GB, GDDR6, 256-bit, ROG-STRIX-RTX3060TI-O8G-V2-GAMING
+Placa de Video Asus GeForce RTX 3060 KO OC, LHR, 12GB, GDDR6, 192-bit, KO-RTX3060-O12G-V2-GAMING
+Placa de Video Asus GeForce RTX 3060 Ti KO OC, LHR, 8GB, GDDR6, 256-bit, KO-RTX3060TI-O8G-V2-GAMING
+Placa de Video Asus GeForce RTX 3060 Ti ROG Strix, LHR, 8GB, GDDR6, 256-bit, ROG-STRIX-RTX3060TI-8G-V2-GAMING
+Placa de Video Asus GeForce RTX 3060 Ti Dual Mini, LHR, 8GB, GDDR6, 256-bit, DUAL-RTX3060TI-8G-MINI-V2
+Placa de Video Asus GeForce RTX 3080 ROG Strix OC, LHR, 10GB, GDDR6X, 320-bit, ROG-STRIX-RTX3080-O10G-V2-GAMING
+Placa de Video Asus GeForce GTX 1650 TUF Gaming OC, 4GB, GDDR6, 128-bit, TUF-GTX1650-O4GD6-P-GAMING-NAC
+Placa de Video Asus GeForce GTX 1650 TUF Gaming, 4GB, GDDR6, 128-bit, TUF-GTX1650-4GD6-GAMING-NAC
+Placa de Video Gigabyte GeForce RTX 3060 Ti Gaming OC PRO, LHR, 8GB, GDDR6, 256-bit, GV-N306TGAMINGOC PRO-8GD REV 3.0
+Placa de Video Gigabyte GeForce GTX 1650 D6 OC, 4GB, GDDR6, 128-bit, GV-N1656OC-4GD REV 2.0-NAC
+Placa de Video Gigabyte GeForce RTX 3060 Ti Aorus Elite, LHR, 8GB, GDDR6, 256-bit, GV-N306TAORUS E-8GD REV 2.0
+Placa de Video Afox GeForce GTX 750TI, 4GB, GDDR5, 128-Bit, AF750TI-4096D5H4
+Placa de Video Gigabyte GeForce RTX 3080 Ti Eagle, 12GB, GDDR6X, 384-bit, GV-N308TEAGLE-12GD
+Placa de Video Gigabyte Radeon RX 6700 XT Aorus Elite, 12GB, GDDR6, 192-bit, GV-R67XTAORUS E-12GD
+Placa de Video Sapphire Radeon RX 6700 XT Pulse OC, 12GB, GDDR6, 192-Bit, 11306-05-20G
+Placa de Video PNY GeForce GTX 1650, 4GB, GDDR6, 128-bit, VCG16504D6DFPPB-NAC
+Placa de Video MSI GeForce RTX 3060 Ti Ventus 3X OC LHR, 8GB, GDDR6, 256-bit, 912-V397-246
+Placa de Video MSI GeForce RTX 3060 Ventus 2X OC, 12GB, GDDR6, 192-bit, 912-V397-050
+Placa de Video Galax Geforce GTX 1050 Ti 1-Click OC, 4GB, GDDR5, 128-Bit, 50IQH8DSQ3CC
+Placa de Video Galax Geforce RTX 3060 Ti 1-Click OC LHR, 8GB, GDDR6, 256-Bit, 36ISL6MD1VQW
+Placa de Video Galax Geforce RTX 3080 Ti Hall Of Fame, 12GB, GDDR6X, 384-Bit, 38IOM5MD3BHX
+Placa de Video Zotac GeForce RTX 3060 Twin Edge, 12GB, GDDR6, 192-Bit, ZT-A30600E-10M
+Placa de Video Zotac GeForce RTX 3080 Trinity LHR, 10GB, GDDR6X, 320-bit, ZT-A30800D-10PLHR
+Placa de Video Zotac GeForce RTX 3070 Twin Edge LHR, 8GB, GDDR6, 256-bit, ZT-A30700E-10PLHR
+Placa de Video Zotac GeForce RTX 3060 Ti Twin Edge LHR, 8GB, GDDR6, 256-Bit, ZT-A30610E-10MLHR
+Placa de Video Galax GeForce RTX 3070 Ti SG 1-Click OC, 8GB, GDDRX6, 256-bit, 37ISM6MD4BSG-NAC
+Placa de Video Asus Radeon RX 6600 XT ROG Strix OC Edition, 8GB, GDDR6, 128-Bit, ROG-STRIX-RX6600XT-O8G-GAMING
+Placa de Video Gigabyte Radeon RX 6600 XT Gaming OC Pro, 8GB, GDDR6, 128-Bit, GV-R66XTGAMINGOC PRO-8GD
+Placa de Video Sapphire Radeon RX 6600 XT Pulse OC, 8GB, GDDR6, 128-Bit, 11309-03-20G
+Placa de Video Sapphire Radeon RX 6600 XT Nitro+ OC, 8GB, GDDR6, 128-Bit, 11309-01-20G
+Placa de Video ASRock Radeon RX 6600 XT Challenger Pro OC, 8GB, GDDR6, 128-Bit, RX6600XT CLP 8GO
+Placa de Video Asus Radeon RX 6600 XT Dual OC Edition, 8GB, GDDR6, 128-Bit, DUAL-RX6600XT-O8G
+Placa de Video Gigabyte GeForce RTX 3060 Gaming OC LHR 12GB GDDR6 192-bit, GV-N3060GAMING OC-12GD REV 2.0
+Placa de Video Gigabyte GeForce RTX 3060 Aorus Elite LHR 12GB GDDR6 192-bit, GV-N3060AORUS E-12GD REV 2.0
+Placa de Video Gigabyte GeForce RTX 3060 Eagle OC LHR 12GB GDDR6 192-bit, GV-N3060EAGLE OC-12GD REV 2.0
+Placa de Video Duex Geforce G210 1GB DDR3 64bit, DX G210LP-1GD3
+Placa de Video Afox Radeon R5 230 2GB DDR3 64-bit, AFR5230-2048D3L4
+Placa de Video Gigabyte GeForce RTX 3060 Eagle LHR 12GB GDDR6 192-bit, GV-N3060EAGLE-12GD REV 2.0
+Placa de Video Gigabyte GeForce RTX 3080 Ti Aorus Master 12GB GDDR6X 384-bit, GV-N308TAORUS M-12GD
+Placa de Video Gigabyte GeForce RTX 3080 Gaming OC Waterforce WB 10GB GDDR6X 320-bit, GV-N3080GAMINGOC WB-10GD
+Placa de Video Gigabyte GeForce RTX 3090 Vision OC 24GB GDDR6X 384-bit, GV-N3090VISION OC-24GD
+Placa de Video Asus GeForce RTX 3070 Ti OC 8GB GDDR6X ROG Strix 256-bit, ROG-STRIX-RTX3070TI-O8G-GAMING
+Placa de Video Zotac GeForce RTX 3080 Ti Trinity 12GB GDDR6X 384-bit, ZT-A30810D-10P
+Placa de Video Zotac GeForce GTX 1660 Super 6GB GDDR6 AMP 192-bit, ZT-T16620D-10M
+Placa de Video Zotac GeForce RTX 3070 Ti Trinity 8GB GDDR6X 256-bit, ZT-A30710D-10P
+Placa de Video Zotac GeForce RTX 2060 6GB GDDR6 192-bit, ZT-T20600H-10M
+Placa de Video Gigabyte GeForce RTX 3070 Ti Aorus Master 8GB GDDR6X 256-bit, GV-N307TAORUS M-8GD
+Placa de Video Gigabyte GeForce RTX 3080 Ti Gaming OC 12GB GDDR6X 384-bit, GV-N308TGAMING OC-12GD
+Placa de Video Gigabyte GeForce RTX 3080 Ti Vision OC 12GB GDDR6X 384-bit, GV-N308TVISION OC-12GD
+Placa de Video Asus GeForce RTX 3070 ROG Strix OC LHR 8GB GDDR6 256-bit, ROG-STRIX-RTX3070-O8G-V2-GAMING
+Placa de Video Asus GeForce RTX 3060 Ti TUF Gaming OC LHR 8GB GDDR6 256-bit, TUF-RTX3060TI-O8G-V2-GAMING
+Placa de Video Asus GeForce RTX 3070 TUF Gaming OC LHR 8GB GDDR6 256-bit, TUF-RTX3070-O8G-V2-GAMING
+Placa de Video Asus GeForce RTX 3070 Ti OC 8GB GDDR6X TUF Gaming 256-bit, TUF-RTX3070TI-O8G-GAMING
+Placa de Video Galax GeForce RTX 3070 Ti SG 8GB GDDR6X 1-Click OC 256-bit, 37ISM6MD4BSG
+Placa de Video Asus GeForce RTX 3070 Ti 8GB GDDR6X TUF Gaming 256-bit, TUF-RTX3070TI-8G-GAMING
+Placa de Video Asus GeForce RTX 3060 OC LHR 12GB GDDR6 Dual 192-bit, DUAL-RTX3060-O12G-V2
+Placa de Video Sapphire Pulse Radeon RX 6800 XT 16GB GDDR6 OC 256-bit, 11304-03-20G
+Placa de Video Asus GeForce RTX 3080 Ti OC 12GB GDDR6X ROG Strix 384-bit, ROG-STRIX-RTX3080TI-O12G-GAMING
+Placa de Video Asus GeForce RTX 3080 Ti OC 12GB GDDR6X TUF Gaming 384-bit, TUF-RTX3080TI-O12G-GAMING
+Placa de Video Asus Radeon RX 6900 XT 16GB GDDR6 TOP OC Edition ROG Strix LC 2‎56-bit, ROG-STRIX-LC-RX6900XT-T16G-GAMING
+Placa de Video Asrock Radeon RX 6700 XT Challenger D 12GB GDDR6 OC 192-bit, 90-GA31ZZ-00UANF
+Placa de Vídeo PowerColor Radeon RX 6700 XT Hellhound Spectral White 12GB GDDR6 192bit, AXRX 6700XT 12GBD6-3DHL
+Placa de Vídeo PowerColor Radeon RX 6700 XT Hellhound 12GB GDDR6 192bit, AXRX 6700XT 12GBD6-3DHL
+Placa de Video Zotac GeForce RTX 3060 Twin Edge OC 12GB GDDR6 192-Bit, ZT-A30600H-10M
+Placa De Video Duex Geforce GTX 750TI 4GB DDR5 128Bit, DX GTX750TI-4GD5
+Placa De Video Duex Geforce GTX 1050TI 4GB DDR5 128Bit, DX GTX1050TI-4GD5
+Placa De Video Duex Geforce GT 730 2GB DDR3 128Bit, DX GT730LP-2GD3
+Placa de Video Galax GeForce GT 1030 2GB DDR4 64-bit, 30NPG4HV00AB
+Placa de Video Galax GeForce RTX 3080 Ti SG 12GB GDDR6X 1-Click OC 384-bit, 38IOM5MD99DD
+Placa de Video Asus GeForce GTX 1650 4GB GDDR6 OC TUF Gaming 128-bit, TUF-GTX1650-O4GD6-GAMING
+Placa de Video Sapphire Radeon RX 6700 XT Gaming OC 12GB GDDR6 Nitro+ 192-bit, 11306-01-20T
+Placa de Video Asus GeForce GTX 1650 4GB GDDR6 TUF Gaming 128-bit, TUF-GTX1650-4GD6-GAMING
+Placa de Video Asus GeForce RTX 3060 12GB GDDR6 TUF Gaming 192-bit, TUF-RTX3060-12G-GAMING
+Placa de Video Asus Radeon RX 570 OC 8GB GDDR5 ROG Strix 256-bit, ROG-STRIX-RX570-O8G-GAMING
+Placa de Video Asus Radeon RX 6900 XT 16GB GDDR6 OC ROG Strix LC 2‎56-bit, ROG-STRIX-LC-RX6900XT-O16G-GAMING
+Placa de Video PNY GeForce GTX 1660 Super 6GB GDDR6 OC XLR8 192-bit, VCG16606SSFPPB-O
+Placa de Video Gigabyte GeForce RTX 3060 Eagle OC 12GB GDDR6 192-bit, GV-N3060EAGLE OC-12GD
+Placa de Video Gigabyte GeForce RTX 3060 Eagle 12GB GDDR6 192-bit, GV-N3060EAGLE-12GD
+Placa de Video Gigabyte GeForce RTX 3060 Gaming OC 12GB GDDR6 192-bit, GV-N3060GAMING OC-12GD
+Placa de Video Gigabyte GeForce RTX 3060 Vision OC 12GB GDDR6 192-bit, GV-N3060VISION OC-12GD
+Placa de Video Galax GeForce RTX 3090 24Gb GDDR6X Hof Limited Edition 384-bit, 39NXM5MD3BLE
+Placa de Video Asrock Radeon RX 6700 XT 12GB GDDR6 192-bit, 90-GA2WZZ-00UANF
+Placa de Video Asrock Radeon RX 6700 XT Challenger 12GB GDDR6 192-bit, 90-GA2KZZ-00UANF
+Placa De Video Duex Geforce GT 610 2GB DDR3 64Bit, DX GT610LP-2GD3
+Placa De Video Duex Geforce GT 1030 2Gb DDR5 128Bit, DX GT1030-2GD5
+Placa de Video PNY Geforce RTX 3060 12GB GDDR6 XLR8 Revel Epic-X RGB 192-Bit, VCG306012DFXPPB 
+Placa de Video Sapphire Pulse Radeon RX 6700 XT 12GB GDDR6 192-bit, 11306-02-20G
+Placa de Video Sapphire Radeon RX 6900 XT 16GB GDDR6 Nitro 256-bit, 11308-01-20G
+Placa de Video Sapphire Radeon RX 6700 XT 12GB GDDR6 192-bit, 21306-01-20G
+Placa de Video Sapphire Radeon RX 6700 XT 12GB GDDR6 Nitro 192-bit, 11306-01-20G
+Placa de Video PCYES Radeon RX 550 4GB GDDR5 128-bits, PJRX550R5SF
+Placa de Video Asus Radeon RX 6700 XT GDDR6 12GB 192-bit, RX6700XT-12G
+Placa de Video Asus GeForce RTX 3060 12GB GDDR6 Dual 192-bit, DUAL-RTX3060-12G
+Placa de Video Asus GeForce RTX 3060 OC 12GB GDDR6 Dual 192-bit, DUAL-RTX3060-O12G
+Placa de Video PNY GeForce RTX 2060 6GB GDDR6 192-bit, GMR2061N3J6ET1KTM-OEM
+Placa de Video Galax GeForce RTX 3060 1-Click OC, LHR, 12GB, GDDR6, 192-bit, 36NOL7MD1VOC
+Placa de Video Asus Radeon RX 6700 XT 12GB Dual 192bit, DUAL-RX6700XT-12G
+Placa de Video Asus Radeon RX 6700 XT 12GB GDDR6 TUF Gaming OC 192-bit, TUF-RX6700XT-O12G-GAMING
+Placa de Video Asus Radeon RX 6700 XT 12GB GDDR6 ROG Strix OC 192-bit, ROG-STRIX-RX6700XT-O12G-GAMING
+Placa de Video Asus GeForce RTX 3070 8GB GDDR6 EKWB 256-bit, RTX3070-8G-EK
+Placa de Video Asus GeForce RTX 3060 12GB GDDR6 TUF Gaming OC 192-bit, TUF-RTX3060-O12G-GAMING
+Placa de Video Asus GeForce RTX 3060 12GB GDDR6 ROG Strix OC 192-bit, ROG-STRIX-RTX3060-O12G-GAMING
+Placa de Video Asus GeForce RTX 3060 Ti 8GB GDDR6 KO 256-bit, KO-RTX3060TI-8G-GAMING
+Placa de Video Asus GeForce RTX 3060 Ti 8GB GDDR6 ROG Strix 256-bit, ROG-STRIX-RTX3060TI-8G-GAMING
+Placa de Video Asus GeForce RTX 2060 Dual 6GB GDDR6 192-bit, DUAL-RTX2060-6G-EVO
+Placa de Video Gigabyte Radeon RX 6800 Aorus Master 16GB GDDR6 2‎56-bit, GV-R68AORUS M-16GD
+Placa de Video Gigabyte Radeon RX 6900 XT Gaming OC 16GB GDDR6 2‎56-bit, GV-R69XTGAMING OC-16GD
+Placa de Video Gigabyte GeForce RTX 3060 Ti Vision OC 8GB GDDR6 256-bit, GV-N306TVISION OC-8GD
+Placa de Video Gigabyte GeForce RTX 3080 Aorus Xtreme Waterforce 10GB GDDR6X 320-bit, GV-N3080AORUSX W-10GD
+Placa de Video Gigabyte Radeon RX 6800 XT Aorus Master 16GB GDDR6 2‎56-bit, GV-R68XTAORUS M-16GC
+Placa de Video Gigabyte Radeon RX 6800 XT Gaming OC 16GB GDDR6 2‎56-bit, GV-R68XTGAMING OC-16GD
+Placa de Video Gigabyte Radeon RX 6800 Gaming OC 16GB GDDR6 2‎56-bit, GV-R68GAMING OC-16GD
+Placa de Video PowerColor Radeon RX 6900 XT 16GB Red Devil 256-bit, AXRX 6900XT 16GBD6-3DHE/OC
+Placa de Video PowerColor Radeon RX 6800 XT 16GB Red Devil 256-bit, AXRX 6800XT 16GBD6-3DHE/OC
+Placa de Video PNY GeForce GTX 1650 4GB GDDR6 128-bit, GMX1650N3J4FP2AKTP
+Placa de Vídeo Mancer GeForce GTX 1050Ti 4GB GDDR5 128Bit, MCR-1050T14GD5-V1
+Placa de Vídeo Mancer GeForce GT 1030 2GB GDDR5 64Bit, MCR-1030GD5-V1
+Placa de Vídeo Mancer GeForce GT 710 2GB GDDR3 64Bit, MCR-7102GD3-V1
+Placa de Vídeo Mancer GeForce GT610 2GB GDDR3 64Bit, MCR-6102GD3-V1
+Placa de Video PcYes GeForce GTX 1650 4GB GDDR6 192-bit, PA1650412820DR6
+Placa de Video AsRock Radeon RX 6800 16GB Phantom Gaming OC Edition GDDR6 2‎56-bit, 90-GA2AZZ-00UANF
+Placa de Video Gigabyte GeForce RTX 3090 Aorus Xtreme Waterforce 24GB GDDR6X 384-bit, GV-N3090AORUSX W-24GD
+Placa de Video Asus Radeon RX 6900 XT 16GB GDDR6 TUF Gaming 2‎56-bit, TUF-RX6900XT-O16G-GAMING
+Placa de Video Asus GeForce RTX 3060 Ti 8GB GDDR6 TUF Gaming 256-bit, TUF-RTX3060TI-8G-GAMING
+Placa de Video Galax GeForce RTX 3070 8GB GDDR6 1-Click OC 256-bit, 37NSL6MD2KOC
+Placa de Video Afox Radeon RX 550 4GB GDDR5 128-bit, AFRX550-4096D5H4-V4
+Placa de Video AsRock Radeon RX 6900 XT 16GB Phantom Gaming OC Edition GDDR6 2‎56-bit, 90-GA2DZZ-00UANF
+Placa de Video Sapphire Radeon RX 6800 XT SE 16GB GDDR6 Nitro+ OC 256-bit, 11304-01-20G
+Placa de Video Afox GeForce GTX 1050TI 4GB GDDR5 128-bit, AF1050TI-4096D5H2
+Placa de Video Asus Radeon RX 6800 XT 16GB GDDR6 OC ROG Strix LC 2‎56-bit, ROG-STRIX-LC-RX6800XT-O16G-GAMING
+Placa de Video Asus GeForce RTX 3090 24GB GDDR6X ROG Strix White Edition OC 384-bit, ROG-STRIX-RTX3090-O24G-WHITE
+Placa de Video Asus Radeon RX 6800 OC 16GB TUF Gaming GDDR6 2‎56-bit, TUF-RX6800-O16G-GAMING 
+Placa de Video Asus GeForce RTX 3080 10GB GDDR6X ROG Strix White Edition OC 320-bit, ROG-STRIX-RTX3080-O10G-WHITE
+Placa de Video Asus Radeon RX 6900 XT 16GB GDDR6 2‎56-bit, RX6900XT-16G
+Placa de Video Asus GeForce RTX 3070 8GB GDDR6 ROG Strix White Edition OC 256-bit, ROG-STRIX-RTX3070-O8G-WHITE
+Placa de Video Asus Radeon RX 6800 OC 16GB GDDR6 ROG Strix 2‎56-bit, ROG-STRIX-RX6800-O16G-GAMING
+Placa de Video Zotac GeForce GTX 1650 Super Twin Fan 4GB GDDR6 128-bit, ZT-T16510F-10L
+Placa de Video Afox Radeon RX 550 2GB GDDR5 128-bit, AFRX550-2048D5H4
+Placa de Video Sapphire Radeon RX 6900 XT 16GB GDDR6 256-bit, 21308-01-20G
+Placa de Video Sapphire Radeon RX 6800 XT 16GB GDDR6 Nitro+ OC 256-bit, 11304-02-20G
+Placa de Video Sapphire Radeon RX 6800 16GB GDDR6 Nitro+ OC 256-bit, 11305-01-20G
+Placa de Video Sapphire Pulse Radeon RX 6800 16GB GDDR6 OC 256-bit, 11305-02-20G
+Placa de Video AsRock Radeon RX 6800 XT 16GB Phantom Gaming OC Edition GDDR6 2‎56-bit, 90-GA28ZZ-00UANF
+Placa de Video MSI GeForce RTX 3060 Ti Gaming X Trio 8GB GDDR6 256-bit, 912-V390-053
+Placa de Video Asus GeForce RTX 3090 24GB GDDR6X EKWB 384-bit, RTX3090-24G-EK
+Placa de Video Asus GeForce RTX 3060 Ti OC 8GB GDDR6 Dual 256-bit, DUAL-RTX3060TI-O8G
+Placa de Video Asus GeForce RTX 3060 Ti OC 8GB GDDR6 TUF Gaming 256-bit, TUF-RTX3060TI-O8G-GAMING
+Placa de Video Asus GeForce RTX 3060 Ti 8GB GDDR6 KO OC 256-bit, KO-RTX3060TI-O8G-GAMING
+Placa de Video Asus Radeon RX 6800 16GB GDDR6 2‎56-bit, RX6800-16G
+Placa de Video Asus Radeon RX 6800 XT 16GB GDDR6 2‎56-bit, RX6800XT-16G
+Placa de Video Asus Radeon RX 6800 XT OC 16GB TUF Gaming GDDR6 2‎56-bit, TUF-RX6800XT-O16G-GAMING 
+Placa de Video Asus GeForce RTX 3060 Ti 8GB GDDR6 ROG Strix OC 256-bit, ROG-STRIX-RTX3060TI-O8G-GAMING
+Placa de Video Asus GeForce RTX 3070 OC KO 8GB GDDR6 256-bit, KO-RTX3070-O8G-GAMING
+Placa de Video Gigabyte GeForce RTX 3060 Ti Gaming OC 8GB GDDR6 256-bit, GV-N306TGAMING OC-8GD
+Placa de Video Gigabyte GeForce RTX 3060 Ti Gaming OC Pro 8GB GDDR6 256-bit, GV-N306TGAMINGOC PRO-8GD
+Placa de Video Gigabyte GeForce RTX 3060 Ti Aorus Master 8GB GDDR6 256-bit, GV-N306TAORUS M-8GD
+Placa de Video Gigabyte GeForce RTX 3060 Ti Eagle OC 8GB GDDR6 256-bit, GV-N306TEAGLE OC-8GD
+Placa de Video Asus GeForce GTX 1650 4GB GDDR6 OC Phoenix 128-bit, PH-GTX1650-O4GD6
+Placa de Video Asus GeForce GTX 1650 OC 4GB GDDR6 TUF Gaming 128-bit, TUF-GTX1650-O4GD6-P-GAMING
+Placa de Video Afox Radeon RX 550 4GB GDDR5 128-bit, AFRX550-4096D5H7
+Placa de Video Afox Radeon RX 550 2GB GDDR5 128-bit, AFRX550-2048D5H7
+Placa de Video PNY GeForce RTX 3060 Ti 8GB GDDR6 XLR8 Revel Epic-X RGB 256-bit, VCG3060T8DFXPPB
+Placa de Video PNY GeForce RTX 3060 Ti UPRISING 8GB GDDR6 256-bit, VCG3060T8DFMPB
+Placa de Video Galax GeForce RTX 3060 Ti 8GB GDDR6 1-Click OC 256-bit, 36ISL6MD1VDD
+Placa de Video Galax GeForce RTX 3060 Ti EX 8GB GDDR6 1-Click OC 256-bit, 36ISL6MD1WGG
+Placa de Video Galax GeForce RTX 3060 Ti EX Branco 8GB GDDR6 1-Click OC 256-bit, 36ISL6MD1XHH
+Placa de Video Zotac GeForce RTX 3060 Ti Twin Edge OC 8GB GDDR6 256-bit, ZT-A30610H-10M
+Placa de Video Zotac GeForce RTX 3060 Ti Twin Edge 8GB GDDR6 256-bit, ZT-A30610E-10M
+Placa de Video AsRock Radeon RX 6800 XT 16GB GDDR6 2‎56-bit, Radeon RX 6800 XT 16G
+Placa de Video AsRock Radeon RX 6800 16GB GDDR6 2‎56-bit, Radeon RX 6800 16G
+Placa de Video PowerColor Radeon RX 6800 16GB GDDR6 2‎56-bit, AXRX 6800 16GBD6-M2DHC
+Placa de Video PowerColor Radeon RX 6800 XT 16GB GDDR6 2‎56-bit, AXRX 6800XT 16GBD6-M2DHC
+Placa de Video Sapphire Radeon RX 6800 XT 16GB GDDR6 2‎56-bit, 21304-01-20G
+Placa de Video Sapphire Radeon RX 6800 16GB GDDR6 2‎56-bit, 21305-01-20G
+Placa de Video Gigabyte Radeon RX 6800 16GB GDDR6 2‎56-bit, GV-R68-16GC-B
+Placa de Video Gigabyte Radeon RX 6800 XT 16GB GDDR6 2‎56-bit, GV-R68XT-16GC-B
+Placa de Video Asus GeForce RTX 3070 OC 8GB GDDR6 TUF Gaming 256-bit, TUF-RTX3070-O8G-GAMING
+Placa de Video Gigabyte GeForce RTX 3070 Vision OC 8GB GDDR6 256-bit, GV-N3070VISION OC-8GD
+Placa de Video Gigabyte GeForce RTX 3070 Aorus Master 8GB GDDR6 256-bit, GV-N3070AORUS M-8GD
+Placa de Video PNY GeForce GTX 1660 Super 6GB OC XLR8 192-bit, VCG16606SDFPPB-O
+Placa de Video Asus GeForce RTX 3090 OC 24GB GDDR6X TUF Gaming 384-bit, TUF-RTX3090-O24G-GAMING
+Placa de Video Gigabyte GeForce GT 710 2GB GDDR5 64-bit, GV-N710D5-2GIL
+Placa de Video Gainward GeForce RTX 3070 Phoenix 8GB GDDR6 256-bit, GeForce RTX 3070 Phoenix
+Placa de Video Gainward GeForce RTX 3070 Phoenix GS 8GB GDDR6 256-bit, GeForce RTX 3070 Phoenix GS
+Placa de Video Asus GeForce RTX 3070 8GB GDDR6 ROG Strix OC 256-bit, ROG-STRIX-RTX3070-O8G-GAMING
+Placa de Video Asus GeForce RTX 3080 OC 10GB GDDR6X TUF Gaming 320-bit, TUF-RTX3080-O10G-GAMING
+Placa de Video Gigabyte GeForce RTX 3070 Eagle 8GB GDDR6 256-bit, GV-N3070EAGLE-8GD
+Placa de Video Gigabyte GeForce RTX 3070 Eagle OC 8GB GDDR6 256-bit, GV-N3070EAGLE OC-8GD
+Placa de Video Gigabyte GeForce RTX 3070 Gaming OC 8GB GDDR6 256-bit, GV-N3070GAMING OC-8GD
+Placa de Video Gigabyte GeForce RTX 3080 Eagle OC 10GB GDDR6X 320-bit, GV-N3080EAGLE OC-10GD
+Placa de Video Gigabyte GeForce RTX 3080 Vision OC 10GB GDDR6X 320-bit, GV-N3080VISION OC-10GD
+Placa de Video Gigabyte GeForce RTX 3080 Gaming OC 10GB GDDR6X 320-bit, GV-N3080GAMING OC-10GD
+Placa de Video Gigabyte GeForce RTX 3090 Turbo 24GB GDDR6X 384-bit, GV-N3090TURBO-24GD
+Placa de Video Gigabyte GeForce RTX 3090 Gaming OC 24GB GDDR6X 384-bit, GV-N3090GAMING OC-24GD
+Placa de Video Zotac GeForce RTX 3070 Twin Edge OC 8GB GDDR6 256-bit, ZT-A30700H-10P
+Placa de Video Zotac GeForce RTX 3080 Trinity OC 10GB GDDR6X 320-bit, ZT-A30800J-10P
+Placa de Video Gigabyte GeForce GTX 1660 D5 6gb 192 Bit, GV-N1660D5-6GD
+Placa de Video Gigabyte Radeon RX 5500 XT D6 4GB Windforce 128-bit, GV-R55XTD6-4GD
+Placa de Video Gigabyte Radeon RX 5500 XT D6 8GB Windforce 128-bit, GV-R55XTD6-8GD
+Placa de Video Asus GeForce RTX 3070 OC 8GB GDDR6 Dual 256-bit, DUAL-RTX3070-O8G
+Placa de Video Asus GeForce RTX 3070 8GB GDDR6 Dual 256-bit, DUAL-RTX3070-8G
+Placa de Video Asus GeForce RTX 3070 8GB GDDR6 ROG Strix 256-bit, ROG-STRIX-RTX3070-8G-GAMING
+Placa de Video Asus GeForce RTX 3080 10GB GDDR6X ROG Strix 320-bit, ROG-STRIX-RTX3080-10G-GAMING
+Placa de Video Asus GeForce RTX 3090 24GB GDDR6X TUF Gaming 384-bit, TUF-RTX3090-24G-GAMING
+Placa de Video Asus GeForce RTX 3090 24GB GDDR6X ROG Strix 384-bit, ROG-STRIX-RTX3090-24G-GAMING
+Placa de Video Asus GeForce RTX 3090 OC 24GB GDDR6X ROG Strix 384-bit, ROG-STRIX-RTX3090-O24G-GAMING
+Placa de Video PNY GeForce RTX 3070 8GB GDDR6 Dual 256-bit, VCG30708DFMPB
+Placa de Video PNY GeForce RTX 3070 8GB GDDR6 XLR8 Gaming EPIC-X RGB 256-bit, VCG30708TFXPPB
+Placa de Video PNY GeForce RTX 3090 24GB GDDR6X XLR8 Gaming EPIC-X RGB 384-bit, VCG309024TFXPPB
+Placa de Video Galax GeForce RTX 3070 SG 8GB GDDR6 1-Click OC 256-bit, 37NSL6MD1GNA
+Placa de Video Galax GeForce RTX 3070 EX 8GB GDDR6 1-Click OC 256-bit, 37NSL6MD2V7V
+Placa de Video Galax GeForce RTX 3070 EX Branco 8GB GDDR6 1-Click OC 256-bit, RTX 3070 EX Branco
+Placa de Video Galax GeForce RTX 3070 EX Rosa 8GB GDDR6 1-Click OC 256-bit, RTX 3070 EX Rosa
+Placa de Video Galax GeForce RTX 3070 EX Gamer Branco 8GB GDDR6 1-Click OC 256-bit, RTX 3070 EX Gamer Branco
+Placa de Video Galax GeForce RTX 3070 EX Gamer Rosa 8GB GDDR6 1-Click OC 256-bit, RTX 3070 EX Gamer Rosa
+Placa de Video Galax GeForce RTX 3070 EX Gamer 8GB GDDR6 1-Click OC 256-bit, RTX 3070 EX Gamer
+Placa de Video Asus GeForce RTX 3080 TUF Gaming 10GB GDDR6X 320-bit, TUF-RTX3080-10G-GAMING
+Placa de Video Galax GeForce RTX 3080 SG 10GB GDDR6X 1-Click OC 320-bit, 38NWM3MD99NN
+Placa de Video Galax GeForce RTX 3090 SG 24GB GDDR6X 1-Click OC 384-bit, 39NSM5MD1GNA
+Placa de Video MSI GeForce RTX 3070 Ventus 2X 8GB GDDR6 256-bit, RTX 3070 VENTUS 2X
+Placa de Video MSI GeForce RTX 3070 Ventus 2X 8GB OC GDDR6 256-bit, 912-V390-008
+Placa de Video MSI GeForce RTX 3070 Ventus 3X 8GB GDDR6 256-bit, RTX 3070 VENTUS 3X
+Placa de Video MSI GeForce RTX 3070 Ventus 3X 8GB OC GDDR6 256-bit, RTX 3070 VENTUS 3X OC
+Placa de Video MSI GeForce RTX 3070 Gaming Trio 8GB GDDR6 256-bit, RTX 3070 GAMING TRIO
+Placa de Video MSI GeForce RTX 3070 Gaming X Trio 8GB GDDR6 256-bit, 912-V390-006
+Placa de Video MSI GeForce RTX 3080 Ventus 3X 10GB GDDR6X 320-bit, RTX 3080 VENTUS 3X 10G
+Placa de Video MSI GeForce RTX 3080 Ventus 3X 10GB OC GDDR6X 320-bit, 912-V389-001
+Placa de Video MSI GeForce RTX 3090 Ventus 3X 24GB OC GDDR6X 384-bit, 912-V388-002
+Placa de Video MSI GeForce RTX 3090 Gaming X Trio 24GB GDDR6X 384-bit, 912-V388-011
+Placa de Video Gigabyte GeForce RTX 3090 Aorus Master 24GB GDDR6X 384-bit, GV-N3090AORUS M-24GD
+Placa de Video Gigabyte GeForce RTX 3090 Aorus Xtreme 24GB GDDR6X 384-bit, GV-N3090AORUS X-24GD
+Placa de Video Gigabyte GeForce RTX 3080 Aorus Xtreme 10GB GDDR6X 320-bit, GV-N3080AORUS X-10GD
+Placa de Video Zotac GeForce RTX 3070 Twin Edge 8GB GDDR6 256-bit, ZT-A30700E-10P
+Placa de Video Zotac GeForce RTX 3080 Trinity 10GB GDDR6X 320-bit, ZT-A30800D-10P
+Placa de Video Zotac GeForce RTX 3090 Trinity 24GB GDDR6X 384-bit, ZT-A30900D-10P
+Placa de Video MSI GeForce GTX 1650 Super 4GB Ventus XS OC 128-bit, 912-V809-3294
+Placa de Video Zotac GeForce RTX 2080 Super 8GB Triple Fan 256-bit, ZT-T20820H-10P
+Placa de Video ASRock Radeon RX 5700 XT 8GB Taichi X OC Edition 256-bit, 90-GA19ZZ-00UANF
+Placa de Video ASRock Radeon RX 5700 XT 8GB Phantom Gaming D OC Edition 256-bit, 90-GA1JZZ-00UANF
+Placa de Video ASRock Radeon RX 5600 XT 6GB Challenger Pro OC Edition 192-bit, 90-GA24ZZ-00UANF
+Placa de Video ASRock Radeon RX 5500 XT 8GB Challenger OC Edition 128-bit, 90-GA1LZZ-00UANF
+Placa de Video Gigabyte Radeon RX 570 8GB GDDR5 WindForce 256-bit, GV-RX570GAMING-8GD
+Placa de Video Asus GeForce RTX 2060 Super 8GB GDDR6 DUAL 256-bit, DUAL-RTX2060S-8G-EVO-V2
+Placa de Video Asus Phoenix Radeon RX 550 4GB GDDR5 128-bit, PH-RX550-4G-EVO-NAC
+Placa de Video Asus Phoenix Radeon RX 550 2GB GDDR5 128-bit, PH-RX550-2G-EVO
+Placa de Video Asus Radeon RX 5600 XT 6GB GDDR6 OC 192-bit, DUAL-RX5600XT-T6G-EVO
+Placa de Video Asus Radeon RX 5600 XT 6GB GDDR6 ROG Strix OC 192-bit, ROG-STRIX-RX5600XT-T6G-GAMING
+Placa de Video PNY GeForce GTX 1650 GDDR6 4GB 128-bit, VCG16504D6DFPPB
+Placa de Video Galax GeForce GTX 1650 EX Plus 4GB GDDR6 1-Click OC 128-bit, 65SQL8DS93E1
+Placa de Video Sapphire Pulse Radeon RX 5700 XT 8GB BE GDDR6 256-bit, 11293-09-20G
+Placa de Video Asus GeForce GTX 1650 Super OC 4GB GDDR6 TUF Gaming 128-bit, TUF-GTX1650S-O4G-GAMING
+Placa de Video Asus GeForce RTX 2080 Super 8GB ROG Strix 256-bit, ROG-STRIX-RTX2080S-8G-GAMING
+Placa de Video Asus GeForce RTX 2070 Super 8GB ROG Strix 256-bit, ROG-STRIX-RTX2070S-8G-GAMING
+Placa de Video Gigabyte GeForce RTX 2080 Super 8Gb Gaming Windforce 256Bit, GV-N208SGAMING-8GC
+Placa de VIdeo Gigabyte GeForce RTX 2070 Super 8GB Windforce 3X 256-bit, GV-N207SWF3-8GD
+Placa de Video Gigabyte GeForce RTX 2060 D6 6GB GDDR6 Windforce 192-bit, GV-N2060D6-6GD
+Placa de Video Gigabyte GTX 1650 Eagle OC 4GB 128-bit, GV-N1656EAGLE OC-4GD
+Placa de Video ASRock Radeon RX 5600 XT 6GB Challenger OC Edition 192-BIT, 90-GA1XZZ-00UANF
+Placa de Video ASRock Radeon RX 5500 XT 8GB Challenger ITX 128-BIT, 90-GA20ZZ-00UANF
+Placa de Video Gigabyte GeForce GTX 1650 Super 4GB 128-bit, GV-N165SD6-4GD
+Placa de Video Asus Dual Radeon RX 5500 XT 4GB OC 128-bit, DUAL-RX5500XT-O4G-EVO
+Placa de Video Asus Radeon RX 5500 XT 8GB GDDR6 ROG Strix 128-bit, ROG-STRIX-RX5500XT-O8G-GAMING
+Placa de Video Afox Radeon R5 220 2GB 64-bit, AFR5220-2048D3L9-V2
+Placa de Video MSI Radeon RX 5600 XT 6GB Mech OC 128-bit, 912-V381-227
+Placa de Video Sapphire Radeon RX 5600 XT BE 6GB Pulse 192-bit, 11296-05-20G
+Placa de Video Gigabyte GeForce RTX 2060 Super 8GB Windforce 256-bit, GV-N206SWF2-8GD
+Placa de Video Galax GeForce RTX 2060 Super 8GB 1-Click OC 256-bit, 26ISL6HP68LD
+Placa de Video Galax GeForce GTX 1650 Super EX 4GB GDDR6 1-Click OC 128-bit, 65SQL8DS61EX
+Placa de Video Galax GeForce GTX 1650 EX 4GB GDDR6 1-Click OC 128-bit, 65SQL8DS66E6
+Placa de Video MSI GeForce RTX 2060 Super 8GB Gaming X 256-bit, 912-V375-216
+Placa de Video MSI GeForce GTX 1660Ti 6GB Gaming X 192-bit, 912-V375-404
+Placa de Video MSI GeForce RTX 2070 Super 8GB Gaming X 256-bit, 912-V373-283
+Placa de Video MSI GeForce RTX 2070 Super 8GB Ventus OC 256-bit, 912-V386-001
+Placa de Video MSI GeForce GTX 1650 4GB D6 Gaming X GDDR6 128-bit, 912-V387-002
+Placa de Video Msi GeForce RTX 2080 TI GAMING X TRIO GDDR6 352-bit, 912-V371-097
+Placa de Vídeo Gigabyte GeForce GTX 1650 D6 OC Low Profile 4GB 128-bit, GV-N1656OC-4GL
+Placa de Video PowerColor Radeon 550 2GB Red Dragon 64-bit, AXRX 550 2GB64BD5-DH
+Placa de Video PowerColor Radeon RX 550 4GB Red Dragon 128-bit, AXRX 550 4GBD5-DH
+Placa de Video PNY GeForce RTX 2060 6GB GDDR6 OC XLR8 192-bit, KMR2060N3J6EW1AKTP
+Placa de Video Asus Radeon RX 5700 XT 8GB GDDR6 ROG Strix 256-bit, ROG-STRIX-RX5700XT-O8G-GAMING
+Placa de Video PowerColor Radeon RX 5600 XT ITX 6GB 192-bit, RX 5600XT ITX 6GB GDDR6
+Placa de Video Asus Dual Radeon RX 5500 XT 8GB OC 128-bit, DUAL-RX5500XT-O8G-EVO
+Placa de Video Sapphire Radeon RX 5500 XT 8GB Nitro+ OC 128-bit, 11295-05-20G
+Placa de Video Sapphire Radeon RX 5500 XT 4GB Pulse OC 128-bit, 11295-03-20G
+Placa de Video Sapphire Radeon RX 5700 XT 8GB SE Nitro+ OC 256-bit, 11293-05-40G
+Placa de Video Afox Radeon RX 550 2GB 128-bit, AFRX550-2048D5H3
+Placa de Video Afox Radeon RX 550 4GB 128-bit, AFRX550-4096D5H3
+Placa de Video PNY GeForce GTX 1660 Super 6GB OC XLR8 192-bit, VCG16606SDFMPB
+Placa de Video PNY GeForce GTX 1660 Super 6GB 192-bit, VCG16606SSFPPB
+Placa de Video PNY GeForce GTX 1650 Super 4GB OC XLR8 128-bit, VCG16504SSFPPB
+Placa de Video Gigabyte GeForce GTX 1650 D6 OC 4GB 128-bit, GV-N1656OC-4GD
+Placa de Video Gigabyte GeForce GTX 1650 D6 Windforce OC 4GB 128-bit, GV-N1656WF2OC-4GD REV 2.0-NAC
+Placa de Video PNY Quadro P2200 5GB GDDR5X 160-bit, VCQP2200-BLK
+Placa de Video Afox GeForce GT 1030 2GB GDDR5 64-bit, AF1030-2048D5L4
+Placa de Video Galax GeForce GTX 1660 Super 6GB EX White 1-Click OC 192-bit, 60SRL7DS04WS
+Placa de Video Gigabyte GeForce GTX 1650 4GB OC Low Profile 128-bit, GV-N1650OC-4GL
+Placa de Video AFOX Radeon RX 560D 4GB GDDR5 128-bit, AFRX560D-4096D5H4-V2
+Placa de Video Asus GeForce GTX 1660 Super 6GB TUF OC 192-bit, TUF-GTX1660S-O6G-GAMING
+Placa de Video ASRock Radeon RX 5700 8GB Phantom Gaming D OC 256-bit, 90-GA1KZZ-00UANF
+Placa de Video ASRock Radeon RX 5600 XT 6GB Phantom Gaming D3 OC 192-bit, 90-GA1VZZ-00UANF
+Placa de Video ASRock Radeon RX 5600 XT 6GB Phantom Gaming D2 OC 192-bit, 90-GA1WZZ-00UANF
+Placa de Video Gigabyte Radeon RX 5600 XT 6GB WindForce OC 192-bit, GV-R56XTWF2OC-6GD
+Placa de Video ASRock Radeon RX 5700 XT 8GB Challenger D OC 256-BIT, 90-GA18ZZ-00UANF
+Placa de Video ASRock Radeon RX 5500 XT 4GB Challenger D OC 128-BIT, 90-GA1UZZ-00UANF
+Placa de Video ASRock Radeon RX 5500XT 8GB Phantom Gaming D OC 128BIT, 90-GA1NZZ-00UANF
+Placa de Video Gigabyte GeForce GTX 1660 Super Gaming OC 6gb 192 Bit, GV-N166SGAMING OC-6GD 
+Placa de Video MSI Radeon RX 580 8GB Armor X 256-bit, 912-V341-436
+Placa de Video Gigabyte GeForce RTX 2070 Super 8GB Aorus 256-bit, GV-N207SAORUS-8GC
+Placa de Video Gigabyte Geforce GTX 1650 Super 4GB Windforce OC, GV-N165SWF2OC-4GD
+Placa de Video Gigabyte Radeon RX 5500 XT 8GB OC 128-bit, GV-R55XTOC-8GD
+Placa de Video Gigabyte Radeon RX 5700 XT 8GB Aorus 256-bit, GV-R57XTAORUS-8GD
+Placa de Video Gigabyte GeForce RTX 2080 8GB Aorus Xtreme Waterforce 256-bit, GV-N2080AORUSX W-8GC
+Placa de Video Gigabyte GeForce RTX 2060 Super 8GB Gaming OC 3X 256-bit, GV-N206SGAMING OC-8GD
+Placa de Video Gigabyte GeForce GTX 1650 Super 4GB OC 128-bit, GV-N165SOC-4GD
+Placa de Video MSI Radeon RX 570 8GB OC 256-bit, 912-V809-3428
+Placa de Video PNY Quadro P1000 V2 4GB GDDR5 128-bit, VCQP1000V2-PB
+Placa de Video PNY Quadro P620 V2 2GB GDDR5 128-bit, VCQP620V2-PB
+Placa de Video PNY Quadro P400 V2 2GB GDDR5 64-bit, VCQP400V2-PB
+Placa de Video EVGA GeForce GTX 1660 6GB Black 192-bit, 06G-P4-1160-KR
+Placa de Video XFX Radeon RX 5600 XT 6GB Thicc III Ultra 192-bit, RX-56XT6TBD8
+Placa de Video XFX Radeon RX 5600 XT 6GB Thicc II Pro 192-bit, RX-56XT6DFD6
+Placa de Video MSI Radeon RX 5700 8GB Gaming X 256-bit, 912-V381-247
+Placa de Video MSI Radeon RX 5700 XT 8GB Gaming X 256-bit, 912-V381-235
+Placa de Video MSI Radeon RX 5500 XT 8GB Gaming X 128-bit, 912-V382-001
+Placa de Video MSI Radeon RX 5700 8GB Evoke OC 256-bit, 912-V381-061
+Placa de Video MSI Radeon RX 5700 XT 8GB Evoke OC 256-bit, 912-V381-002
+Placa de Video MSI Radeon RX 5500 XT 4GB Mech OC 128-bit, 912-V382-013
+Placa de Video MSI Radeon RX 5500 XT 8GB Mech OC 128-bit, 912-V382-005
+Placa de Video MSI GeForce GTX 1660 Super 6GB Ventus XS OC 192-bit, 912-V375-279
+Placa de Video MSI GeForce GTX 1650 4GB Ventus XS OC 128-bit, 912-V809-3445
+Placa de Video MSI GeForce GTX 1660 Super 6GB Gaming 192-bit, 912-V375-467
+Placa de Video MSI GeForce GTX 1650 Super 4GB Gaming X 128-bit, 912-V385-003
+Placa de Video MSI GeForce GTX 1650 Super 4GB Gaming X 128-bit, 912-V385-007
+Placa de Video MSI GeForce RTX 2060 Super 8GB Ventus GP OC 256-bit, 912-V375-469
+Placa de Video MSI GeForce RTX 2080 Super 8GB Ventus XS OC 256-bit, 912-V372-294
+Placa de Video MSI GeForce RTX 2070 Super 8GB Gaming X 256-bit, 912-V373-299
+Placa de Video Sapphire Radeon RX 5500 XT 8GB Pulse 128-bit, 11295-01-20G
+Placa de Video Sapphire Radeon RX 5600 XT 6GB Pulse 256-bit, 11296-01-20G
+Placa de Video PowerColor Radeon RX 5700 8GB Red Dragon 256-bit, AXRX 5700 8GBD6-3DHR/OC
+Placa de Video PowerColor Radeon RX 550 4GB Red Dragon 128-bit, AXRX 550 4GBD5-DHA/OC
+Placa de Video PowerColor Radeon RX 5700 8GB Red Devil 256-bit, AXRX 5700 8GBD6-3DHE/OC
+Placa de Video PowerColor Radeon RX 5500 XT 8GB Red Dragon OC 128-bit, AXRX 5500XT 8GBD6-DHR/OC
+Placa de Video PowerColor Radeon RX 5500 XT 8GB OC 128-bit, AXRX 5500XT 8GBD6-DH/OC
+Placa de Video PowerColor Radeon RX 5500 XT 4GB OC 128-bit, AXRX 5500XT 4GBD6-DH/OC
+Placa de Video Gigabyte Radeon RX 5500 XT 4GB OC 128-bit, GV-R55XTOC-4GD
+Placa de Video Gigabyte Radeon RX 5500 XT 4GB Gaming OC 128-bit, GV-R55XTGAMING OC-4GD
+Placa de Video Gigabyte Radeon RX 5600 XT 6GB Gaming OC 192-bit, GV-R56XTGAMING OC-6GD
+Placa de Video XFX Radeon RX 5700 XT 8GB Raw II 256-bit, RX-57XT8OFF6
+Placa de Video XFX Radeon RX 5500 XT 8GB GDDR6 128-bit, RX-55XT8DFD6
+Placa de Video XFX Radeon RX 5700 8GB Ultra 256-bit, RX-57XL8LBD6
+Placa de Video XFX Radeon RX 5700 XT 8GB Thicc III Ultra 256-bit, RX-57XT8TBD8
+Placa de Video XFX Radeon RX 5700 XT 8GB Thicc II Ultra 256-bit, RX-57XT8DBD6
+Placa de Video Gigabyte GeForce RTX 2080 Super 8GB OC White 256-bit, GV-N208SGAMINGOC WHITE-8GD
+Placa de Video Galax GeForce RTX 2060 Super 8GB EX White 1-Click OC 256-bit, 26ISL6MPX6EW
+Placa de Video Gainward GeForce GT 1030 2GB GDDR5 64-bit, NE5103000646-1080F
+Placa de Video Galax GeForce RTX 2080 Super 8GB Work The Frames 256-bit, 28ISL6MD49ES
+Placa de Video Galax GeForce RTX 2070 Super 8GB Work The Frames 256-bit, 27ISL6MD49ES
+Placa de Video Gigabyte GeForce GT 1030 2GB GDDR5 OC 64-bit, GV-N1030OC-2GI
+Placa de Video Zotac GeForce GTX 1650 4GB LP 128-bit, ZT-T16500H-10L
+Placa de Video Zotac GeForce GTX 1660 Super 6GB Twin Fan 192-bit, ZT-T16620F-10L
+Placa de Video Zotac GeForce RTX 2070 Super 8GB Mini 256-bit, ZT-T20710E-10M
+Placa de Video Zotac GeForce RTX 2080 Super 8GB Twin Fan 256-bit, ZT-T20820F-10P
+Placa de Video Zotac GeForce RTX 2080 Super 8GB AMP 256-bit, ZT-T20820D-10P
+Placa de Video Sapphire Radeon RX 5700 XT 8GB Nitro+ 256-bit, 11293-03-40G
+Placa de Video Asus GeForce GTX 1660 Super 6GB Dual 192-bit, DUAL-GTX1660S-6G-EVO
+Placa de Video Galax GeForce RTX 2070 Super 8GB HOF 256-bit, 27ISL6UC53HT
+Placa de Video Galax GeForce RTX 2080 Super 8GB HOF 256-bit, 28ISL6UC53HT
+Placa de Video Galax GeForce GTX 1660 Super 6GB X Version 192-bit, 60SRL7DS05XV
+Placa de Video Galax GeForce GTX 1660 Super 6GB 1-Click OC 192-bit, 60SRL7DSY91S
+Placa de Video Asus GeForce RTX 2080 Super 8GB Dual 256-bit, DUAL-RTX2080S-8G-EVO
+Placa de Video Galax GeForce GT 710 2GB DDR3 64-bit, 71GPF4HI00GX
+Placa de Video Gigabyte GeForce RTX 2080 Super 8GB Waterforce 256-bit, GV-N208SAORUS W-8GC
+Placa de Video Gigabyte GeForce RTX 2070 Super 8GB Gaming OC 3X White 256-bit, GV-N207SGAMINGOC WHITE-8GD
+Placa de Video Gigabyte GeForce RTX 2060 Super 8GB Gaming OC 3X White 256-bit, GV-N206SGAMINGOC WHITE-8GD
+Placa de Video Gigabyte GeForce RTX 2080 Super 8GB Waterforce WB 256-bit, GV-N208SAORUS WB-8GC
+Placa de Video Gigabyte GeForce RTX 2080 Super 8GB Aorus 256-bit, GV-N208SAORUS-8GC
+Placa de Video Gigabyte GeForce RTX 2060 Super 8GB Aorus 256-bit, GV-N206SAORUS-8GC
+Placa de Video Gigabyte GeForce RTX 2080 Super 8GB Windforce OC 256-bit, GV-N208SWF3OC-8GD
+Placa de Video Gigabyte Radeon RX 5700 8GB 256-bit, GV-R57-8GD-B
+Placa de Video Gigabyte Radeon RX 5700 8GB Gaming OC 256-bit, GV-R57GAMING OC-8GD
+Placa de Video Gigabyte Radeon RX 5700 XT 8GB Gaming OC 256-bit, GV-R57XTGAMING OC-8GD
+Placa de Video Gigabyte GeForce GTX 1660 Super 6GB Windforce OC 192-bit, GV-N166SOC-6GD
+Placa de Video PowerColor Radeon 5700 XT 8GB Red Devil 256-bit, AXRX 5700 XT 8GBD6-3DHE/OC
+Placa de Video PowerColor Radeon 5700 XT 8GB Red Dragon 256-bit, AXRX 5700 XT 8GBD6-3DHR/OC
+Placa de Video Gigabyte GeForce RTX 2060 Super 8GB Windforce OC 256-bit, GV-N206SWF2OC-8GD
+Placa de Video EVGA GeForce RTX 2070 Super 8GB XC Ultra OC 256-bit, 08G-P4-3173-KR
+Placa de Video EVGA GeForce RTX 2060 Super 8GB SC Ultra 256-bit, 08G-P4-3067-KR
+Placa de Video EVGA GeForce RTX 2060 Super 8GB SC Ultra Black 256-bit, 08G-P4-3065-KR
+Placa de Video Gigabyte GeForce RTX 2080 Super 8GB Gaming OC 256-bit, GV-N208SGAMING OC-8GC
+Placa de Video Gigabyte GeForce RTX 2060 Super Gaming OC 8GB GDDR6 256-bit, GV-N206SGAMING OC-8GC
+Placa de Video Asus GeForce GTX 1660 Super 6GB Phoenix OC 192-bit, PH-GTX1660S-O6G
+Placa de Video Asus GeForce RTX 2080 Super 8GB ROG Strix 256-bit, ROG-STRIX-RTX2080S-A8G-GAMING
+Placa de Video Asus GeForce RTX 2070 Super 8GB ROG Strix 256-bit, ROG-STRIX-RTX2070S-A8G-GAMING
+Placa de Video MSI Radeon RX 5700 XT 8GB GDDR6 Mech OC 256-bit, 912-V381-044
+Placa de Video MSI Radeon RX 5700 8GB GDDR6 Mech OC 256-bit, 912-V381-005
+Placa de Video MSI GeForce GTX 1650 4GB GDDR5 Gaming X 128-bit, 912-V380-015
+Placa de Video MSI GeForce GTX 1650 4GB GDDR5 Gaming 128-bit, 912-V380-025
+Placa de Video MSI GeForce RTX 2070 Super 8GB Ventus OC 256-bit, 912-V372-434
+Placa de Video MSI GeForce RTX 2080 Super 8GB Gaming X Trio 256-bit, 912-V372-279
+Placa de VIdeo Gigabyte GeForce RTX 2070 Super 8GB Windforce OC 3X 256-bit, GV-N207SWF3OC-8GD
+Placa de Video PNY NVS 810 4GB GDDR3 128-bit, VCNVS810DVI-PB
+Placa de Video PNY Quadro P2000 5GB GDDR5 160-bit, VCQP2000-PB
+Placa de Video Asus GeForce GTX 1650 4GB GDDR5 TUF Gaming 128-bit, TUF-GTX1650-4G-GAMING
+Placa de Video Asus GeForce GTX 1660 6GB GDDR5 TUF Gaming 192-bit, TUF-GTX1660-6G-GAMING
+Placa de Video Gigabyte GeForce RTX 2070 Super 8GB Gaming OC 3X 256-bits, GV-N207SGAMING OC-8GD
+Placa de Video Galax GeForce RTX 2060 Super 8GB GDDR6 1-Click OC 265-bits, 26ISL6HP39SS
+Placa de Video Zotac GeForce RTX 2060 Super Mini 8GB GDDR6 256-bits, ZT-T20610E-10M
+Placa de Video Galax GeForce RTX 2070 Super 8GB GDDR6 EX Gamer Black 256-bits, 27ISL6MDW0BG
+Placa de Video Gainward GeForce RTX 2080 Super 8GB GDDR6 Phantom GLH 256-bits, NE6208SH20P2-1040P
+Placa de Video Gigabyte GeForce RTX 2070 8GB GDDR6 Winforce 2X 256-bit, GV-N2070WF2-8GD
+Placa de Video Galax GeForce RTX 2080 8GB GDDR6 EX White 1-Click OC V2 256-bit, 28NSL6MDU8W2
+Placa de Video Asus GeForce RTX 2060 Super 8GB GDDR6 DUAL 256-bit, DUAL-RTX2060S-8G-EVO
+Placa de Video Sapphire Pulse Radeon RX 5700 8GB GDDR6 256-bit, 11294-01-20G
+Placa de Video Sapphire Pulse Radeon RX 5700 XT 8GB GDDR6 256-bit, 11293-01-20G 
+Placa de Video MSI GeForce RTX 2080 Super 8GB GDDR6 Ventus OC 256-bit, 912-V372-267
+Placa de Video MSI GeForce RTX 2060 Super 8GB GDDR6 Ventus OC 256-bit, 912-V373-275
+Placa de Video MSI GeForce RTX 2060 Super 8GB Gaming X 256-bit, 912-V375-265
+Placa de Video MSI GeForce GTX 1660 Ti 6GB GDDR6 Gaming X 192-bit, 912-V375-053
+Placa de Video MSI GeForce GTX 1050 Ti 4GB GDDR5 Gaming 128-bit, 912-V335-052
+Placa de Video MSI Radeon RX 5700 8GB GDDR6 256-bit, 912-V803-889
+Placa de Video MSI Radeon RX 5700 XT 8GB GDDR6 256-bit, 912-V803-888
+Placa de Video Asus GeForce RTX 2070 Super 8GB GDDR6 Dual 256-bits, DUAL-RTX2070S-8G-EVO
+Placa de Video Asus GeForce GTX 1660 6GB OC DUAL 192-bit, DUAL-GTX1660-O6G-EVO
+Placa de Video Asus GeForce GTX 1650 4GB GDDR5 ROG Strix OC 128-bit, ROG-STRIX-GTX1650-O4G-GAMING
+Placa de Video XFX Radeon RX 5700 XT 8GB GDDR6 Thicc II 256-bit, RX-57XT8DFD6
+Placa de Video Asus Radeon RX 5700 XT 8GB GDDR6 256-bit, RX5700XT-8G
+Placa de Video Asus GeForce RTX 2080 Ti 11GB GDDR6 ROG Strix 352-bit, ROG-STRIX-RTX2080TI-A11G-GAMING
+Placa de Video Zotac GeForce RTX 2060 Super 8GB GDDR6 AMP Extreme 256-bit, ZT-T20610B-10P
+Placa de Video Asus GeForce GTX 1650 4GB GDDR5 DUAL OC 128-bit, DUAL-GTX1650-O4G
+Placa de Video Galax GeForce RTX 2080 SUPER EX 8GB GDDR6 1-Click OC 256-bit, 28ISL6MDU9EX
+Placa de Video Galax GeForce RTX 2070 SUPER EX 8GB GDDR6 1-Click OC 256-bit, 27ISL6MDU9EX
+Placa de Video Galax GeForce RTX 2060 SUPER EX 8GB GDDR6 1-Click OC 256-bit, 26ISL6MPX2EX
+Placa de Video Sapphire Radeon RX 5700 XT 8GB GDDR6 256-bit, 21293-01-40G
+Placa de Video Sapphire Radeon RX 5700 8GB GDDR6 256-bit, 21294-01-20G
+Placa de Video PNY GeForce GTX 1650 4GB GDDR5 XLR8 OC 128-bit, VCG16504SFPPB-O
+Placa de Video PowerColor Radeon RX 5700 8GB GDDR6 256-bit, AXRX 5700 8GBD6-M3DH
+Placa de Video PowerColor Radeon RX 5700 XT 8GB GDDR6 256-bit, AXRX 5700XT 8GBD6-M3DH
+Placa de Video Zotac GeForce RTX 2060 Super 8GB Twin Fan GDDR6 256-bit, ZT-T20610D-10P
+Placa de Video Zotac GeForce RTX 2070 Super 8GB Twin Fan GDDR6 256-bit, ZT-T20710F-10P
+Placa de Video PowerColor Radeon R5 230 1GB DDR3 64-bit, AXR5 230 1GBK3-SHE
+Placa de Video XFX Radeon RX 5700 8GB GDDR6 256-bit, RX-57XL8MFG6
+Placa de Video XFX Radeon RX 5700 XT 8GB GDDR6 256-bit, RX-57XT8MFD6
+Placa de Video PNY Quadro RTX 4000 8GB GDDR6 256-bit, VCQRTX4000-PB
+Placa de Video Asus GeForce GTX 1650 4GB GDDR5 OC Phoenix 128-bit, PH-GTX1650-O4G-NAC
+Placa de Video Galax GeForce RTX 2080 8GB GDDR6 EX 1-Click OC V2 256-bit, 28NSL6MDU9E2
+Placa de Video Galax GeForce RTX 2080 8GB GDDR6 EX Gamer 1-Click OC V2 256-bit, 28NSL6MDW7G2
+Placa de Video PNY GeForce RTX 2060 6GB GDDR6 OC XLR8 192-bit, VCG20606SFPPB-O
+Placa de Video PNY GeForce GTX 1660 Ti 6GB GDDR6 OC XLR8 192-bit, VCG1660T6SFPPB-O
+Placa de Video PNY GeForce RTX 2060 6GB GDDR6 OC XLR8 192-bit, VCG20606DFPPB-O
+Placa de Video PNY GeForce GTX 1660 6GB GDDR6 OC XLR8 192-bit, VCG16606SFPPB-O
+Placa de Video Asus GeForce RTX 2070 8GB GDDR6 DUAL 256-bit, DUAL-RTX2070-8G-EVO
+Placa de Video Asus GeForce GTX 1660 6GB GDDR5 TUF OC 192-bit, TUF-GTX1660-O6G-GAMING
+Placa de Video Galax GeForce RTX 2070 8GB GDDR6 White Mini 1-Click OC 256-bit, 27NSL6HPZ7MN
+Placa de Video Gigabyte GeForce GTX 1650 4GB GDDR5 OC 128-bit, GV-N1650GAMING OC-4GD
+Placa de Video Asus GeForce RTX 2060 6GB GDDR6 TUF Gaming OC 192-bit, TUF-RTX2060-O6G-GAMING
+Placa de Video Gigabyte GeForce RTX 2060 6GB GDDR6 Windforce 192-bit, GV-N2060WF2-6GD
+Placa de Video Gigabyte GeForce GTX 1660 Ti 6GB GDDR6 Windforce 192-bit, GV-N166TWF2-6GD
+Placa de Video Gigabyte GeForce GTX 1660 6GB GDDR5 192-bit, GV-N1660GAMING-6GD
+Placa de Video Gigabyte GeForce GTX 1660 6GB GDDR5 OC 192-bit, GV-N1660GAMING OC-6GD
+Placa de Video Gigabyte GeForce RTX 2080 Ti 11GB GDDR6 Aorus Xtreme Waterforce 352-bit, GV-N208TAORUSX WB-11GC
+Placa de Video Gigabyte GeForce RTX 2080 8GB GDDR6 256-bit, GV-N2080GAMING-8GC
+Placa de Video Gigabyte GeForce RTX 2080 Ti 11GB GDDR6 Aorus 352-bit, GV-N208TAORUS-11GC
+Placa de Video Gigabyte GeForce RTX 2080 8GB GDDR6 Aorus 256-bit, GV-N2080AORUS-8GC
+Placa de Video Gigabyte GeForce RTX 2080 8GB GDDR6 Aorus Xtreme 256-bit, GV-N2080AORUS X-8GC
+Placa de Video Gigabyte GeForce RTX 2070 8GB GDDR6 Aorus Xtreme 256-bit, GV-N2070AORUS X-8GC
+Placa de Video Gigabyte GeForce RTX 2080 Ti 11GB GDDR6 Aorus Xtreme 352-bit, GV-N208TAORUS X-11GC
+Placa de Video Gigabyte GeForce RTX 2080 Ti 11GB GDDR6 Aorus Xtreme Waterforce 352-bit, GV-N208TAORUSX W-11GC
+Placa de Video Asus GeForce GTX 1660 6GB GDDR5 Phoenix OC 192-bit, PH-GTX1660-O6G
+Placa de Video Zotac GeForce GTX 1650 4GB GDDR5 OC 128-bit, ZT-T16500F-10L
+Placa de Video Galax GeForce RTX 2080 Ti 11GB GDDR6 1-Click OC White 352-bit, 28IULBUCT4KK
+Placa de Video Zotac GeForce GTX 1660 6GB GDDR5 192-bit, ZT-T16600F-10L
+Placa de Video Zotac GeForce GTX 1660 6GB GDDR5 AMP 192-bit, ZT-T16600D-10M
+Placa de Video MSI GeForce GTX 1660 6GB GDDR5 Gaming X 192-bit, 912-V379-017
+Placa de Video MSI GeForce RTX 2070 8GB GDDR6 Ventus 256-bit, 912-V373-075 
+Placa de Video MSI GeForce GTX 1660 6GB GDDR5 VENTUS XS OC 192-bit, 912-V379-015
+Placa de Video Gigabyte GeForce GTX 1650 4GB GDDR5 WINDFORCE OC 128-bit, GV-N1650WF2OC-4GD
+Placa de Video Gigabyte GeForce GTX 1650 4GB GDDR5 OC 128-bit, GV-N1650OC-4GD
+Placa de Video Gigabyte GeForce GTX 1650 4GB GDDR5 MINI ITX OC 128-bit, GV-N1650IXOC-4GD
+Placa de Video Galax GeForce GTX 1650 EX 4GB GDDR5 1-Click OC 128-bit, 65SQH8DS08EX
+Placa de Video Asus GeForce RTX 2080 8GB GDDR6 ROG Strix 256-bit, ROG-STRIX-RTX2080-A8G-GAMING
+Placa de Video PowerColor Radeon VII 16GB HBM2 4096-bit, AXVII 16GBHBM2-3DH
+Placa de Video Zotac GeForce RTX 2080 8GB GDDR6 256-bit, ZT-T20800G-10P
+Placa de Video Galax GeForce RTX 2080 8GB GDDR6 SG 1-Click OC 256-bit, 28NSL6UCU11S
+Placa de Video Galax GeForce RTX 2080 8GB GDDR6 EX White 1-Click OC 256-bit, 28NSL6UCU8WW
+Placa de Video Asus GeForce GTX 1660 Ti 6GB GDDR6 ROG Strix OC 192-bit, ROG-STRIX-GTX1660TI-O6G-GAMING
+Placa de Video Asus GeForce RTX 2070 8GB GDDR6 DUAL OC 256-bit, DUAL-RTX2070-O8G-EVO
+Placa de Video Asus GeForce RTX 2080 8GB GDDR6 DUAL 256-bit, DUAL-RTX2080-A8G-EVO
+Placa de Video Asus GeForce RTX 2060 6GB GDDR6 TUF Gaming 192-bit, TUF-RTX2060-6G-GAMING
+Placa de Video MSI GeForce GTX 1660 Ti 6GB GDDR6 Gaming X 192-bit, 912-V375-040
+Placa de Video Asus GeForce GTX 1660 Ti 6GB GDDR6 OC Dual192-bit, DUAL-GTX1660TI-O6G
+Placa de Video Asus GeForce GTX 1660 Ti 6GB GDDR6 OC Phoenix 192-bit, PH-GTX1660TI-O6G
+Placa de Video PowerColor Radeon RX 590 8GB GDDR5 Red Dragon 256-bit, AXRX 590 8GBD5-DHD
+Placa de Video PNY GeForce RTX 2070 8GB GDDR6 Blower 256-bit, VCG20708BLMPB
+Placa de Video Galax GeForce GTX 1660 6GB GDDR5 1-Click OC 192-bit, 60SRH7DSY91C
+Placa de Video Gigabyte GeForce RTX 2060 6GB GDDR6 OC PRO White 192-bit, GV-N2060GAMINGOC PRO WHITE-6GD
+Placa de Video Gigabyte GeForce RTX 2070 8GB GDDR6 Mini ITX 256-bit, GV-N2070IX-8GC
+Placa de Video Galax GeForce GTX 1060 6GB GDDR5 EXOC Extreme 192-bit, 60NRH7DVM6VE
+Placa de Video Galax GeForce RTX 2070 8GB GDDR6 EX White 1-Click OC 256-bit, 27NSL6MPX6VW
+Placa de Video Galax GeForce RTX 2080 Ti 11GB GDDR6 SG 1-Click OC 352-bit, 28IULBUCT2CK
+Placa de Video Galax GeForce GTX 1050 Ti 4GB GDDR5 1-Click OC 128-bit, 50IQH8DSC7CB
+Placa de Video PowerColor Radeon RX 570 4GB GDDR5 Red Dragon 256-bit, AXRX 570 4GBD5-3DHDV2/OC
+Placa de Video EVGA GeForce RTX 2070 8GB GDDR6 Black 256-bit, 08G-P4-2071-KR
+Placa de Video Zotac GeForce 1060 6GB GDDR5X 192-bit, ZT-P10620A-10M
+Placa de Video ZOTAC GeForce RTX 2080 Ti 11GB GDDR6 ArcticStorm 352bit, ZT-T20810K-30P
+Placa de Vídeo ZOTAC GeForce GTX 1660 Ti 6GB GDDR6 AMP 192-bit, ZT-T16610D-10M
+Placa de Video Gigabyte GeForce GTX 1660 Ti 6GB GDDR6 OC 192-bit, GV-N166TOC-6GD
+Placa de Video Gigabyte GeForce GTX 1660 Ti 6GB GDDR6 WindForce OC 192-bit, GV-N166TWF2OC-6GD
+Placa de Video Gigabyte GeForce GTX 1660 Ti 6GB Gaming OC 192-bit, GV-N166TGAMING OC-6GD
+Placa de Video Galax GeForce RTX 2070 8GB GDDR6 EXOC 256-bit, 27NSL6UCV1OC
+Placa de Video Galax GeForce GTX 1660 Ti 6GB GDDR6 1-Click OC 192-bit, 60IRL7DSY91C
+Placa de Video EVGA GeForce RTX 2080 8GB GDDR6 Black 256-bit, 08G-P4-2081-KR
+Placa de Video EVGA GeForce RTX 2070 8GB GDDR6 Black 256-bit, 08G-P4-1071-KR
+Placa de Video Zotac GeForce RTX 2080 Ti 11GB GDDR6 AMP! Extreme 352-bit, ZT-T20810B-10P
+Placa de Video Galax GeForce GT 710 1GB DDR3 64-bit, 71GGF4DC00WG
+Placa de Video Galax GeForce RTX 2080 Ti 11GB GDDR6 HOF 352-bit, 28IULBUCV6DH
+Placa de Video Galax GeForce RTX 2070 8GB GDDR6 1-Click OC White 256-bit, 27NSL6UCV3TW
+Placa de Video Galax GeForce RTX 2060 6GB GDDR6 1-Click OC EX White 192-bit, 26NRL7HPY3EW
+Placa de Video Galax GeForce RTX 2070 8GB GDDR6 1-Click OC EX White 256-bit, 27NSL6UCV91W
+Placa de Video Galax GeForce RTX 2070 8GB GDDR6 1-Click OC EX 256-bit, 27NSL6MPX2VE
+Placa de Video Galax GeForce RTX 2080 8GB GDDR6 1-Click OC EX 256-bit, 28NSL6UCU9EN
+Placa de Video Galax GeForce RTX 2080 Ti 11GB GDDR6 1-Click OC Dual White 352-bit, 28IULBUCT4KW
+Placa de Video Galax GeForce RTX 2080 Ti 11GB GDDR6 1-Click OC Dual Black 352-bit, 28IULBUCT4ND
+Placa de Video Gigabyte GeForce RTX 2080 8GB GDDR6 TURBO 256-bit, GV-N2080TURBO-8GC
+Placa de Video Gigabyte GeForce RTX 2070 8GB GDDR6 WindForce 256-bit, GV-N2070WF3-8GC
+Placa de Video EVGA GeForce RTX 2060 6GB GDDR6 XC 192-bit, 06G-P4-2063-KR
+Placa de Video EVGA GeForce RTX 2060 6GB GDDR6 XC Black 192-bit, 06G-P4-2061-KR
+Placa de Video AsRock Phantom Gaming Radeon RX 560 4GB GDDR5 128-bit, 90-GA0620-00UANF
+Placa de Video AsRock Phantom Gaming Radeon RX 570 OC 8GB GDDR5 256-bit, 90-GA0N00-00UANF
+Placa de Video AsRock Phantom Gaming Radeon RX 580 OC 8GB GDDR5 256-bit, 90-GA0M00-00UANF
+Placa de Video Galax GeForce GTX 1050 Ti 4GB DDR5 EXOC White 128-bit, 50IQH8DVP1WT
+Placa de Video Asus GeForce GT 1030 OC 2GB GDDR5 64-bit, PH-GT1030-O2G
+Placa de Video EVGA GeForce RTX 2080 8GB GDDR6 XC Ultra 256-bit, 08G-P4-2183-KR
+Placa de Video EVGA GeForce GTX 1050 3GB GDDR5 SC 96-bit, 03G-P4-6153-KR
+Placa de Video EVGA GeForce GT 1030 2GB DDR4 Low Profile 64-bit, 02G-P4-6232-KR
+Placa de Video Sapphire Radeon RX 570 4GB GDDR5 Pulse ITX 256-bit, 11266-34-20G
+Placa de Video MSI GeForce RTX 2060 6GB GDDR6 GAMING Z 192-bit, 912-V375-015
+Placa de Video Gigabyte GeForce RTX 2060 6GB GDDR6 OC 192-bit, GV-N2060GAMING OC-6GD
+Placa de Video Gigabyte GeForce RTX 2060 6GB GDDR6 WindForce OC 192-bit, GV-N2060WF2OC-6GD
+Placa de Video Gigabyte GeForce RTX 2060 6GB GDDR6 OC 192-bit, GV-N2060OC-6GD
+Placa de Video Gigabyte GeForce RTX 2060 6GB GDDR6 Mini ITX OC, GV-N2060IXOC-6GD
+Placa de Video Gigabyte GeForce RTX 2060 6GB GDDR6 Aorus XTREME 192-bit, GV-N2060AORUS X-6GC
+Placa de Video Gigabyte GeForce RTX 2060 6GB GAMING OC, GV-N2060GAMINGOC PRO-6GD
+Placa de Video Asus GeForce RTX 2060 6GB GDDR6 Turbo Auto-Extreme 192-bit, TURBO-RTX2060-6G
+Placa de Video Asus GeForce RTX 2060 6GB GDDR6 DUAL Auto-Extreme 192-bit, DUAL-RTX2060-A6G
+Placa de Video MSI GeForce GTX 1660 Ti 6GB GDDR6 VENTUS XS OC 192-bit, 912-V375-039
+Placa de Video Zotac GeForce RTX 2060 6GB GDDR6 AMP 192-bit, ZT-T20600D-10M
+Placa de Video XFX Radeon RX 570 4GB GDDR5 OC XXX 256-bit, RX-570P4DFD6
+Placa de Video Asus GeForce RTX 2060 6GB GDDR6 ROG Strix OC 192-bit, ROG-STRIX-RTX2060-O6G-GAMING
+Placa de Video Asus GeForce RTX 2060 6GB GDDR6 ROG Strix 192-bit, ROG-STRIX-RTX2060-A6G-GAMING
+Placa de Video Zotac GeForce RTX 2060 6GB GDDR6 Twin Fan 192-bit, ZT-T20600F-10M
+Placa de Video MSI GeForce RTX 2060 6GB GDDR6 VENTUS OC 192-bit, 912-V375-017
+Placa de Video Galax GeForce GTX 1060 6GB GDDR5X OC REDBLACK 192-bit, 60NRJ7DSX1PO
+Placa de Video Galax GeForce RTX 2060 6GB GDDR6 1-Click OC 192-bit, 26NRL7HPX7OC
+Placa de Video Gigabyte GeForce GTX 1050 3GB GDDR5 OC Low Profile 96-bit, GV-N1050OC-3GL
+Placa de Video Sapphire Radeon RX 590 8GB GDDR5 Nitro+ 256-bit, 11289-01-20G
+Placa de Video MSI Ventus GeForce RTX 2080 8GB OC, 912-V372-007
+Placa de Video Asus GeForce RTX 2080 8GB GDDR6 ROG Strix 256-bit, ROG-STRIX-RTX2080-8G-GAMING
+Placa de Video Asus GeForce RTX 2080 Ti DUAL OC 11GB GDDR6 352-bit, DUAL-RTX2080TI-O11G
+Placa de Video Asus GeForce RTX 2080 DUAL 8GB GDDR6 256-bit, DUAL-RTX2080-A8G
+Placa de Video Asus GeForce RTX 2080 DUAL 8GB GDDR6 256-bit, DUAL-RTX2080-8G
+Placa de Video Asus GeForce RTX 2070 DUAL OC 8GB GDDR6 256-bit, DUAL-RTX2070-O8G
+Placa de Video Asus GeForce RTX 2070 DUAL 8GB GDDR6 256-bit, DUAL-RTX2070-A8G
+Placa de Video Gigabyte GeForce RTX 2070 8GB GDDR6 Aorus 256-bit, GV-N2070AORUS-8GC
+Placa de Video Gigabyte GeForce RTX 2070 8GB GDDR6 256-bit, GV-N2070GAMING-8GC
+Placa de Video Gigabyte GeForce GT 730 2GB DDR3 64-bit, GV-N730D3-2GI
+Placa de Video Gigabyte GeForce GT 710 1GB GDDR5 64-bit, GV-N710D5-1GI
+Placa de Video Galax GeForce RTX 2080 Ti 11GB GDDR6 OC 352-bit, 28IULBUCT4OC
+Placa de Video Galax GeForce RTX 2080 Ti 11GB GDDR6 SG Edition 352-bit, 28IULBUCT2GC
+Placa de Video Galax GeForce RTX 2080 8GB GDDR6 1-Click OC White 256-bit, 28NSL6UCT6WO
+Placa de Video Zotac GeForce RTX 2080 8GB GDDR6 AMP! MAXX 256-bit, ZT-T20800H-10P
+Placa de Video Zotac GeForce RTX 2080 8GB GDDR6 AMP! Extreme 256-bit, ZT-T20800C-10P
+Placa de Video Zotac GeForce RTX 2080 8GB GDDR6 AMP! Extreme 256-bit, ZT-T20800B-10P
+Placa de Video Zotac GeForce RTX 2080 Ti 11GB GDDR6 Twin Fan 352-bit, ZT-T20810G-10P
+Placa de Video Zotac GeForce RTX 2070 8GB GDDR6 AMP! 256-bit, ZT-T20700D-10P
+Placa de Video AsRock Phantom Gaming Radeon RX 570 4GB GDDR5 256-bit, 90-GA0K00-00UANF
+Placa de Video AsRock Phantom Gaming Radeon RX 560 4GB GDDR5 128-bit, 90-GA0600-00UANF
+Placa de Video Gigabyte GeForce RTX 2080 Ti 11GB GDDR6 WindForce 352-bit, GV-N208TWF3-11GC
+Placa de Video Gigabyte GeForce RTX 2080 8GB GDDR6 WindForce 256-bit, GV-N2080WF3-8GC
+Placa de Video Gigabyte GeForce RTX 2080 8GB GDDR6 OC White 256-bit, GV-N2080GAMINGOC WHITE-8GC
+Placa de Video Galax GeForce GTX 1060 6GB GDDR5X OC 192-bit, 60NRJ7DSV8OC
+Placa de Video EVGA GeForce RTX 2080 8GB GDDR6 XC 256-bit, 08G-P4-2182-KR
+Placa de Video MSI GeForce RTX 2070 8GB GDDR6 Gaming Z 256-bit, 912-V373-007
+Placa de Video MSI GeForce RTX 2070 ARMOR 8G OC GDDR6, 912-V373-013
+Placa de Video Asus GeForce GTX 1050 OC 2GB 128-bit, CERBERUS-GTX1050-O2G
+Placa de Video XFX Radeon RX 590 8GB GDDR5 Fatboy 256-bit, RX-590P8DFD6
+Placa de Video MSI Radeon RX 570 Armor 8GB OC GDDR5 256bit, RX-570-Armor-8GB-OC
+Placa de Video Zotac GeForce RTX 2070 8GB GDDR6 AMP Extreme 256-bit, ZT-T20700C-10P
+Placa de Video Zotac GeForce RTX 2070 8GB GDDR6 AMP Extreme 256-bit, ZT-T20700B-10P
+Placa de Video EVGA GeForce RTX 2070 8GB GDDR6 XC Ultra 256-bit, 08G-P4-2173-KR
+Placa de Video EVGA GeForce RTX 2070 8GB GDDR6 XC 256-bit, 08G-P4-2172-KR
+Placa de Video Galax GeForce RTX 2080 8GB GDDR6 1-Click OC SG 256-bit, 28NSL6UCU1SE
+Placa de Video Galax GeForce RTX 2070 8GB GDDR6 OC 256-bit, 27NSL6UCT7OC
+Placa de Video Galax GeForce RTX 2070 8GB GDDR6 OC White 256-bit, 27NSL6UCV3WO
+Placa de Video Galax GeForce RTX 2080 8GB GDDR6 OC 256-bit, 28NSL6UCT7OC
+Placa de Video Asus GeForce GTX 1060 6GB GDDR5 192-bit, PH-GTX1060-6G
+Placa de Video MSI GeForce GTX 1070 Ti Aero 8GB, GeForce-GTX-1070-Ti-Aero-8G
+Placa de Video Gigabyte GeForce RTX 2070 8GB GDDR6 OC White 256-bit, GV-N2070GAMINGOC WHITE-8GC
+Placa de Video Gigabyte GeForce RTX 2070 8GB GDDR6 OC 256-bit, GV-N2070GAMINGOC-8GC
+Placa de Video Asus GeForce RTX 2080 OC 8GB GDDR6 ROG Strix 256-bit, ROG-STRIX-RTX2080-O8G-GAMING
+Placa de Video MSI GeForce RTX 2080 8GB GDDR6 Sea Hawk X 256-bit, 912-V372-008
+Placa de Video MSI GeForce RTX 2080 8GB GDDR6 Gaming X TRIO 256-bit, 912-V372-090
+Placa de Video Asus GeForce RTX 2070 OC 8GB GDDR6 ROG Strix 256-bit, ROG-STRIX-RTX2070-O8G-GAMING
+Placa de Video Galax GeForce GTX 1060 6GB GDDR5 OC 192-bit, 60NRH7DSN5E6
+Placa de Video Asus GeForce RTX 2080 Ti DUAL OC 11GB GDDR6 352-bit, DUAL-RTX2080TI-A11G
+Placa de Video Asus GeForce RTX 2080 DUAL OC 8GB GDDR6 256-bit, DUAL-RTX2080-O8G
+Placa de Video AsRock Phantom Gaming Radeon RX 560 2GB GDDR5 128-bit, 90-GA0400-00UANF
+Placa de Video AsRock Phantom Gaming Radeon RX 550 2GB GDDR5 128-bit, 90-GA0500-00UANF
+Placa de Video PowerColor Radeon RX 560 2GB GDDR5 Red Dragon 128-bit, AXRX 560 2GBD5-DHAV2
+Placa de Video PowerColor Radeon RX 550 2GB GDDR5 Red Dragon 128-bit, AXRX 550 2GBD5-DHA/OC
+Placa de Video Asus GeForce GTX 1050 3GB GDDR5 96-bit, PH-GTX1050-3G
+Placa de Video Asus Arez Radeon RX 560 4GB OC GDDR5 128-bit, AREZ-RX560-O4G-EVO
+Placa de Video PowerColor Radeon RX 580 8GB GDDR5 Red Devil Golden Sample 256-bit, AXRX 580 8GBD5-3DHG/OC
+Placa de Video Gigabyte GeForce GTX 1050 3GB GDDR5 96-bit, GV-N1050D5-3GD
+Placa de Video XFX Radeon R7 240 2GB DDR3 128-bit, R7-240A-2TS4
+Placa de Video Galax GeForce GTX 1060 6GB GDDR5 OC BOY V20 192-bit, 60NRH7DSR4BY
+Placa de Video Gigabyte GeForce GTX 1050 3GB GDDR5 WindForce OC 96-bit, GV-N1050OC-3GD
+Placa de Video Sapphire Radeon RX 560 4GB GDDR5 Pulse 128-bit, 11267-18-20G
+Placa de Video Gigabyte GeForce GT 710 2GB DDR3 Low Profile 64-bit, GV-N710D3-2GL
+Placa de Video Zotac GeForce RTX 2080 8GB GDDR6 Blower 256-bit, ZT-T20800A-10P
+Placa de Video Zotac GeForce RTX 2080 Ti 11GB GDDR6 Triple Fan 352-bit, ZT-T20810F-10P
+Placa de Video Zotac GeForce RTX 2080 8GB GDDR6 AMP! 256-bit, ZT-T20800D-10P
+Placa de Video Zotac GeForce RTX 2080 Ti 11GB GDDR6 AMP! 352-bit, ZT-T20810D-10P
+Placa de Video MSI GeForce GT 1030 Low Profile OC, 2GB, DDR4, 64-bit, 912-V809-4065
+Placa de Video Sapphire Radeon RX 580 4GB GDDR5 Nitro+ 256-bit, 11265-31-20G
+Placa de Vídeo Gigabyte GeForce RTX 2080 Ti GAMING OC 11G, GV-N208TGAMINGOC-11GC
+Placa de Video Gigabyte GeForce RTX 2080 Ti Windforce OC 11GB 352-bit, GV-N208TWF3OC-11GC
+Placa de Video Gigabyte GeForce RTX 2080 8GB GDDR6 OC 256-bit, GV-N2080GAMING OC-8GC
+Placa de Video MSI Radeon RX 580 ARMOR MK2 8G OC, 912-V341-253
+Placa de Video Gigabyte GeForce RTX 2080 8GB GDDR6 WindForce OC 256-bit, GV-N2080WF3OC-8GC
+Placa de Video PNY GeForce GT 710 2GB GDDR3 64-bit, VCGGT7102XPB-BB
+Placa de Video Galax GeForce GT 1030 2GB SDDR4 EX White 64-bit, 30NPK4HVS6XW
+Placa de Video Asus GeForce GTX 1060 OC 6GB GDDR5 192-bit, EX-GTX1060-O6G
+Placa de Video PNY GeForce GTX 1060 3GB GDDR5 OC XLR8 192-bit, VCGGTX10603XGPB-OC-BB
+Placa de Vídeo MSI GeForce GTX 1050 2G OC GDDR5 128-bit, 912-V809-2287
+Placa de Video Asus GeForce GTX 1070 Ti 8GB GDDR5 256-bit, CERBERUS-GTX1070TI-A8G
+Placa de Video Asus GeForce GTX 1050 Ti 4G GDDR5 128-bit, CERBERUS-GTX1050TI-A4G
+Placa de Video Asus GeForce GTX 1050 Ti OC 4GB GDDR5 128-bit, CERBERUS-GTX1050TI-O4G
+Placa de Video Gigabyte GeForce GTX 1070 Ti 8GB GDDR5 WindForce 256-bit, GV-N107TWF2-8GD
+Placa de Video PowerColor Radeon RX 550 2GB GDDR5 Red Dragon 128-bit, AXRX 550 4GBD5-DHA
+Placa de Video PNY GeForce GTX 1060 6GB GDDR5 OC XLR8 192-bit, VCGGTX10606XGPB-OC2
+Placa de Video Galax GeForce GT 1030 2GB SDDR4 64-bit, 30NPK4HVQ4BG
+Placa de Video Gigabyte GeForce GTX 1070 Ti 8GB GDDR5 256-bit, GV-N107TGAMING-8GD
+Placa de Video Asus Radeon RX 580 8GB GDDR5 TOP Edition 256-bit, ROG-STRIX-RX580-T8G-GAMING
+Placa de Video PowerColor Radeon RX 560 4GB GDDR5 Red Dragon 256-bit, AXRX 560 4GBD5-DHA
+Placa de Video Gigabyte GeForce GTX 1060 6GB GDDR5 Aorus Xtreme 192-bit, GV-N1060AORUS X-6GD
+Placa de Video PNY Quadro P620 2G GDDR5 128-bits, VCQP620-PB
+Placa de Video EVGA GeForce GTX 1070 Ti 8GB GDDR5 FTW Ultra Silent 256-bit, 08G-P4-6678-KR
+Placa de Video Galax GeForce GTX 1070 Ti 8GB GDDR5 EX 256-bit, 70ISH6DHM9XE
+Placa de Video Gigabyte GeForce GT 710 2GB DDR5 64-bit, GV-N710D5-2GL
+Placa De Vídeo MSI Geforce GTX 1070 Ti Gaming 8G 256 Bits
+Placa De Video MSI GeForce GTX 1070 Ti Duke 8G 256 Bits
+Placa de Video Asus GeForce GTX 1060 DUAL 6GB GDDR5 192-bit, DUAL-GTX1060-6G
+Placa de Video EVGA GeForce GTX 1080 Ti 11GB GDDR5X FTW3 iCX 352-bit, 11G-P4-6696-KR
+Placa de Video Gigabyte GeForce GTX 1070 Ti 8GB GDDR5 Aorus 256-bit, GV-N107TAORUS-8GD
+Placa de Video Asus GeForce GTX 1060 3GB GDDR5 192-bit, PH-GTX1060-3G
+Placa de Video Gigabyte Radeon RX 560 4GB GDDR5 OC 128-bit, GV-RX560OC-4GD
+Placa de Video Gigabyte GeForce GT 710 2GB GDDR5 Low profile 64-bit, GV-N710D5SL-2GL
+Placa de Video PNY GeForce GTX 1070 Ti 8GB GDDR5 Blower 256-bit, VCGGTX1070T8PB
+Placa de Video Zotac GeForce GTX 1080 Ti 11GB GDDR5X Mini 352-bit, ZT-P10810G-10P
+Placa de Video EVGA GeForce GTX 1070 Ti 8GB GDDR5 256-bit, 8G-P4-5670-KR
+Placa de Video EVGA GeForce GT 710 2GB DDR3 64-bit, 02G-P3-2712-KR
+Placa de Video PowerColor Radeon RX 580 4GB GDDR5 Red Dragon 256-bit, AXRX 580 4GBD5-3DHDV2/OC
+Placa de Video Gigabyte GeForce GT 730 2GB DDR3 128-bit, GV-N730-2GI
+Placa de Video MSI GT 710 2GB 64Bit GDDR5, GT 710 2GD5 LP
+Placa de Video MSI GT 710 1GB 32Bit GDDR5, GT 710 1GD5 LP
+Placa de Video MSI GT 730 4GB 128Bit DDR3, N730-4GD3V2
+Placa de Video Galax GeForce GTX 1080 Ti 11GB GDDR5X EXOC White 352-bit, 80IUJBMDQ0EW
+Placa de Video XFX Radeon RX 550 2GB GDDR5 128-bit, RX-550P2SFG5
+Placa de Video EVGA GeForce GTX 1080 8GB GDDR5X SC 256-bit, 08G-P4-5186-KR
+Placa de Video EVGA GeForce GTX 1050 Ti 4GB GDDR5 FTW 128-bit, 04G-P4-6258-RX
+Placa de Video EVGA GeForce GT 730 2GB GDDR5 Low Profile 64-bit, 02G-P3-3732-KR
+Placa de Video EVGA GeForce GT 730 2GB GDDR5 Low Profile 64-bit, 02G-P3-3733-KR
+Placa de Video Zotac GeForce GT 710 2GB GDDR5 Zone 64-bit, ZT-71307-20L
+Placa de Video Zotac GeForce GTX 1070 Ti 8GB GDDR5 AMP! 256-bit, ZT-P10710C-10P
+Placa de Video Zotac GeForce GTX 1070 Ti 8GB GDDR5 AMP! Extreme 256-bit, ZT-P10710B-10P
+Placa de Video Zotac GeForce GTX 1070 Ti 8GB GDDR5 Mini 256-bit, ZT-P10710G-10P
+Placa De Video MSI Geforce GT 710 1GB GDDR3 Low Profile 64-bit, 912-V809-3000
+Placa De Video MSI Geforce GT 730 2GB DDR3 128Bit, N730-2GD3V3
+Placa de Video XFX Radeon R5 230 2GB DDR3 Low Profile 64-bit, R5-230A-CLF2
+Placa de Video MSI GeForce GTX 1050 AERO ITX 2G OC GDDR5 128-bit, 912-V809-2455
+Placa de Video Asus Radeon RX 560 OC 4GB GDDR5 128-bit, RX560-O4G-EVO
+Placa de Vídeo MSI Geforce GTX 1080 Ti Gaming X Trio 11G GDDR5X 352Bit
+Placa de Video Gigabyte GeForce GTX 1080 Ti 11GB GDDR5X Aorus Xtreme Edition WF 352-bit, GV-N108TAORUSX W-11GD
+Placa de Video Asus GeForce GT 1030 2GB GDDR5 64-bit, GT1030-SL-2G-BRK
+Placa De Video Galax Geforce GT 710 1GB GDDR3 64-bit, 71GGH4HXJ4FN 
+Placa de Video Asus Radeon RX 560 OC 4GB GDDR5 ROG Strix 128-bit, ROG-STRIX-RX560-O4G-EVO-GAMING
+Placa de Vídeo MSI GEFORCE GTX 1070 TI TITANIUM 8G GDDR5 256bit
+Placa de Video Gigabyte GeForce GTX 1080 Ti 11GB GDDR5X Aorus Xtreme Edition WF 352-bit, GV-N108TAORUSX WB-11GD
+Placa de Video Galax GeForce GTX 1070 8GB GDDR5 Katana 256-bit, 70NSH6DS2HRZ
+Placa de Video Gigabyte GeForce GTX 1070 Ti 8GB GDDR5 WindForce OC 256-bit, GV-N107TGAMING OC-8GD
+Placa de Video EVGA GeForce GTX 1070 Ti 8GB GDDR5 FTW2 iCX 256-bit, 08G-P4-6775-KR
+Placa de Video Galax GeForce GTX 1070 Ti 8GB GDDR5 EX-Sniper White 256-bit, 70ISH6DHN1WS
+Placa de Video Asus GeForce GTX 1070 Ti 8GB GDDR5 ROG Strix Advanced 256-bit, ROG-STRIX-GTX1070TI-A8G-GAMING
+Placa de Video Asus GeForce GTX 1070 Ti 8GB GDDR5 ROG Strix 256-bit, ROG-STRIX-GTX1070TI-8G-GAMING
+Placa de Video Zotac GeForce GTX 1080 Ti 11GB GDDR5X ArcticStorm 352-bit, ZT-P10810E-30P
+Placa de Video EVGA GeForce GTX 1070 Ti 8GB GDDR5 SC Black Edition 256-bit, 08G-P4-5671-KR
+Placa de Video XFX Radeon RX 550 4GB GDDR5 128-bit, RX-550P4SFG5
+Placa de Video XFX Radeon R7 250E 1GB DDR5 128-bit, R7-250E-ZNJ4
+Placa de Video PNY GT 730 2GB DDR3 Low Profile 64-bit, VCGGT7302D36LXPB-BB
+Placa de Video PNY GT 730 1GB DDR3 Low Profile 64-bit, VCGGT7301D3LXPB-BB
+Placa de Video Gigabyte GeForce GT 730 2GB DDR3 64-bit, GV-N730SL-2GL
+Placa de Video EVGA GeForce GT 640 1GB GDDR5 SC 64-bit, 01G-P3-2642-KR
+Placa de Video Zotac GeForce GTX 1080 Ti 11GB GDDR5X AMP! Extreme 352-bit, ZT-P10810F-10P
+Placa de Video Gigabyte GeForce GTX 1060 6GB GDDR5 Aorus OC 192-bit, GV-N1060AORUS-6GD
+Placa de Video XFX Radeon RX VEGA 64 8GB HBM2 2048-bit, RX-VEGMTSFX6
+Placa de Video XFX Radeon RX VEGA 64 8GB HBM2 2048-bit, RX-VEGMTBFX6
+Placa de Video XFX Radeon RX VEGA 56 8GB HBM2 2048-bit, RX-VEGMLBFX6
+Placa de Video MSI Geforce GTX 1080Ti Gaming X 11GB GDDR5X, 912-V360-001
+Placa de Video EVGA GeForce GTX 1070 8GB GDDR5 FTW2 iCX 256-bit, 08G-P4-6676-KR
+Placa de Video EVGA GeForce GTX 1070 8GB GDDR5 SC2 iCX 256-bit, 08G-P4-6573-KR
+Placa de Video PowerColor Radeon RX 580 8GB GDDR5 Red Devil 256-bit, AXRX 580 8GBD5-3DH/OC
+Placa de Video Zotac GeForce GTX 1070 8GB GDDR5 AMP! 256-bit, ZT-P10700N-10P
+Placa de Video PowerColor Radeon R5 230 2GB DDR3 64-bit, AXR5 230 2GBK3-HE
+Placa de Video Galax GeForce GT 710 2GB DDR3 64-bit, 71GPH4HXJ4FN
+Placa de Video Asus Radeon RX 570 4GB OC GDDR5 Expedition 256-bit, EX-RX570-O4G
+Placa de Video Sapphire Radeon RX VEGA 56 8GB HBM2 2048-bit, 21276-00-20G
+Placa de Video MSI Radeon RX VEGA 64 8G HBM2
+Placa de Video Galax GeForce GT 730 2GB GDDR5 64-bit, 73GPH4HXB2TV
+Placa de Video MSI Radeon RX 560 AERO ITX 4G OC GDDR5 128bit
+Placa de Video EVGA GeForce GTX 1080 Ti 11GB GDDR5X FTW3 DT iCX 352-bit, 11G-P4-6694-KR
+Placa de Video EVGA GeForce GTX 1080 8GB GDDR5X iCX 256-bit, 08G-P4-6581-KR
+Placa de Video Galax GeForce GTX 1080 Ti 11GB GDDR5X HOF Watercooled 352-bit, 80IUJBDHQ8HO
+Placa de Video MSI GeForce GT 610 2GB DDR3, N610-2GD3/LP
+Placa de Video PowerColor Radeon RX 560 4GB GDDR5 Red Dragon 128-bit, AXRX 560 4GBD5-DHAM
+Placa de Video Sapphire Radeon RX VEGA 64 8GB HBM2 2048-bit, 21275-02-20G
+Placa de Video Sapphire Radeon R5 230 1GB DDR3 64-bit, 11233-01-20G
+Placa de Video Asus Dual GeForce GTX 1050 Ti OC 4GB GDDR5 128-bit, DUAL-GTX1050TI-O4G-V2
+Placa de Video XFX Radeon RX 560D 4GB GDDR5 128-bit, RX-560D4SFG5
+Placa de Video XFX Radeon RX 560D 2GB GDDR5 128-bit, RX-560D2SFG5
+Placa de Video Sapphire Radeon RX 580 8GB GDDR5 Nitro+ 256-bit, 11265-21-20G
+Placa de Video Zotac GeForce GTX 1050 Ti 4GB GDDR5 Low Profile 128-bit, ZT-P10510E-10L
+Placa De Vídeo MSI RADEON RX 580 GAMING X 4G GDDR5 256 Bits
+Placa de Vídeo MSI Geforce GTX 1080 Ti Lightning Z 11GB GDDR5 352Bit
+Placa de Video EVGA GeForce GTX 1070 8GB GDDR5 FTW2 DT iCX 256-bit, 08G-P4-6674-KR
+Placa de Video EVGA GeForce GTX 1060 6GB GDDR5 FTW2 iCX 192-bit, 06G-P4-6768-KR
+Placa de Video EVGA GeForce GTX 1080 8GB GDDR5X FTW2 DT iCX 256-bit, 08G-P4-6684-KR
+Placa de Video EVGA GeForce GTX 1060 6GB GDDR5 FTW2 DT iCX 192-bit, 06G-P4-6766-KR
+Placa De Vídeo MSI RADEON RX 550 AERO ITX 2G OC GDDR5 128 Bits, RX 550 AERO ITX 2G OC
+Placa de Video EVGA GeForce GTX 1050 Ti 4GB GDDR5 FTW DT 128-bit, 04G-P4-6256-KR
+Placa de Video Asus Radeon RX 560 OC 4GB GDDR5 128-bit, RX560-O4G
+Placa de Vídeo MSI Geforce GTX 1080 Ti Armor OC 11GB GDDR5X 352Bit, 912-V360-010
+Placa de Video Asus Radeon RX 560 4GB GDDR5 ROG Strix 128-bit, ROG-STRIX-RX560-4G-GAMING
+Placa de Video PowerColor Radeon RX 550 2GB GDDR5 Red Dragon 128-bit, AXRX 550 2GBD5-DHV2/OC
+Placa de Video PowerColor Radeon RX 560 2GB GDDR5 Red Dragon 128-bit, AXRX 560 2GBD5-DHV3/OC
+Placa de Video PowerColor Radeon RX 560 4GB GDDR5 Red Dragon 128-bit, AXRX 560 4GBD5-DHV2/OC
+Placa de Video Asus GeForce GTX 1080 Ti 11GB GDDR5X ROG Poseidon 352-bit, ROG-POSEIDON-GTX1080TI-P11G-GAMING
+Placa de Video PNY GeForce GTX 1080 Ti 11GB GDDR5X Blower 352-bit, VCGGTX1080T11PB-CG2
+Placa de Video EVGA GeForce GT 1030 2GB GDDR5 Low Profile 64-bit, 02G-P4-6332-KR
+Placa de Video EVGA GeForce GT 1030 2GB GDDR5 SC 64-bit, 02G-P4-6333-KR
+Placa de Video PowerColor Radeon RX 580 8GB GDDR5 Red Dragon 256-bit, AXRX 580 8GBD5-3DHDV2/OC
+Placa de Video Asus Radeon RX 580 OC 8GB GDDR5 ROG Strix 256-bit, ROG-STRIX-RX580-O8G-GAMING
+Placa de Video Gigabyte GeForce GTX 1080 8GB GDDR5X WindForce 256-bit, GV-N1080D5X-8GD
+Placa de Video Gigabyte GeForce GTX 1080 Ti 11GB GDDR5X Turbo 352-bit, GV-N108TTURBO-11GD
+Placa de Video Gigabyte GeForce GT 1030 2GB GDDR5 Silent Low Profile 64-bit, GV-N1030SL-2GL
+Placa de Video Asus Dual Radeon RX 580 OC 4GB GDDR5 256-bit, DUAL-RX580-O4G
+Placa de Video Asus Dual Radeon RX 580 OC 8GB GDDR5 256-bit, DUAL-RX580-O8G
+Placa de Video EVGA GeForce GTX 1080 8GB GDDR5X FTW2 iCX 256-bit, 08G-P4-6686-KR
+Placa de Video Sapphire Radeon RX 560 4GB GDDR5 Pulse 128-bit, 11267-00-20G
+Placa de Video Galax GeForce GTX 1050 2GB GDDR5 OC Low Profile 128-bit, 50NPH8DSP2MN
+Placa de Video Asus Radeon RX 560 OC 2GB GDDR5 128-bit, RX560-O2G
+Placa de Video EVGA GeForce GTX 1080 8GB GDDR5X SC2 iCX 256-bit, 08G-P4-6583-KR
+Placa de Video Sapphire Radeon RX 560 2GB GDDR5 Pulse 128-bit, 11267-02-20G
+Placa de Video Asus Radeon RX 560 OC 4GB GDDR5 ROG Strix 128-bit, ROG-STRIX-RX560-O4G-GAMING
+Placa de Video Gigabyte GeForce GTX 1060 6GB GDDR5 WindForce 192-bit, GV-N1060D5-6GD
+Placa de Video PNY GeForce GTX 1080 Ti 11GB GDDR5X OC XLR8 352-bit, VCGGTX1080T11XGPB-OC
+Placa de Video Zotac GeForce GTX 1060 6GB GDDR5 AMP! 192-bit, ZT-P10600G-10M
+Placa de Video Zotac GeForce GTX 1080 11GB GDDR5X AMP Extreme 256-bit, ZT-P10800I-10P
+Placa de Video MSI GeForce GT 1030 AERO ITX 2G OC GDDR5 64-bit
+Placa de Video Galax GeForce GTX 1080 Ti 11GB GDDR5X HOF Limited Edition 352-bit, 80IUJBDHQ7LH
+Placa de Video Galax GeForce GTX 1080 Ti 11GB GDDR5X HOF 352-bit, 80IUJBDHQ7FZ
+Placa de Video Galax GeForce GTX 1080 Ti 11GB GDDR5X HOF 352-bit, 80IUJBDHQ7JY
+Placa de Vídeo Asus ROG Strix Geforce GTX 1080 Ti OC 11GB GDDR5X, ROG-STRIX-GTX1080TI-O11G-GAMING
+Placa de Video EVGA GeForce GTX 1080 Ti 11GB GDDR5X SC2 iCX 352-bit, 11G-P4-6593-KR
+Placa de Video EVGA GeForce GTX 1080 Ti 11GB GDDR5X Black Edition SC iCX 352-bit, 11G-P4-6393-KR
+Placa de Video EVGA GeForce GTX 1080 Ti 11GB GDDR5X Black Edition iCX 352-bit, 11G-P4-6391-KR
+Placa de Video EVGA GeForce GTX 1080 Ti 11GB GDDR5X iCX 352-bit, 11G-P4-6591-KR
+Placa de Video Gigabyte Radeon RX 560 4GB GDDR5 OC 128-bit, GV-RX560GAMINGOC-4GD
+Placa de Video Gigabyte Radeon RX 560 2GB GDDR5 OC 128-bit, GV-RX560GAMINGOC-2GD
+Placa de Video Galax GeForce GTX 1050 Ti 4GB GDDR5 OC Low Profile 128-bit, 50IQH8DSP2MN
+Placa de Video PNY GeForce GTX 1080 Ti 11GB GDDR5X Founders Edition 352-bit, VCGGTX1080T11PB-FE
+Placa de Video Zotac GeForce GT 1030 2GB GDDR5 Low Profile 64-bit, ZT-P10300A-10L
+Placa de Video PNY Quadro P4000 8GB GDDR5 256-bit, VCQP4000-PB
+Placa de Video Gigabyte Radeon RX 580 XTR 8GB GDDR5 Aorus 256-bit, GV-RX580XTRAORUS-8GD
+Placa de Video Gigabyte GeForce GTX 1080 Ti 11GB GDDR5X Aorus Xtreme Edition 352-bit, GV-N108TAORUS X-11GD
+Placa de Video PNY Quadro P4000 8GB GDDR5 256-bit, VCQP4000-PORPB
+Placa de Video PNY Quadro P2000 5GB GDDR5 160-bit, VCQP2000-PORPB
+Placa de Video PNY Quadro P400 2GB GDDR5 64-bit, VCQP400-PORPB
+Placa de Vídeo MSI GEFORCE GTX 1060 IGAMER 6G OC 192Bits GDDR5
+Placa de Video Sapphire Radeon RX 580 8GB GDDR5 Nitro+ 256-bit, 11265-01-20G
+Placa de Video Sapphire Radeon RX 580 4GB GDDR5 Pulse 256-bit, 11265-09-20G
+Placa de Video Sapphire Radeon RX 550 4GB GDDR5 Pulse 128-bit, 11268-01-20G
+Placa de Video Sapphire Radeon RX 550 2GB GDDR5 Pulse 128-bit, 11268-03-20G
+Placa de Video Gigabyte GeForce GTX 1070 8GB GDDR5 Aorus 256-bit, GV-N1070AORUS-8GD
+Placa de Video Galax GeForce GTX 1080 Ti 11GB GDDR5X EXOC 352-bit, 80IUJBMDP0EC
+Placa de Video Zotac GeForce GTX 1080 Ti 11GB GDDR5X Blower 352-bit, ZT-P10810B-10P
+Placa de Video Gigabyte Radeon RX 550 2GB GDDR5 128-bit, GV-RX550D5-2GD
+Placa de Video Gigabyte Radeon RX 580 8GB GDDR5 Aorus 256-bit, GV-RX580AORUS-8GD
+Placa de Video Zotac GeForce GTX 1080 Ti 11GB GDDR5X AMP! 352-bit, ZT-P10810D-10P
+Placa de Video Zotac GeForce GTX 1080 Ti 11GB GDDR5X AMP! Extreme 352-bit, ZT-P10810C-10P
+Placa de Video Sapphire Radeon RX 570 4GB GDDR5 Pulse 256-bit, 11266-04-20G
+Placa de Video Sapphire Radeon RX 570 4GB GDDR5 Nitro+ 256-bit,11266-14-20G
+Placa de Video Sapphire Radeon RX 580 4GB GDDR5 Nitro+ 256-bit, 11265-07-20G
+Placa de Video Sapphire Radeon RX 580 8GB GDDR5 Nitro+ 256-bit, 11265-00-40G
+Placa De Vídeo MSI Geforce GTX 1080 Ti Aero 11G GDDR5 352 Bits, Geforce GTX 1080 TI AERO 11G OC
+Placa de Video PowerColor Radeon RX 570 4GB GDDR5 Red Devil 256-bit, AXRX 570 4GBD5-3DH/OC
+Placa de Video PowerColor Radeon RX 580 8GB GDDR5 Red Dragon 256-bit, AXRX 570 8GBD5-3DHD/OC
+Placa de Video PowerColor Radeon RX 550 2GB GDDR5 Red Dragon 128-bit, AXRX 550 2GBD5-DH/OC
+Placa De Vídeo MSI RADEON RX 580 ARMOR 4G OC GDDR5 256 Bits, RX 580 ARMOR 4G OC 
+Placa de Video Sapphire Radeon RX 570 4GB GDDR5 Pulse ITX 256-bit, 11266-06-20G
+Placa de Video Sapphire Radeon RX 580 8GB GDDR5 Pulse 256-bit, 11265-05-20G
+Placa De Vídeo MSI RADEON RX 580 GAMING X 8G GDDR5 256 Bits, RX 580 GAMING X 8G
+Placa De Vídeo MSI RADEON RX 570 GAMING X 4G GDDR5 256 Bits, RX 570 GAMING X 4G 
+Placa de Video MSI Radeon RX 580 8GB Armor OC 256-bit, 912-V341-284
+Placa de Video MSI Radeon RX 570 4GB GDDR5 Armor OC 256-bit, 912-V341-297
+Placa de Video XFX Radeon RX 550 2GB GDDR5 128-bit, RX-550P2TFG5
+Placa de Video Asus Radeon RX 550 2GB GDDR5 128-bit, RX550-2G
+Placa de Video Asus Radeon RX 550 4GB GDDR5 128-bit, RX550-4G
+Placa de Video Asus Dual GeForce GTX 1050 Ti OC 4GB GDDR5 128-bit, DUAL-GTX1050TI-O4G
+Placa de Video Asus Radeon RX 570 OC 4GB GDDR5 ROG Strix 256-bit, ROG-STRIX-RX570-O4G-GAMING
+Placa de Video XFX Radeon RX 580 8GB GDDR5 GTS XXX OC+ 256-bit, RX-580P8DFD6
+Placa de Video XFX Radeon RX 580 8GB GDDR5 OC+ 256-bit, RX-580P8DBD6
+Placa de Video XFX Radeon RX 580 4GB GDDR5 OC GTS XXX 256-bit, RX-580P4DFD6
+Placa de Video XFX Radeon RX 570 4GB GDDR5 RS Black Edition 256-bit, RX-570P4DBD6
+Placa de Video Gigabyte Radeon RX 580 4GB GDDR5 Aorus 256-bit, GV-RX580AORUS-4GD
+Placa de Video Gigabyte Radeon RX 580 4GB GDDR5 WindForce 256-bit, GV-RX580GAMING-4GD
+Placa de Video PNY Quadro P600 2GB GDDR5 128-bit, VCQP600-PORPB
+Placa de Video PNY Quadro P1000 4GB GDDR5 128-bit, VCQP1000-PORPB
+Placa de Video Gigabyte GeForce GTX 1080 Ti 11GB GDDR5X OC 352-bit, GV-N108TGAMINGOC-11GD
+Placa de Video Gigabyte GeForce GTX 1080 Ti 11GB GDDR5X Aorus 352-bit, GV-N108TAORUS-11GD
+Placa de Video Gigabyte Radeon RX 570 4GB GDDR5 Aorus 256-bit, GV-RX570AORUS-4GD
+Placa de Video Gigabyte Radeon RX 550 2GB GDDR5 WindForce OC 128-bit, GV-RX550GAMING OC-2GD
+Placa de Video Gigabyte Radeon RX 570 4GB GDDR5 WindForce 256-bit, GV-RX570GAMING-4GD
+Placa de Video Gigabyte Radeon RX 580 8GB GDDR5 WindForce 256-bit, GV-RX580GAMING-8GD
+Placa de Video Asus GeForce GTX 1050 Ti OC 4GB GDDR5 ROG Strix 128-bit, STRIX-GTX1050TI-O4G-GAMING
+Placa de Vídeo MSI GTX 1050 TI GAMING X 4G GDDR5 128Bit
+Placa de Video EVGA GeForce GTX 1060 3GB GDDR5 FTW+ DT 192-bit, 03G-P4-6166-KR
+Placa de Video EVGA GeForce GTX 1060 6GB GDDR5 192-bit, 06G-P4-5161-KR
+Placa de Video Sapphire Radeon RX 480 8GB GDDR5 Nitro+ OC 256-bit, 11260-20-20G
+Placa de Vídeo MSI GeForce GTX 1050 Ti 4G OC GDDR5 128Bit, Geforce-GTX-1050Ti-4G-OC
+Placa de Vídeo MSI Geforce GTX 1080 Ti Founders Edition 11GB GDDR5X 352Bit
+Placa de Video EVGA GeForce GTX 1080 11GB GDDR5X Ti Founders Edition 352-bit, 11G-P4-6390-KR
+Placa de Video Galax GeForce GTX 1070 8GB GDDR5 HOF 256-bit, 70NSH6DHL2SH
+Placa de Video Zotac GeForce GTX 1080 8GB GDDR5X Mini 256-bit, ZT-P10800H-10P
+Placa de Video EVGA GeForce GTX 1050 2GB GDDR5 FTW DT 128-bit, 02G-P4-6155-KR
+Placa de Video Sapphire Radeon RX 460 2GB GDDR5 OC 128-bit, 11257-10-20G
+Placa de Video Sapphire Radeon RX 460 4GB GDDR5 Nitro 128-bit, 11257-06-20G
+Placa de Video Sapphire Radeon RX 480 4GB GDDR5 Nitro OC 256-bit, 11260-13-20G
+Placa de Video Gigabyte GeForce GTX 1080 Ti 11GB GDDR5X Founders Edition 352-bit, GV-N108TD5X-B
+Placa de Video Zotac GeForce GTX 1080 Ti 11GB GDDR5X Founders Edition 352-bit, ZT-P10810A-10P
+Placa de Video Galax GeForce GTX 1070 8GB GDDR5 EXOC Sniper Black 256-bit, 70NSH6DHM9ES
+Placa de Vídeo Galax Geforce GTX 1070 OC Mini 8GB GDDR5 256-Bit, 70NSH6DVO5MN
+Placa de Video Galax GeForce GTX 1060 3GB GDDR5 EXOC White 192-bit, 60NNH7DVM3NW
+Placa de Video EVGA GeForce GTX 1080 8GB GDDR5X FTW Hybrid 256-bit, 08G-P4-6288-KR
+Placa de Video EVGA GeForce GTX 1080 8GB GDDR5X Classfield 256-bit, 08G-P4-6386-KR
+Placa de Vídeo MSI GeForce GTX 1050 Ti 4GT Low Profile GDDR5 128-bit
+Placa de Video PNY Quadro M4000 8GB GDDR5 256-bit, VCQM4000-PORPB
+Placa de Video MSI GeForce GTX 1050 GAMING X 2G 128-bit GDDR5
+Placa de Video EVGA GeForce GTX 1060 3GB GDDR5 FTW 192-bit, 03G-P4-6168-KR
+Placa de Vídeo MSI RADEON RX 480 ARMOR 8G OC GDDR5 256Bit
+Placa de Vídeo MSI GeForce GTX 1060 6GT OCV1 GDDR5 192Bit
+Placa de Video Gigabyte GeForce GTX 1070 8GB GDDR5 WindForce 256-bit, GV-N1070WF2-8GD
+Placa de Video Gigabyte GeForce GTX 1050 2GB GDDR5 G1 Gaming 128-bit, GV-N1050G1 GAMING-2GD
+Placa de Video Gigabyte GeForce GTX 1050 2GB GDRD5 OC Low Profile 128-bit, GV-N1050OC-2GL
+Placa de Video Gigabyte GeForce GTX 1050 Ti 4GB GDDR5 OC Low Profile 128-bit, GV-N105TOC-4GL
+Placa de Video Asus GeForce GTX 1050 DUAL OC 2GB GDDR5 128-bit, DUAL-GTX1050-O2G
+Placa de Video EVGA GeForce GTX 1060 6GB GDDR5 FTW+ DT 192-bit, 06G-P4-6266-KR
+Placa de Video EVGA GeForce GTX 1060 6GB GDDR5 FTW 192-bit, 06G-P4-6268-KR
+Placa de Video EVGA GeForce GTX 1060 3GB GDDR5 SSC 192-bit, 03G-P4-6167-KR
+Placa de Video EVGA GeForce GTX 1050 2GB GDDR5 FTW 128-bit, 02G-P4-6157-KR
+Placa de Video Gigabyte GeForce GTX 1080 8GB GDDR5X G1 ROCK Edition 256-bit, GV-N1080G1 ROCK-8GD
+Placa de Video Gigabyte GeForce GTX 1070 8GB GDDR6 Xtreme Gaming 256-bit, GV-N1070XTREME-8GD
+Placa de Video Gigabyte GeForce GTX 1070 8GB GDDR5 G1 ROCK Edition 256-bit, GV-N1070G1 ROCK-8GD
+Placa de Video Gigabyte GeForce GTX 1080 8GB GDDR5X Xtreme WaterForce 256-bit, GV-N1080XTREME WB-8GD
+Placa de Video Asus Radeon RX 480 DUAL OC 4GB GDDR5 256-bit, DUAL-RX480-O4G
+Placa de Video EVGA GeForce GTX 1060 6GB GDDR5 SSC 192-bit, 06G-P4-6267-KR
+Placa de Video EVGA GeForce GTX 1060 6GB GDDR5 SSC 192-bit, 06G-P4-6264-KR
+Placa de Video Gigabyte GeForce GTX 1080 8GB GDDR5X Turbo OC 256-bit, GV-N1080TTOC-8GD
+Placa de Video Gigabyte GeForce GTX 1080 8GB GDDR5X WindForce OC 256-bit, GV-N1080WF3OC-8GD
+Placa de Video EVGA GeForce GTX 1050 Ti 4GB GDDR5 SSC 128-bit, 04G-P4-6255-KR
+Placa de Video Zogis GeForce GTX 1060 6GB GDDR5 192-bit, ZO1060-6GD5H 
+Placa de Video Zogis GeForce GTX 1050 Ti 4GB GDDR5 128-bit, ZO1050Ti-4GD5H 
+Placa de Video EVGA GeForce GTX 1050 Ti 4GB GDDR5 FTW 128-bit, 04G-P4-6258-KR
+Placa de Video PNY GeForce GTX 1050 2GB GDDR5 128-bit, VCGGTX10502PB
+Placa de Video Gigabyte GeForce GTX 1060 6GB GDDR5 WindForce OC 192-bit, GV-N1060WF2OC-6GD
+Placa de Video Gigabyte GeForce GTX 1060 3GB GDDR5 G1 Gaming WindForce 192-bit, GV-N1060WF2OC-3GD
+Placa de Video Gigabyte GeForce GTX 1050 Ti 4GB GDDR5 WindForce OC 128-bit, GV-N105TWF2OC-4GD
+Placa de Video PowerColor Radeon RX 480 4GB GDDR5 Red Dragon 256-bit, AXRX 480 4GBD5-3DHDV2
+Placa de Video Asus GeForce GTX 1050 Ti 4GB GDDR5 128-bit, PH-GTX1050TI-4G
+Placa de Video Asus GeForce GTX 1050 2GB GDDR5 128-bit, PH-GTX1050-2G
+Placa de Video EVGA GeForce GTX 1070 8GB GDDR5 Black Edition 256-bit, 08G-P4-5171-KR
+Placa de Video EVGA GeForce GTX 1080 8GB GDDR5X 256-bit, 08G-P4-5180-KR
+Placa de Video Galax GeForce GTX 1050 2GB GDDR5 EXOC 128-bit, 50NPH8DVN6EC
+Placa de Video PowerColor Radeon HD 5450 2GB GDDR3 128-bit, AX5450 2GBK3-SHV7E
+Placa de Video Galax GeForce GTX 1050 Ti 4GB GDDR5 EXOC 128-bit, 50IQH8DVN6EC
+Placa de Video Galax GeForce GTX 1050 2GB GDDR5 OC 128-bit, 50NPH8DSN8OC
+Placa de Video PNY GeForce GT 610 2GB 64-bit, VCGGT6102XPB
+Placa de Video Zogis GeForce GT 210 1GB DDR2 64-bit, ZO210-1GD2LP
+Placa de Video PowerColor Radeon RX 470 4GB GDDR5 Devil 256-bit, AXRX 470 4GBD5-3DH/OC
+Placa de Video Galax GeForce GTX 1080 8GB GDDR5X EXOC Sniper 256-bit, 80NSJ6DHM9ES 
+Placa de Vídeo MSI RADEON RX 470 ARMOR 4G OC GDDR5 256Bit
+Placa de Vídeo MSI GeForce GTX 1050 2GT OC GDDR5 128Bit
+Placa de Vídeo MSI GeForce GTX 1050 Ti 4GT OC GDDR5 128Bit
+Placa de Video XFX Radeon R7 360 2GB GDDR5 128-bit, R7-360P-2NL5
+Placa de Video Gigabyte GeForce GTX 1050 2GB GDDR5 OC 128-bit, GV-N1050OC-2GD
+Placa de Video PNY GeForce GTX 1060 6GB GDDR5 OC XLR8 192-bit, VCGGTX10606XGPB-OC
+Placa de Video PNY GeForce GTX 1050 Ti 4GB GDDR5 128-bit, VCGGTX1050T4PB
+Placa de Video PNY GeForce GTX 1050 Ti 4GB GDDR5 OC XLR8 128-bit, VCGGTX1050T4XGPB-OC
+Placa de Video Sapphire Radeon RX 480 8GB GDDR5 Nitro+ 256-bit, 11260-07-20G
+Placa de Video PowerColor Radeon RX 460 4GB GDDR5 Red Dragon 128-bit, AXRX 460 4GBD5-DHV2/OC
+Placa de Video EVGA GeForce GTX 1050 Ti 4GB GDDR5 128-bit, 04G-P4-6251-KR
+Placa de Video EVGA GeForce GTX 1050 2GB GDDR5 SSC 128-bit, 02G-P4-6154-KR
+Placa de Video EVGA GeForce GTX 1050 2GB GDDR5 SC 128-bit, 02G-P4-6152-KR
+Placa de Video EVGA GeForce GTX 1050 2GB GDDR5 128-bit, 02G-P4-6150-KR
+Placa de Video Gigabyte GeForce GTX 1050 D5 2GB GDDR5 128-bit, GV-N1050D5-2GD
+Placa de Video EVGA GeForce GTX 1070 8GB GDDR5 256-bit, 08G-P4-5170-KR
+Placa de Video Gigabyte GeForce GTX 1050 2GB GDDR5 WindForce OC 128-bit, GV-N1050WF2OC-2GD
+Placa de Video PowerColor Radeon RX 470 4GB GDDR5 Red Dragon 256-bit, AXRX 470 4GBD5-3DHDV2/OC
+Placa de Video PowerColor Radeon RX 480 8GB GDDR5 Red Dragon 256-bit, AXRX 480 8GBD5-3DHD
+Placa de Video Asus GeForce GTX 1050 DUAL 2GB GDDR5 128-bit, DUAL-GTX1050-2G
+Placa de Video Asus GeForce GTX 1050 Ti DUAL 4GB GDDR5 128Bit, DUAL-GTX1050TI-4G
+Placa de Video Gigabyte GeForce GTX 1050 Ti 4GB GDDR5 G1 Gaming OC 128-bit, GV-N105TG1 GAMING-4GD
+Placa de Video PCYES! Radeon RX 470 4GB GDDR5 128-bit, PRX47025604D5
+Placa de Video Galax GeForce GTX 1050 Ti 4GB GDDR5 OC 128-bit, 50IQH8DSN8OC
+Placa de Video Gigabyte GeForce GTX 1050 Ti 4GB GDDR5 OC 128-bit, GV-N105TOC-4GD
+Placa de Video Gigabyte GeForce GTX 1050 Ti 4GB GDDR5 128-bit, GV-N105TD5-4GD
+Placa de Video XFX Radeon RX 480 RS 4GB GDDR5 256-bit, RX-480P4JFC6
+Placa de Video XFX Radeon RX 480 RS 4GB GDDR5 256-bit, RX-480P4LFB6
+Placa de Video PNY Quadro K420 2GB GDDR3 128-bit, VCQK420-2GB-PORPB
+Placa de Video Zotac GeForce GTX 1050 2GB GDDR5 Mini 128-bit, ZT-P10500A-10L
+Placa de Video Zotac GeForce GTX 1050 Ti 4GB GDDR5 OC 128-bit, ZT-P10510B-10L
+Placa de Video Galax GeForce GTX 1070 8GB GDDR5 EXOC Sniper White 256-bit, 70NSH6DHN1WS
+Placa de Video EVGA GeForce GTX 1050 Ti 4GB GDDR5 SC 128-bit, 04G-P4-6253-KR
+Placa de Video Gigabyte GeForce GTX 1060 3GB GDDR5 G1 Gaming 192-bit, GV-N1060G1 GAMING-3GD
+Placa de Video Asus Radeon RX 480 OC 8GB GDDR5 ROG Strix 256-bit, STRIX-RX480-O8G-GAMING
+Placa de Video Gigabyte GeForce GTX 1070 8GB GDDR5 Mini ITX OC 256-bit, GV-N1070IXOC-8GD
+Placa de Video Gigabyte GeForce GTX 1060 3GB GDDR5 Mini ITX OC 192-bit, GV-N1060IXOC-3GD
+Placa de Video Gigabyte GeForce GTX 1060 6GB GDDR5 Mini ITX OC 192-bit, GV-N1060IXOC-6GD
+Placa de Video Gigabyte Radeon RX 480 8GB GDDR5 G1 Gaming OC 256-bit, GV-RX480G1-GAMING-8GD
+Placa de Video Gigabyte Radeon RX 480 4GB GDDR5 G1 Gaming OC 256-bit, GV-RX480G1-GAMING-4GD
+Placa de Video Gigabyte Radeon RX 470 4GB GDDR5 G1 Gaming OC 256-bit, GV-RX470G1-GAMING-4GD
+Placa de Video Gigabyte Radeon RX 460 4GB GDDR5 WindForce OC 128-bit, GV-RX460WF2OC-4GD
+Placa de Video Zotac GeForce GTX 1050 Ti 4GB GDDR5 128-bit, ZT-P10510A-10L
+Placa de Video EVGA GeForce GTX 1060 6GB GDDR5 SSC DT 192-bit, 06G-P4-6265-KR
+Placa de Video EVGA GeForce GTX 1060 6GB GDDR5 192-bit, 06G-P4-6262-KR
+Placa de Video PNY GeForce GTX 750 Ti 2GB GDDR5 XLR8 128-bit, VCGGTX750T2XPB-PORT
+Placa de Video Galax GeForce GTX 1080 8GB GDDR5X EXOC Sniper White 256-bit, 80NSJ6DHN1WS
+Placa de Video Asus GeForce GTX 1070 DUAL 8GB OC, DUAL-GTX1070-O8G 
+Placa de Video Gigabyte GeForce GTX 1070 8GB GDDR5 WindForce OC 256-bit, GV-N1070WF2OC-8GD
+Placa de Vídeo MSI RADEON RX 480 ARMOR 4G OC GDDR5 256Bit
+Placa de Video PNY GeForce GTX 1060 3GB GDDR5 192-bit, VCGGTX10603PB
+Placa de Video Zotac GeForce GT 730 4GB DDR3 Synergy 128-bit, ZT-71109-10L
+Placa de Video XFX Radeon RX 480 8GB GDDR5 GTR OC 256-bit, RX-480P8DFA6
+Placa de Video XFX Radeon RX 460 4GB GDDR5 OC 128-bit, RX-460P4DFG5
+Placa de Video XFX Radeon RX 480 8GB GDDR5 GTR OC Black Edt 256-bit, RX-480P8DBA6
+Placa de Video XFX Radeon RX 480 RS 8GB GDDR5 OC 256-bit, RX-480P8LFB6
+Placa de Video XFX Radeon RX 470 RS 4GB GDDR5 OC 256-bit, RX-470P4LFB6
+Placa de Video XFX Radeon RX 460 4GB GDDR5 128-bit, RX-460P4SFG5
+Placa de Video XFX Radeon RX 460 2GB GDDR5 OC 128-bit, RX-460P2DFG5
+Placa de Video Zotac GeForce GTX 1070 8GB GDDR5 Mini 256-bit, ZT-P10700G-10M
+Placa de Video Galax GeForce GTX 1060 3GB GDDR5 EXOC 192-bit, 60NNH7DVM6O3
+Placa de Video PNY Quadro K1200 4GB DDR5 128-bit, VCQK1200DVI-PORPB
+Placa de Video PNY Quadro K600 1GB DDR3 128-bit, VCQK600-PORPB
+Placa de Video EVGA GeForce GTX 1060 3GB GDDR5 192-bit, 03G-P4-6160-KR
+Placa de Video PNY GeForce GTX 1070 8GB GDDR5 OC XLR8 256-bit, VCGGTX10708XGPB-OC
+Placa de Video PNY GeForce GTX 1080 8GB GDDR5X OC XLR8 256-bit, VCGGTX10808XGPB-OC
+Placa de Vídeo MSI Geforce GTX 1070 8G Founders Edition GDDR5 256Bit
+Placa de Vídeo MSI Geforce GTX 1080 ARMOR 8G GDDR5X 256Bit
+Placa de Video Galax GeForce GTX 1060 3GB GDDR5 OC 192-bit, 60NNH7DSL9C3
+Placa de Video Galax GeForce GTX 1070 8GB GDDR5 EX 256-bit, 70NSH6DHL4XE
+Placa de Video Galax GeForce GTX 1060 6GB GDDR5 EXOC White 192-bit, 60NRH7DVM3VW
+Placa de Video Asus GeForce GTX 1060 6GB GDDR5 ROG Strix 192-bit, STRIX-GTX1060-6G-GAMING
+Placa de Video Asus GeForce GTX 1080 8GB GDDR5X ROG Strix 256-bit, STRIX-GTX1080-A8G-GAMING
+Placa de Video MSI GeForce GTX 1060 3G OCV1 GDDR5 192Bit
+Placa de Vídeo MSI Geforce GTX 1060 ARMOR 6G OCV1 GDDR5 192Bit
+Placa de Video MSI GeForce GTX 1060 3GT OC GDDR5 192Bit
+Placa de Vídeo MSI Geforce GTX 1060 ARMOR 3G OCV1 GDDR5 192Bit
+Placa de Video EVGA GeForce GTX 1080 8GB GDDR5X SC 256-bit, 08G-P4-5182-KR
+Placa de Video XFX Radeon RX 460 2GB GDDR5 OC 128-bit, RX-460P2SFG5
+Placa de Video Asus Radeon RX 480 8GB GDDR5 256-bit, RX480-8G
+Placa de Video Asus Radeon RX 470 OC 4GB GDDR5 ROG Strix 256-bit, STRIX-RX470-O4G-GAMING
+Placa de Video XFX Radeon RX 470 4GB GDDR5 OC 256-bit, RX-470P4SFD5
+Placa de Video Asus GeForce GTX 1060 DUAL OC 3GB GDDR5 198-bit, DUAL-GTX1060-O3G
+Placa de Video XFX Radeon RX 470 RS 4GB GDDR5 OC Black Edition 256-bit, RX-470P4LDB6
+Placa de Video EVGA GeForce GTX 1080 8GB GDDR5X Classified DT 256-bit, 08G-P4-6384-KR
+Placa de Video EVGA GeForce GTX 950 2GB GDDR5 REF 128-bit, 02G-P4-0954-KR
+Placa de Video EVGA GeForce GTX 1070 8GB GDDR5 SC Black Edition 256-bit, 08G-P4-5173-KR
+Placa de Video EVGA GeForce GTX 1060 3GB GDDR5 FTW+ 192-bit, 03G-P4-6367-KR
+Placa de Video EVGA GeForce GTX 1060 6GB GDDR5 FTW+ 192-bit, 06G-P4-6368-KR
+Placa de Video EVGA GeForce GTX 1060 6GB GDDR5 FTW+ DT 192-bit, 06G-P4-6366-KR
+Placa de Video EVGA GeForce GTX 1060 3GB GDDR5 192-bit, 03G-P4-5160-KR
+Placa de Video EVGA GeForce GTX 1060 3GB GDDR5 SC 192-bit, 03G-P4-6162-KR
+Placa de Video MSI RADEON RX 470 GAMING X 4G
+Placa de Video Sapphire Radeon RX 470 4GB GDDR5 Nitro+ OC 256-bit, 11256-01-20G
+Placa de Video Asus GeForce GTX 1070 DUAL OC 8GB, DUAL- GTX1070-O8G
+Placa de Video Asus GeForce GTX 1070 DUAL 8GB GDDR5 256-bit, DUAL-GTX1070-8G
+Placa de Video Asus Radeon RX 460 OC 4GB GDDR5 ROG Strix 128-bit, STRIX-RX460-O4G-GAMING
+Placa de Video Gigabyte Radeon RX 480 8GB GDDR5 256-bit, GV-RX480D5-8GD-B
+Placa de Video Gigabyte Radeon RX 460 2GB GDDR5 WindForce OC 128-bit, GV-RX460WF2OC-2GD
+Placa de Video PowerColor Radeon RX 480 8GB GDDR5 Red Devil 256-bit, AXRX 480 8GBD5-3DH/OC
+Placa de Video Sapphire Radeon RX 480 4GB GDDR5 Nitro+ OC 256-bit, 11260-02-20G
+Placa de Video Sapphire Radeon RX 470 4GB GDDR5 OC 256-bit, 11256-00-20G
+Placa de Video Asus Radeon R9 NANO 4GB HBM 4096-bit, R9NANO-4G
+Placa de Video PowerColor Radeon R9 4GB HBM Nano 4096-bit, AXR9 NANO 4GBHBM-DH
+Placa de Video MSI Radeon R9 FURY X 4GB 4096Bit, R9 FURY X 4G
+Placa de Video Asus Radeon RX 460 DUAL OC 2GB GDDR5 128-bit, DUAL-RX460-02G
+Placa de Video Gigabyte GeForce GTX 1080 8GB GDDR5X Xtreme 256-bit, GV-N1080XTREME-8GD-PP
+Placa de Video Galax GeForce GTX 1070 8GB GDDR5 HOF Limited Edition 256-bit, 70NSH6DHL2OH
+Placa de Video Galax GeForce GTX 1080 8GB GDDR5X HOF 256-bit, 80NSJ6DHL2SN
+Placa de Vídeo MSI Geforce GTX 1080 SEA HAWK X 8GB GDDR5X 256Bit 
+Placa de Video MSI GeForce GTX 1060 6GT OC
+Placa de Video MSI Radeon RX 480 Gaming X 4G
+Placa de Video MSI GeForce GTX 1060 Gaming X 6G, 912-V328-001
+Placa de Vídeo MSI Radeon RX 460 2G OC
+Placa de Video MSI Radeon RX 480 Gaming X 8G
+Placa de Video MSI GeForce GTX 750 Ti OC 2GB GDDR5 128Bit, N750TI-2GD5/OC
+Placa de Video Sapphire Radeon RX 470 8GB GDDR5 Nitro+ 256-bit, 11256-02-20G
+Placa de Video Sapphire Radeon RX 480 8GB GDDR5 Nitro+ 256-bit, 11260-01-20G
+Placa de Video Asus GeForce GTX 1060 OC 6GB GDDR5 ROG Strix 192-bit, STRIX-GTX1060-O6G-GAMING
+Placa de Video PowerColor Radeon RX 460 2GB GDDR5 Red Dragon 128-bit, AXRX 460 2GBD5-DH/OC
+Placa de Vídeo MSI Geforce GTX 950 GAMING 2G GDDR5 OC 128Bit
+Placa de Video Asus GeForce GTX 1070 8GB GDDR5 ROG Strix 256-bit, STRIX-GTX1070-8G-GAMING
+Placa de Video PNY GeForce GTX 1060 6GB GDDR5 192-bit, VCGGTX10606PB
+Placa de Video Asus GeForce GTX 1060 DUAL OC 6GB GDDR5 198-bit, DUAL-GTX1060-O6G
+Placa de Video XFX Radeon R7 250 2GB DDR3 Low Profile 128-bit, R7-250E-CLF4
+Placa de Video XFX Radeon R5 230 2GB DDR3 64-bit, R5-230A-CNH2
+Placa de Video XFX Radeon R7 240 2GB DDR3 Low Profile 128-bit, R7-240A-CLF2
+Placa de Video XFX Radeon R7 240 2GB DDR3 Low Profile 128-bit, R7-240A-CLH4
+Placa de Video PCYES! Radeon R7 370 2GB GDDR5 HammerX OC 256-bit, PH37025602D5OCV2
+Placa de Video PCYES! Radeon R7 265 2GB GDDR5 HammerX 256-bit, O265QM2G2M
+Placa de Video Zotac GeForce GT 730 1GB DDR3 Zone 64-bit, ZT-71114-20L
+Placa de Video Sapphire Radeon R7 250 2GB GDDR5 128-bit, 11215-20-20G
+Placa de Video Sapphire Radeon R5 230 2GB DDR3 64-bit, 11233-02-20G
+Placa de Video PNY Quadro K620 2GB DDR3 128-bit, VCQK620-PORPB
+Placa de Video PNY Quadro 410 512MB DDR3 64-bit, VCQ410-PORPB
+Placa de Video MSI GeForce GTX 1060 Gaming X 3G
+Placa de Video Zotac GeForce GTX 1060 3GB GDDR5 Mini 192-bit, ZT-P10610A-10L
+Placa de Vídeo MSI Geforce GTX 1070 AERO 8G OC GDDR5 256Bit 
+Placa de Video EVGA GeForce GTX 1070 8GB GDDR5 FTW DT RGB 256-bit, 08G-P4-6274-KR
+Placa de Video Gigabyte GeForce GT 710 1GB DDR3 Low Profile 64-bit, GV-N710SL-1GL
+Placa de Video EVGA GeForce GT 710 2GB DDR3 Low Profile 64-bit, 02G-P3-2713-KR
+Placa de Video Gigabyte GeForce 210 1GB DDR3 64-bit, GV-N210SL-1GI
+Placa de Video PowerColor Radeon RX 470 4GB GDDR5 Red Dragon 256-bit, AXRX 470 4GBD5-3DHD/OC
+Placa de Video EVGA GeForce GTX 750 Ti 1GB GDDR5 128-bit, 01G-P4-3752-KR
+Placa de Video EVGA GeForce GTX 1060 6GB GDDR5 SC 192-bit, 06G-P4-6163-KR
+Placa de Video EVGA GeForce GTX 1060 6GB GDDR5 192-bit, 06G-P4-6161-KR
+Placa de Video Galax GeForce GTX 1080 8GB GDDR5X HOF 256-bit, 80NSJ6DHL2SH
+Placa de Video Galax GeForce GTX 950 2GB GDDR5 OC 128-bit, 95NPH8DHG5OC
+Placa de Video Galax GeForce GTX 1060 6GB GDDR5 EXOC 192-bit, 60NRH7DVM6EV
+Placa de Video Gigabyte GeForce GTX 1060 6GB GDDR5 G1 Gaming 192-bit, GV-N1060G1 GAMING-6GD
+Placa de Video Galax GeForce GTX 1060 6GB GDDR5 OC 192-bit, 60NRH7DSL9OC
+Placa de Video PCYES! Radeon R7 360 2GB GDDR5 Hammer 128-bit, O360PFB2CR
+Placa de Video Gigabyte GeForce GT 710 1GB DDR3 Low Profile 64-bit, GV-N710D3-1GL
+Placa de Video PNY GeForce GTX 750 2GB GDDR5 XLR8 128-bit, VCGGTX7502XPB-BB
+Placa de Video Sapphire Radeon RX 460 4GB GDDR5 Nitro OC 128-bit, 11257-02-20G
+Placa de Video Sapphire Radeon RX 460 2GB GDDR5 128-bit, 11257-00-20G
+Placa de Video Sapphire Radeon R7 350 2GB GDDR5 128-bit, 11251-10-20G
+Placa de Video EVGA GeForce GTX 950 2GB GDDR5 SC 128-bit, 02G-P4-1956-KR
+Placa de Video EVGA GeForce GTX 950 2GB GDDR5 REF 128-bit, 02G-P4-0952-KR
+Placa de Video EVGA GeForce GTX 1070 8GB GDDR5 256-bit, 08G-P4-6171-KR
+Placa de Video EVGA GeForce GTX 1080 8GB GDDR5X 256-bit, 08G-P4-6181-KR
+Placa de Video EVGA GeForce GTX 1080 8GB GDDR5X FTW DT 256-bit, 08G-P4-6284-KR
+Placa de Video PCYES! Radeon R9 380X 4GB GDDR5 HammerX OC 256-bit, PH380X25604D5OC
+Placa de Video Zotac GeForce GTX 1060 6GB GDDR5 AMP! 192-bit, ZT-P10600B-10M
+Placa de Video Zotac GeForce GTX 1060 6GB GDDR5 Mini 192-bit, ZT-P10600A-10L
+Placa de Vídeo MSI Geforce GTX 1080 AERO 8G OC GDDR5X 256Bit
+Placa de Video Gigabyte GeForce GTX 950 2GB GDDR5 128-bit, GV-N950D5-2GD
+Placa de Vídeo MSI Geforce GTX 1080 GAMING 8G GDDR5X 256Bit
+Placa de Vídeo MSI Geforce GTX 1070 ARMOR 8G OC 8GB GDDR5 256Bit, GTX 1070 ARMOR 8G OC
+Placa de Video Galax GeForce GTX 1070 8GB GDDR5 EXOC 256-bit, 70NSH6DHL4EC
+Placa de Vídeo MSI Geforce GTX 1070 SEA HAWK X 8GB GDDR5 256Bit 
+Placa de Video EVGA GeForce GTX 1070 8GB GDDR5 FTW RGB 256-bit, 08G-P4-6276-KR
+Placa de Vídeo MSI Geforce GTX 1070 Gaming X 8GB GDDR5 256Bit, GTX 1070 GAMING X 8G
+Placa de Video Asus GeForce GTX 1070 Founders Edition 8GB GDDR5X 256-bit, GTX1070-8G
+Placa de Video Asus GeForce GTX 1070 OC 8GB GDDR5 ROG Strix 256-bit, STRIX-GTX1070-O8G-GAMING
+Placa de Video XFX Radeon RX 480 8GB GDDR5 256-bit, RX-480M8BBA6
+Placa de Video XFX Radeon RX 480 8GB GDDR5 OC XXX 256-bit, RX-480M8BFA6
+Placa de Video Asus GeForce GTX 950 2GB GDDR5 128-bit, GTX950-2G 
+Placa de Video EVGA GeForce GTX 1070 8GB GDDR5 SC 256-bit, 08G-P4-6173-KR
+Placa de Video Asus GeForce GTX 1080 8GB GDDR5X ROG Strix 256-bit, STRIX-GTX1080-8G-GAMING
+Placa de Video Zotac GeForce GTX 1070 8GB GDDR5 AMP! 256-bit, ZT-P10700C-10P
+Placa de Video Zotac GeForce GTX 1070 8GB GDDR5 AMP! Extreme 256-bit, ZT-P10700B-10P
+Placa de Video EVGA GeForce GTX 970 4GB GDDR5 256-bit, 04G-P4-1970-KR
+Placa de Video PCYES! Radeon RX 480 8GB GDDR5 256-bit, PRX48025608D5
+Placa de Video Sapphire Radeon RX 480 8GB GDDR5 256-bit, 21260-00-20G
+Placa de Video Gigabyte GeForce GTX 1070 8GB GDDR5 G1 Gaming 256-bit, GV-N1070G1 GAMING-8GD
+Placa de Video PNY Quadro M2000 4GB GDDR5 128-bit, VCQM2000-PORPB
+Placa de Video Gigabyte GeForce GTX 1070 8GB GDDR5 Founders Edition 256-bit, GV-N1070D5-8GD-B
+Placa de Video Galax GeForce GTX 1080 8GB GDDR5X EXOC 256-bit, 80NSJ6DHL4EC
+Placa de Video Galax GeForce GTX 1080 8GB GDDR5X 256-bit, 80NSJ6DHK5VT
+Placa de Video EVGA GeForce GTX 1080 8GB GDDR5X SC 256-bit, 08G-P4-6183-KR
+Placa de Video EVGA GeForce GTX 1070 8GB GDDR5 Founders Edition 256-bit, 08G-P4-6170-KR
+Placa de Video Zotac GeForce GTX 1080 8GB GDDR5X AMP 256-bit, ZT-P10800C-10P
+Placa de Video Zotac GeForce GTX 1080 8GB GDDR5X AMP Extreme 256-bit, ZT-P10800B-10P
+Placa de Vídeo MSI Geforce GTX 1080 ARMOR 8G OC GDDR5X 256Bit
+Placa de Video Zotac GeForce GT 710 2GB GDDR3 64-bit, ZT-71302-20L
+Placa de Vídeo MSI Geforce GTX 1080 GAMING X 8G GDDR5X 256Bit
+Placa de Video EVGA GeForce GTX 950 2GB GDDR5 SC 128-bit, 02G-P4-1958-KR
+Placa de Video XFX Radeon R5 230 1GB DDR3 Low Profile 64-bit, R5-230A-CLH2
+Placa de Video XFX Radeon R5 230 1GB DDR3 Low Profile 64-bit, R5-230A-ZLH2
+Placa de Video EVGA GeForce GTX 960 4GB GDDR5 REF 128-bit, 04G-P4-1961-KR
+Placa de Video Gigabyte Radeon R5 230 1GB DDR3 64-bit, GV-R523D3-1GL
+Placa de Video EVGA GeForce GT 730 4GB GDDR3 128-bit, 04G-P3-2739-KR
+Placa de Video EVGA GeForce GTX 950 2GB GDDR5 SC 128-bit, 02G-P4-0956-KR
+Placa de Video Asus GeForce GTX 1080 OC 8GB GDDR5X ROG Strix 256-bit, STRIX-GTX1080-O8G-GAMING
+Placa de Video EVGA GeForce GTX 1080 8GB GDDR5X FTW 256-bit, 08G-P4-6286-KR
+Placa de Video Gigabyte GeForce GTX 1080 8GB GDDR5X G1 Gaming 256-bit, GV-N1080G1 GAMING-8GD
+Placa de Video PowerColor Radeon R7 370 4GB GDDR5 256-bit, AXR7 370 4GBD5-DHE/OC
+Placa de Video PowerColor Radeon PCS+ R9 380X 4GB GDDR5 Myst Edition 256-bit, AXR9 380X 4GBD5-PPDHE
+Placa de Video XFX Radeon R7 360 2GB GDDR5 128-bit, R7-360P-2NF5
+Placa de Video Asus GeForce GTX 1080 Founders Edition 8GB GDDR5X 256-bit, GTX1080-8G
+Placa de Video Zotac GeForce GTX 1080 8GB GDDR5X Founders Edition 256-bit, ZT-P10800A-10P
+Placa de Vídeo MSI Geforce GTX 1080 Founders Edition 8GB GDDR5X 256Bit, GTX 1080 FOUNDERS EDITION
+Placa de Video PNY GeForce GTX 1080 8GB GDDR5X Founders Edition 256-bit, VCGGTX10808PB-CG
+Placa de Video Gigabyte GeForce GTX 1080 8GB GDDR5X Founders Edition 256-bit, GV-N1080D5X-8GD-B
+Placa de Video EVGA GeForce GTX 1080 8GB GDDR5X Founders Edition 256-bit, 08G-P4-6180-KR
+Placa de Video Asus GeForce GT 710 1GB GDDR3 64-bit, 710-1-SL
+Placa de Video Asus GeForce GTX 960 OC 4GB GDDR5 TURBO 128-bit, TURBO-GTX960-OC-4GD5
+Placa de Video Gigabyte GeForce GTX 750 Ti 4GB GDDR5 WindForce OC 128-bit, GV-N75TWF2OC-4GI
+Placa de Video EVGA GeForce GTX 950 2GB GDDR5 SC 128-bit, 02G-P4-0958-KR
+Placa de Video EVGA GeForce GTX 950 2GB GDDR5 REF 128-bit, 02G-P4-1955-KR
+Placa de Video Gigabyte GeForce GTX 960 4GB GDDR6 Xtreme Edition 128-bit, GV-N960XTREME-4GD
+Placa de Video PowerColor Radeon R9 4GB HBM Fury X 4096-bit, AXR9 FURY X 4GBHBM-DH
+Placa de Video EVGA GeForce GTX 970 4GB GDDR5 Hybrid 256-bit, 04G-P4-1976-KR
+Placa de Video Gigabyte GeForce GTX 980 Ti 6GB GDDR5 XTREME 384-bit, GV-N98TXTREME C-6GD
+Placa de Video Gigabyte GeForce GTX 970 4GB GDDR5 Xtreme Edition 256-bit, GV-N970XTREME C-4GD
+Placa de Video Gigabyte GeForce GTX 960 4GB GDDR5 OC 128-bit, GV-N960IXOC-4GD
+Placa de Video Asus Radeon R7 360 OC 2GB GDDR5 128-bit, R7360-OC-2GD5-V2
+Placa de Video Galax GeForce GTX 970 4GB GDDR5 EXOC Sniper Black 256-bit, 97NQH6DNH8FL
+Placa de Video Gigabyte GeForce GTX 950 2GB GDDR5 Xtreme Edition 128-bit, GV-N950XTREME C-2GD
+Placa de Vídeo MSI Geforce GTX 980 Ti Gaming 6GB GDDR5 384Bit, GTX 980Ti GAMING 6G
+Placa de Video Asus Radeon R9 380X OC 4GB GDDR5 Strix 256-bit, STRIX-R9380X-OC4G-GAMING
+Placa de Video EVGA GeForce GT 710 1GB DDR3 64-bit, 01G-P3-2710-KR
+Placa de Video Zotac GeForce GT 710 1GB GDDR3 64-bit, ZT-71301-20L
+Placa de Video EVGA GeForce GTX 980 Ti 6GB GDDR5 FTW ACX 384-bit, 06G-P4-4996-KR
+Placa de Video Asus Radeon R9 FURY X 4GB HBM 4096-bit, R9FURYX-4G
+Placa de Video PowerColor Radeon PCS+ R9 390 8GB GDDR5 512-bit, AXR9 390 8GBD5-PPDHE
+Placa de Video PowerColor Radeon R7 360 2GB GDDR5 128-bit, AXR7 360 2GBD5-DHE
+Placa de Video PowerColor Radeon PCS+ R7 370 4GB GDDR5 256-bit, AXR7 370 4GBD5-PPDHE
+Placa de Video Gigabyte GeForce GTX 980 Ti 6GB GDDR5 XTREME WaterForce 384-bit, GV-N98TXTREME W-6GD
+Placa de Video Zotac GeForce GTX 970 4GB GDDR5 AMP! 256-bit, ZT-90110-10P
+Placa de Video EVGA GeForce GTX 950 2GB GDDR5 REF 128-bit, 02G-P4-1950-KR
+Placa de Video EVGA GeForce GTX 980 Ti 6GB GDDR5 KINGPIN 384-bit, 06G-P4-5998-KR
+Placa de Video EVGA GeForce GTX 980 Ti 6GB GDDR5 Hybrid 384-bit, 06G-P4-1996-KR
+Placa de Video Gigabyte GeForce GT 420 2GB DDR3 128-bit, GV-N420-2GI
+Placa de Video Gigabyte GeForce GTX 980 4GB GDDR5 WindForce OC 256-bit, GV-N980OC-4GD
+Placa de Vídeo Asus Geforce GTX 980 Ti Gold Edition 6GB GDDR5 384 Bit, GOLD20TH-GTX980TI-P-6G-GAMING
+Placa de Video Gigabyte GeForce GTX Titan X 12GB GDDR5 384-bit, GV-NTITANXD5-12GD-B
+Placa de Video Asus Radeon R9 380 OC 4GB GDDR5 Strix 256-bit, STRIX-R9380-DC2OC-4GD5-GAMING
+Placa de Video Gigabyte GeForce GTX 980 4GB GDDR5 Xtreme Edition GDDR5 256-bit, GV-N980XTREME-4GD
+Placa de Video Gigabyte GeForce GTX 750 Ti 2GB GDDR5 WindForce OC 128-bit, GV-N75TOC2-2GI
+Placa de Video Zotac GeForce GTX 950 2GB GDDR5 128-bit, ZT-90602-10M
+Placa de Video Galax GeForce GTX 960 4GB GDDR5 EXOC White 128-bit, 96NPH8DVE8D4
+Placa de Video Galax GeForce GTX 950 2GB GDDR5 OC Black Sniper 128-bit, 95NPH8DSH4HB
+Placa de Video Galax GeForce GT 610 2GB DDR3 64-bit, 61TPS4HX2LKX
+Placa de Video Galax GeForce GTX 960 4GB GDDR5 OC 128-bit, 96NQH8DHD8Z4
+Placa de Video Galax GeForce GT 610 1GB DDR3 64-bit, 61TGS4HX2LTZ
+Placa de Video Galax GeForce GTX 980 4GB GDDR5 HOF 256-bit, 98NQH6DND2TX
+Placa de Video XFX Radeon R7 250 1GB DDR5 128-bit, R7-250A-ZLH4
+Placa de Video Asus Radeon R7 260X OC 2GB GDDR5 128-bit, R7260X-OC-2GD5
+Placa de Video Gigabyte GeForce GTX 980 4GB GDDR5 OC Water Force 256-bit, GV-N980WAOC-4GD
+Placa de Video PNY GeForce GTX 960 2GB GDDR5 OC 128-bit, VCGGTX9602XPB-OC-BB
+Placa de Video Gigabyte Radeon R9 390X 8GB GDDR5 WindForce OC 512-bit, GV-R939XWF2-8GD
+Placa de Video Asus GeForce GTX 950 OC 2GB GDDR5 ROG Strix 128-bit, STRIX-GTX950-DC2OC-2GD5-GAMING
+Placa de Video Galax GeForce GTX 960 2GB GDDR5 Black 128-bit, 96NPH8DND7UZ
+Placa de Video Galax GeForce GTX 960 4GB GDDR5 EXOC 128-bit, 96NQH8DVD9CJ
+Placa de Video EVGA GeForce GTX 960 4GB GDDR5 REF 128-bit, 04G-P4-3961-KR
+Placa de Vídeo MSI Geforce GTX 980 Ti SEA HAWK 6GB GDDR5 384Bit, GTX 980 Ti SEA HAWK
+Placa de Video PowerColor Radeon PCS+ R9 380 4GB GDDR5 256-bit, AXR9 380 4GBD5-PPDHE
+Placa de Video XFX Radeon R7 360 2GB GDDR5 128-bit, R7-360P-2DF5
+Placa de Video Gigabyte GeForce GTX 970 4GB GDDR5 Xtreme Edition 256-bit, GV-N970XTREME-4GD
+Placa de Video Gigabyte GeForce GTX 950 2GB GDDR5 Xtreme Edition 128-bit, GV-N950XTREME-2GD
+Placa de Video Sapphire Radeon R9 390X 8GB GDDR5 Tri-X 512-bit, 11241-02-20G
+Placa de Video Gigabyte Radeon R9 380X 4GB GDDR5 G1 Gaming 256-bit, GV-R938XG1 GAMING-4GD
+Placa de Video XFX Radeon R9 380X 4GB GDDR5 OC Black Edition 256-bit, R9-380X-4DB5
+Placa de Video XFX Radeon R9 380X 4GB GDDR5 OC XXX 256-bit, R9-380X-4DF5
+Placa de Video XFX Radeon R9 390X 8GB GDDR5 512-bit, R9-390X-8DF6
+Placa de Video PNY GeForce GTX 970 4GB GDDR5 XLR8 256-bit, VCGGTX9704R2XPB
+Placa de Video Gigabyte GeForce GTX 980 Ti 6GB GDDR5 XTREME 384-bit, GV-N98TXTREME-6GD-B
+Placa de Video Zotac GeForce GTX 950 2GB GDDR5 AMP! 128-bit, ZT-90603-10M
+Placa de Video Sapphire Radeon R7 360 2GB GDDR5 Nitro OC 128-bit, 11243-05-20G
+Placa de Video Sapphire Radeon R9 380 4GB GDDR5 Nitro 256-bit, 11242-13-20G
+Placa de Video Sapphire Radeon R7 370 2GB GDDR5 Nitro 256-bit, 11240-10-20G
+Placa de Video EVGA GeForce GTX 950 2GB GDDR5 SC+ 128-bit, 02G-P4-2956-KR
+Placa de Video Galax GeForce GT 730 2GB GDDR3 128-bit, 73GPF8HX3SNS
+Placa de Video Zotac GeForce GT 730 2GB DDR3 64-bit, ZT-71105-10BB
+Placa de Video MSI GT210 1GB 64Bit DDR3, N210-MD1G/D3
+Placa de Video PowerColor Radeon R7 240 2GB DDR3 128-bit, AXR7 240 2GBK3-HLE
+Placa de Video Gigabyte GeForce GTX 960 4GB GDDR5 WindForce 128-bit, GV-N960WF2-4GD
+Placa de Video Asus GeForce GTX 960 OC 4GB GDDR5 ROG Strix 128-bit, STRIX-GTX960-DC2OC-4GD5
+Placa de Video Sapphire Radeon R7 360 2GB GDDR5 Nitro 128-bit, 11243-02-20G
+Placa de Video Gigabyte Radeon R9 380 4GB GDDR5 WindForce 256-bit, GV-R938WF2-4GD
+Placa de Video Galax GeForce GTX 750 Ti 2GB GDDR5 Black OC Sniper 128-bit, 75IPH8DVF4CB
+Placa de Video PNY GeForce GTX 980 4GB GDDR5 PRO OC XLR8 256-bit, VCGGTX9804XPB-XP-OC
+Placa de Video Zotac GeForce GTX 980 Ti 6GB DDR5 ArcticStorm 384-bit, ZT-90502-10P
+Placa de Video Zotac GeForce GTX 980 Ti 6GB GDDR5 AMP! Extreme 384-bit, ZT-90505-10P
+Placa de Video EVGA GeForce GTX 960 4GB GDDR5 128-bit, 04G-P4-3960-KR
+Placa de Video EVGA GeForce GTX 950 2GB GDDR5 SC 128-bit, 02G-P4-2951-KR
+Placa de Video EVGA GeForce GTX 960 2GB GDDR5 128-bit, 02G-P4-2961-KR
+Placa de Video Sapphire Radeon R9 390 8GB GDDR5 Tri-X 512-bit, 11244-01-20G
+Placa de Video PCYES! Radeon R7 360 2GB GDDR5 Hammer 128-bit, H360F-2GD
+Placa de Video PCYES! Radeon R7 370 2GB GDDR5 HammerX 256-bit, O370QM-2G2M
+Placa de Video PCYES! Radeon R9 380 4GB GDDR5 HammerX 256-bit, 0380QM-4GD
+Placa de Video PCYES! Radeon R9 380 2GB GDDR5 Hammer 256-bit, 0380QM-2GD
+Placa de Video PCYES! Radeon R9 390 8GB GDDR5 HammerX 512-bit, 0390QM-8GD
+Placa de Vídeo MSI Geforce GTX 980 Ti Lightning OC 6GB GDDR5 384Bit, GTX 980TI LIGHTNING - BOX 
+Placa de Video XFX Radeon R7 360 2GB GDDR5 128-bit, R7-360P-2SF5
+Placa de Video Zotac GeForce GTX 950 2GB GDDR5 128-bit, ZT-90601-10L
+Placa de Video Geforce MSI GTX 960 4GD5T OC 4GB GDDR5 128Bits, GTX-960-4GD5T-OC - BOX
+Placa de Video PowerColor Radeon PCS+ R9 380 2GB GDDR5 256-bit, AXR9 380 2GBD5-PPDHE
+Placa de Video MSI Radeon R7 360 OC 2GB GDDR5 128Bit, R7 360 2GD5 OC - BOX
+Placa de Video Galax GeForce GTX 980 Ti 4GB GDDR5 OC 384-bit, 98IRH5DH9WGT
+Placa de Video PowerColor Radeon R9 390X 8GB GDDR5 Devil 512-bit, AXR9 390X 8GBD5-ADHE
+Placa de Video Gigabyte GeForce GTX 750 Ti 1GB GDDR5 OC 128-bit, GV-N75TOC-1GI
+Placa de Video Gigabyte GeForce GTX 960 2GB GDDR5 OC 128-bit, GV-N960OC-2GD
+Placa de Video XFX Radeon R9 4GB HBM Nano 4096-bit, R9-NANO-4SF6
+Placa de Video Sapphire Radeon R9 4GB HBM Nano 4096-bit, 21249-00-40G
+Placa de Video PNY Quadro K420 1GB GDDR3 128-bit, VCQK420-PB
+Placa de Video PowerColor Radeon PCS+ R7 370 2GB GDDR5 256-bit, AXR7 370 2GBD5-PPDHE
+Placa de Video PowerColor Radeon R7 360 2GB GDDR5 128-bit, AXR7 360 2GBD5-DHE/OC
+Placa de Video PNY Quadro K2200 4GB GDDR5 128-bit, VCQK2200-PB
+Placa de Video Asus Radeon R9 380 OC 2GB GDDR5 Strix 256-bit, STRIX-R9380-DC2OC-2GD5-GAMING
+PLACA DE VIDEO MSI Geforce GTX 960 GAMING 4GB GDDR5 128bit , MSI GTX 960 GAMING 4GB - BOX
+Placa de Video Galax GeForce GTX 960 2GB GDDR5 OC 128-bit ,96NPH8DND8VZ
+Placa de Video Gigabyte GeForce GTX 950 2GB GDDR5 WindForce OC 128-bit, GV-N950WF2OC-2GD
+Placa de Video Asus Radeon R7 370 OC 4GB GDDR5 Strix 256-bit, STRIX-R7370-DC2OC-4GD5-GAMING
+Placa de Video Galax GeForce GTX 950 2GB GDDR5 EXOC White 128-bit, 95NPH8DVE8EW
+Placa de Video Asus Radeon R9 390 OC 8GB GDDR5 Strix 512-bit, STRIX-R9390-DC3OC-8GD5-GAMING
+Placa de Video Asus Radeon R9 390X OC 8GB GDDR5 Strix 512-bit, STRIX-R9390X-DC3OC-8GD5-GAMING
+Placa de Video Galax GeForce GTX 980 Ti 6GB GDDR5 HOF 384-bit, 98IRH5DHF7XH
+Placa de Video Asus GeForce GTX 980 Ti OC 6GB GDDR5 ROG Strix 384-bit, STRIX-GTX980TI-DC3OC-6GD5
+Placa de Video Asus GeForce GTX 980 Ti 6GB GDDR5 ROG Poseidon 384-bit, POSEIDON-GTX980TI-P-6GD5
+Placa de Video Zotac GeForce GT 730 1GB GDDR3 128-bit, ZT-71110-10L
+Placa de Video EVGA GeForce GT 740 1GB GDDR5 FTW 128-bit, 01G-P4-3742-KR
+Placa de Video EVGA GeForce GT 730 2GB GDDR3 128-bit, 02G-P3-2738-KR
+Placa de Video Asus GeForce GTX 960 OC 2GB GDDR5 TURBO 128-bit, TURBO-GTX960-OC-2GD5
+Placa de Video Asus GeForce GTX 970 OC 4GB GDDR5 TURBO 256-bit, TURBO-GTX970-OC-4GD5
+Placa de Video MSI Geforce GTX 960 4GB OC TwinFrozr V Gaming 4G, 128 Bits GDDR5, GTX 960 GAMING 4G - BOX
+Placa de Video EVGA GeForce GTX 960 4GB GDDR5 SC 128-bit, 04G-P4-1962-KR
+Placa de Video Gigabyte Radeon R7 370 2GB GDDR5 WindForce OC 256-bit, GV-R737WF2OC-2GD
+Placa de Video Gigabyte GT 720 1GB DDR3 64Bits, GV-N720D3-1GL - BOX
+Placa de Video Gigabyte GeForce GT 730 1GB DDR3 64-bit, GV-N730D3-1GI
+Placa de Video EVGA GeForce GTX 960 4GB GDDR5 SSC ACX 128-bit, 04G-P4-3967-KR
+Placa de Video EVGA GeForce GT 740 1GB GDDR5 SC 128-bit, 01G-P4-3743-KR
+Placa de Video EVGA GeForce GTX 950 2GB GDDR5 FTW 128-bit, 02G-P4-2958-KR
+Placa de Vídeo Gigabyte GeForce GT610 2GB GDDR3 64Bit, GV-N610D3-2GI - BOX
+Placa de Video PNY GeForce GTX 980 Ti 6GB GDDR5 Founders Edition 384-bit, VCGGTX980T6XPB-CG
+Placa de Video Gigabyte GeForce GTX 960 4GB GDDR5 OC 128-bit, GV-N960OC-4GD
+Placa de Video Gigabyte Radeon R9 390 8GB GDDR5 WindForce 512-bit, GV-R939WF2-8GD
+Placa de Video Gigabyte GeForce GTX 970 4GB GDDR5 TWIN Turbo OC 256-bit, GV-N970TTOC-4GD
+Placa de Video Gigabyte GeForce GTX 980 Ti 6GB GDDR5 WindForce OC 384-bit, GV-N98TWF3OC-6GD
+Placa de Video Radeon MSI R9 390X GAMING 8G 8GB GDDR5 512Bit, R9-390X-GAMING-8G - BOX
+Placa de Video Gigabyte GeForce GTX 950 2GB GDDR5 OC 128-bit, GV-N950OC-2GD
+Placa de Video PNY GeForce GTX 960 4GB GDDR5 128-bit, VCGGTX9604XPB
+Placa de Video Radeon MSI R9 380 GAMING 4G 4GB GDDR5 256Bit, R9-380-GAMING-4G - BOX
+Placa de Video Radeon MSI R7 370 GAMING 4G 4GB GDDR5 256Bit, R7-370-GAMING-4G - BOX
+Placa de Video Gigabyte GT 740 2GB GDDR5 128Bits, GV-N740D5OC-2GI - BOX
+Placa de Video SAPPHIRE R9 FURY TRI-X 4GB HBM 4096Bits, 11247-00-40G - BOX
+Placa de Video Gigabyte GeForce GTX 980 Ti 6GB GDDR5 WindForce OC 384-bit, GV-N98TG1 GAMING-6GD
+Placa de Video Galax GeForce GTX 970 4GB GDDR5 EXOC 256-bit, 97NQH6DNB4RO
+Placa de Video EVGA GeForce GTX 960 4GB GDDR5 SC 128-bit, 04G-P4-3962-KR
+Placa de Video Radeon MSI R9 390 GAMING 8G 8GB GDDR5 512Bit, R9-390-GAMING-8G - BOX
+Placa de Video Zotac GeForce GTX 960 4GB GDDR5 AMP! 128-bit, ZT-90309-10M
+Placa de Video Zotac GeForce GTX 960 4GB GDDR5 128-bit, ZT-90308-10M
+Placa de Video Gigabyte Radeon R7 360 2GB GDDR5 OC 128-bit, GV-R736OC-2GD
+Placa de Video Asus GeForce GT 730 2GB 128-Bit, GT730-2GD3 - BOX 
+Placa de Video Asus GeForce GT 740 2GB 128-Bit, GT740-2GD3 - BOX 
+Placa de Video MSI GeForce GT 740 4GB 128-Bit, N740-4GD3 - BOX 
+Placa de Video MSI GeForce GTX 750 OC 1GB 128-Bit, N750-1GD5/OC - BOX 
+Placa de Video Asus GeForce GT 730 1GB 64-Bit, GT730-SL-1GD3-BRK - BOX 
+Placa de Video Asus Radeon R7 360 OC 2GB GDDR5 128-bit, R7360-OC-2GD5
+Placa de Video Asus Radeon R7 370 OC 2GB GDDR5 Strix 256-bit, STRIX-R7370-DC2OC-2GD5-GAMING
+Placa de Video Asus Radeon R9 390 DirectCU II 8GB 512Bit, R9390-DC2-8GD5 - BOX 
+Placa de Video Asus Radeon R9 390X DirectCU II 8GB 512Bit, R9390X-DC2-8GD5 - BOX 
+Placa de Vídeo MSI GeForce GT740 2GB DDR3 128Bit, N740-2GD3 - BOX 
+Placa de Video Zotac GeForce GTX 980 Ti 6GB GDDR5 AMP! 384-bit, ZT-90503-10P
+Placa de Video EVGA GeForce GTX 970 4GB GDDR5 SC 256-bit, 04G-P4-2977-KR
+Placa de Video EVGA GeForce GTX 960 4GB GDDR5 FTW 128-bit, 04G-P4-3968-KR
+Placa de Video Sapphire Radeon R9 380 2GB GDDR5 ITX Compact 256-bit, 11242-00-20G
+Placa de Video Sapphire Radeon R9 380 2GB GDDR5 Dual-X 256-bit, 11242-02-20G
+Placa de Video Sapphire Radeon R9 Fury X 4GB HBM 4096-bit, 21246-00-40G
+Placa de Video XFX Radeon R9 390X 8GB GDDR5 512-bit, R9-390X-8DB6
+Placa de Video XFX Radeon R9 390 8GB GDDR5 OC Black Edition 512-bit, R9-390P-8DB6
+Placa de Video XFX Radeon R9 390 8GB GDDR5 OC XXX 512-bit, R9-390P-8DF6
+Placa de Video XFX Radeon R9 380 4GB GDDR5 OC XXX 256-bit, R9-380P-4DF5
+Placa de Video XFX Radeon R7 370 4GB GDDR5 256-bit, R7-370P-4DF5
+Placa de Video XFX Radeon R7 370 2GB GDDR5 256-bit, R7-370P-2DB5
+Placa de Video XFX Radeon R7 370 2GB GDDR5 256-bit, R7-370P-2DF5
+Placa de Video Gigabyte Radeon R9 390X 8GB GDDR5 G1 Gaming 512-bit, GV-R939XG1 GAMING-8GD
+Placa de Video Gigabyte Radeon R9 390 8GB GDDR5 G1 Gaming 512-bit, GV-R939G1 GAMING-8GD
+Placa de Video Gigabyte Radeon R9 380 2GB GDDR5 WindForce OC 256-bit, GV-R938WF2OC-2GD
+Placa de Video Gigabyte Radeon R9 380 4GB GDDR5 G1 Gaming 256-bit, GV-R938G1 GAMING-4GD
+Placa de Vídeo Gigabyte Geforce GTX980 Ti 6GB GDDR5 384-Bit, GV-N98TD5-6GD-B - BOX
+Placa de Video XFX Radeon R7 370 2GB GDDR5 256-bit, R7-370P-2SF5
+Placa de Video SAPPHIRE R9 380 NITRO DUAL-X OC 4GB GDDR5 256Bit, 11242-07-20G - BOX
+Placa de Vídeo EVGA Geforce GTX 980 Ti 6GB GDDR5 384Bit, 06G-P4-4990-KR - BOX
+Placa de Video EVGA GeForce GTX 980 Ti 6GB GDDR5 SC ACX 384-bit, 06G-P4-4993-KR
+Placa de Video Radeon MSI R7 370 GAMING 2G 2GB GDDR5 256Bit, R7-370-GAMING-2G - BOX
+Placa de Video Sapphire Radeon R7 370 4GB GDDR5 Nitro 256-bit, 11240-04-20G
+Placa de Video Sapphire Radeon R7 370 2GB GDDR5 Dual-X 256-bit, 11240-06-20G
+Placa de Video Sapphire Radeon R7 360 2GB GDDR5 128-bit, 11243-00-20G
+Placa de Video Sapphire Radeon R9 390X 8GB GDDR5 Tri-X 512-bit, 11241-00-20G
+Placa de Video Sapphire Radeon R9 390 8GB GDDR5 Nitro Tri-X 512-bit, 11244-00-20G
+Placa de Video Radeon MSI R7 370 2GD5T OC 2GB GDDR5 256Bit, R7-370-2GD5T-OC - BOX
+Placa de Video Radeon MSI R9 380 2GD5T OC 2GB GDDR5 256Bit, R9-380-2GD5T-OC - BOX
+Placa de Vídeo EVGA Geforce GTX 980 Ti SC 6GB GDDR5 384Bit, 06G-P4-4992-KR - BOX
+Placa de Video Radeon MSI R9 380 GAMING 2G 2GB GDDR5 256Bit, R9-380-GAMING-2G - BOX
+Placa de Video EVGA GeForce GTX 980 Ti 6GB GDDR5 SC+ 384-bit, 06G-P4-4995-KR
+Placa de Video Gigabyte GeForce GTX 970 4GB GDDR5 Mini ITX 256-bit, GV-N970IX-4GD
+Placa de Video XFX Radeon R9 285 2GB GDDR5 256-bit, R9-285A-CDFC
+Placa de Video Zotac GeForce GTX 980 Ti 6GB GDDR5 384-bit, ZT-90501-10P
+Placa de Video Gigabyte GeForce GT 740 1GB GDDR5 OC 128-bit, GV-N740D5OC-1GI
+Placa de Vídeo EVGA Geforce GTX 960 SSC ACX 2.0+ 4GB GDDR5 128Bit, 04G-P4-3966-KR - BOX 
+Placa de Vídeo EVGA Geforce GTX 970 FTW ACX 2.0 4GB GDDR5 256Bit, 04G-P4-3978-KR - BOX 
+Placa de Video Galax GeForce GTX 960 2GB GDDR5 EXOC White 128-bit, 96NPH8DVE8DC
+Placa de Video Gigabyte GeForce GTX 750 Ti 2GB GDDR5 Low Profile 128-bit, GV-N75TOC-2GL
+Placa de Video Gigabyte GeForce GTX 960 4GB GDDR5 G1 Gaming 128-bit, GV-N960G1 GAMING-4GD
+Placa de Video PNY GeForce GTX 960 2GB GDDR5 128-bit, VCGGTX9602XPB
+Placa de Video EVGA GeForce GTX 960 2GB GDDR5 SC 128-bit, 02G-P4-2962-KR
+Placa de Video Galax GeForce GTX 750 Slim 2GB GDDR5 128Bit, 75NPH8HX9KXZ - BOX
+Placa de Video Zotac GeForce GTX 970 4GB GDDR5 Omega 256-bit, ZT-90106-10P
+Placa de Video Gigabyte GeForce GTX 960 4GB GDDR5 WindForce OC 128-bit, GV-N960WF2OC-4GD
+Placa De Video EVGA Geforce GT 720 2GB GDDR3, 128Bit, 02G-P3-2724-KR - BOX
+Placa de Video EVGA GeForce GT 730 1GB DDR3 64-bit, 01G-P3-1731-KR
+Placa De Video EVGA Geforce GT 730 2GB GDDR3, 128Bit, 02G-P3-2732-KR - BOX
+Placa de Video EVGA GeForce GT 730 1GB DDR3 Low Profile 128-bit, 01G-P3-2730-KR
+Placa De Video EVGA Geforce GT 740 2GB FTW GDDR5, 128Bit, 02G-P4-3744-KR - BOX
+Placa de Video EVGA GeForce GT 740 2GB SC DDR3 128-bit, 02G-P4-2742-KR
+Placa De Video EVGA Geforce GT 740 4GB SC GDDR3, 128Bit, 04G-P4-2744-KR - BOX
+Placa De Video EVGA Geforce GT 740 2GB SC GDDR3, 128Bit, 02G-P4-2743-KR - BOX
+Placa de Video EVGA GeForce GTX 970 4GB GDDR5 REF 256-bit, 04G-P4-3973-KR
+Placa de Video Galax GeForce GTX 980 4GB GDDR5 HOF 256-bit, 98NQH6DND2UZ
+Placa de Video Galax GeForce GTX 980 4GB GDDR5 SOC 256-bit, 98NQH6DNC7VZ
+Placa de Video Galax GeForce GTX 970 4GB GDDR5 HOF 256-bit, 97NQH6DND2TX
+Placa de Video Galax GeForce GTX 970 4GB GDDR5 EXOC 256-bit, 97NQH6DNB4TX
+Placa de Video Galax GeForce GTX 970 4GB GDDR5 OC 256-bit, 97NPH6DT8RVZ
+Placa de Video Galax GeForce GTX 750 Ti 2GB GDDR5 128-bit, 75IGH8HX9KXZ
+Placa de Video Galax GeForce GTX 750 Ti 2GB GDDR5 EXOC 128-bit, 75IPH8DV9JXZ
+Placa de Video Zotac GeForce GTX 970 4GB GDDR5 AMP! Extreme 256-bit, ZT-90107-10P
+Placa de vídeo AMD Sapphire FirePro V7900 2GB GDDR5 256 Bit, 31004-22-40R - BOX
+Placa de vídeo AMD Sapphire FirePro V5900 2GB GDDR5 256 Bit, 31004-20-40R - BOX
+Placa de vídeo AMD Sapphire Firepro 2270 512Mb DDR3, 31004-17-40A - BOX
+Placa de vídeo AMD Sapphire Firepro 2270 1GB DDR3, 31004-35-40A - BOX
+Placa de Video EVGA GeForce GTX 750 2GB GDDR5 128-bit, 02G-P4-2752-KR
+Placa de Video Asus GeForce GTX 960 OC 2GB GDDR5 ROG Strix 128-bit, STRIX-GTX960-DC2OC-2GD5
+Placa de Vídeo EVGA Geforce GTX 970 ACX 2.0 4GB GDDR5 256Bit, 04G-P4-2976-KR - BOX 
+Placa de Video EVGA GeForce GTX 970 4GB GDDR5 SSC 256-bit, 04G-P4-3975-KR
+Placa de Video EVGA GeForce GTX 960 2GB GDDR5 SSC 128-bit, 02G-P4-2966-KR
+Placa de Video Galax GeForce GTX 750 Slim OC 1GB GDDR5 128Bit, 75NGH8HX9KXZ - BOX
+Placa de Video Gigabyte GeForce GTX 960 2GB GDDR5 G1 Gaming 128-bit, GV-N960G1 GAMING-2GD
+Placa de Video Gigabyte GeForce GTX 960 2GB GDDR5 WindForce OC 128-bit, GV-N960WF2OC-2GD
+Placa de Video EVGA GeForce GTX 960 2GB GDDR5 REF 128-bit, 02G-P4-2963-KR
+Placa de Video Zotac GeForce GTX 960 2GB GDDR5 128-bit, ZT-90301-10M
+Placa de Video Zotac GeForce GTX 960 2GB GDDR5 AMP! 128-bit, ZT-90303-10M
+Placa de Vídeo Zotac Geforce GTX 980 AMP! Omega Core Edition 4GB GDDR5 256Bit, ZT-90202-10P - BOX 
+Placa de Video Asus GeForce GTX 980 OC 4GB GDDR5 ROG Strix 256-bit, STRIX-GTX980-DC2OC-4GD5
+Placa de Video Asus GeForce GTX 970 OC 4GB GDDR5 ROG Strix 256-bit, STRIX-GTX970-DC2OC-4GD5
+Placa de Vídeo MSI Geforce GTX 970 Gaming OC 4GB GDDR5 256Bit, GTX 970 GAMING 4G - BOX 
+Placa de Video Gigabyte GeForce GTX 970 4GB GDDR5 OC Mini ITX 256-bit, GV-N970IXOC-4GD
+Placa de Video EVGA GeForce GT 210 1GB DDR3 Low Profile 64-bit, 01G-P3-1313-KR
+Placa de Vídeo MSI Geforce GTX 970 OC 4GB GDDR5 256Bit, GTX 970 4GD5T OC - BOX 
+Placa de Video Gigabyte GeForce GTX 980 4GB GDDR5 WindForce 256-bit, GV-N980WF3OC-4GD
+Placa de Video PNY Quadro K620 2GB GDDR3 128-bit, VCQK620-PB
+Placa de Video EVGA GeForce GTX 980 4GB GDDR5 256-bit, 04G-P4-2981-KR
+Placa de Video EVGA GeForce GTX 980 4GB GDDR5 SC 256-bit, 04G-P4-2983-KR
+Placa de Video Zotac GeForce GTX 980 4GB GDDR5 AMP! 256-bit, ZT-90204-10P
+Placa de Video EVGA GeForce 9800 GT 1GB DDR3 256-bit, 01G-P3-N988-L1
+Placa de Video EVGA GeForce GTX 970 4GB GDDR5 FTW 256-bit, 04G-P4-2978-KR
+Placa de Video Gigabyte GeForce GTX 970 4GB GDDR5 OC WindForce 256-bit, GV-N970WF3OC-4GD
+Placa de Video EVGA GeForce GTX 970 4GB GDDR5 SC 256-bit, 04G-P4-2974-KR
+Placa de Vídeo Zotac Geforce GTX 970 AMP! Omega Core Edition 4GB GDDR5 256Bit, ZT-90102-10P - BOX 
+Placa de Video Zotac GeForce GT 740 1GB GDDR5 Low Profile 128-bit, ZT-71003-10L
+Placa de Vídeo EVGA Geforce GTX 970 ACX 2.0 4GB GDDR5 256Bit, 04G-P4-2972-KR - BOX 
+Placa de Vídeo MSI Geforce GTX 980 Gaming 4GB GDDR5 256Bit, GTX 980 GAMING 4G - BOX 
+Placa de Vídeo Gigabyte Geforce GTX 980 G1 Gaming 4GB GDDR5 256Bit, GV-N980G1 GAMING-4GD - BOX 
+Placa de Video Asus GeForce GTX 750 Ti 2GB GDDR5 128-bit, GTX750TI-PH-2GD5
+Placa de Video Zotac GeForce GTX 750 Ti 2GB GDDR5 128-bit, ZT-70605-10M
+Placa de Video EVGA GeForce GTX 970 4GB GDDR5 256-bit, 04G-P4-1970-KT
+Placa de Video EVGA GeForce GTX 970 4GB GDDR5 SC 256-bit, 04G-P4-1972-KT
+Placa de Video PNY GeForce GTX 970 4GB GDDR5 XLR8 256-bit, VCGGTX9704XPB
+Placa de Video Zotac GeForce GTX 970 4GB GDDR5 256-bit, ZT-90101-10P
+Placa de Video Gigabyte GeForce GTX 970 4GB GDDR5 G1 Gaming 256-bit, GV-N970G1 GAMING-4GD
+Placa de Vídeo EVGA Geforce GTX 980 SC 4GB GDDR5 256Bit, 04G-P4-2982-KR - BOX 
+Placa de Vídeo EVGA Geforce GTX 980 4GB GDDR5 256Bit, 04G-P4-2980-KR - BOX 
+Placa de Video XFX Radeon R7 250 1GB DDR5 Low Profile 128-bit, R7-250A-ZLF4
+Placa de Video XFX Radeon R7 250 2GB DDR3 Low Profile 128-bit, R7-250A-CLF4
+Placa de Video Asus GeForce GTX 750 Ti OC 2GB GDDR5 128-bit, GTX750TI-OC-2GD5
+Placa de Video Zotac GeForce GTX 750 Ti 1GB GDDR5 128-bit, ZT-70603-10M
+Placa de Video Gigabyte GeForce GT 210 1GB DDR3 Low Profile 64-bit GDDR3, GV-N210D3-1GI
+Placa de Video EVGA GeForce GTX 750 Ti 2GB GDDR5 128-bit, 02G-P4-3755-KR
+Placa de Video PNY Quadro K600 1GB GDDR3 128-bit, VCQK600-PB
+Placa de Video EVGA GeForce GT 610 2GB DDR3 Low Profile 64-bit, 02G-P3-2619-KR
+Placa de Vídeo MSI GeForce GTX 750 Ti OC Gaming 2GB 128Bits, N750TI TF 2GD5/OC - BOX 
+Placa de Video PNY GeForce GTX 750 Ti 2GB GDDR5 OC XLR8 128-bit, VCGGTX750T2XPB-OC-PORT
+Placa de Video PNY GeForce GTX 750 Ti 2GB GDDR5 128-bit, VCGGTX750T2XPB
+Placa de Video EVGA GeForce GTX 750 Ti 2GB GDDR5 SC 128-bit, 02G-P4-3753-KR
+Placa de Video Sapphire Firepro V3900 1GB DDR3, 31004-26-40R/41R/40A
+Placa de Video EVGA GeForce GTX 750 Ti 2GB GDDR5 128-bit, 02G-P4-3751-KR
+Placa de Video EVGA GeForce GTX 750 1GB GDDR5 128-bit, 01G-P4-2751-KR
+Placa de Video Gigabyte GeForce GT 640 1GB GDDR5 Low Profile 64-bit, GV-N640D5-1GL
+Placa de Video EVGA GeForce GTX 750 Ti 2GB GDDR5 FTW ACX 128-bit, 02G-P4-3757-KR
+Placa de Video EVGA GeForce GT 210 1GB DDR3 64-bit, 01G-P3-1312-LR

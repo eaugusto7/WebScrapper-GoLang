@@ -11,8 +11,8 @@ import (
 	"github.com/gocolly/colly/v2"
 )
 
-func CreateFile(texto, nameFileCards string) {
-	file, err := os.OpenFile(nameFileCards, os.O_APPEND|os.O_CREATE|os.O_WRONLY, 0644)
+func CreateFile(texto, nameFile string) {
+	file, err := os.OpenFile(nameFile, os.O_APPEND|os.O_CREATE|os.O_WRONLY, 0644)
 	if err != nil {
 		log.Fatal(err)
 	}
@@ -86,18 +86,16 @@ func getAllCards(nameFileCards, priceFileCards, linkFileCards string, interator 
 	})
 
 	collector.OnHTML("a[href]", func(e *colly.HTMLElement) {
-		if e.Attr("class") == "jss16" && e.Attr("data-cy") == "list-product" {
+		if strings.Contains(e.Attr("href"), "/placa-de-video") {
 			CreateFile("https://www.pichau.com.br"+e.Attr("href")+"\n", linkFileCards)
 		}
 	})
 
 	collector.Visit("https://www.pichau.com.br/hardware/placa-de-video?page=" + strconv.Itoa(interator))
-
 	return interator + 1
 }
 
 func main() {
-
 	nameFileCards := "namefileCards.txt"
 	priceFileCards := "pricefileCards.txt"
 	linkFileCards := "linkfileCards.txt"
@@ -128,9 +126,7 @@ func main() {
 		}
 	}
 
-	for interator < 10 {
+	for interator < 50 {
 		interator = getAllCards(nameFileCards, priceFileCards, linkFileCards, interator)
 	}
-
-	//ReadFile(nameFileCards, priceFileCards)
 }
